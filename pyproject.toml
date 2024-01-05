@@ -1,0 +1,28 @@
+[tool.poetry]
+name = "tera"
+version = "0.1.0"
+description = ""
+authors = ["Maykon Carvalho <maykon.carvalho@grupomateus.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+django = "^5.0.1"
+prettyconf = "^2.2.1"
+gunicorn = "^21.2.0"
+gevent = "^23.9.1"
+django-storages = "^1.14.2"
+django-resized = "^1.0.2"
+requests = "^2.31.0"
+dj-database-url = "^2.1.0"
+psycopg2 = "^2.9.9"
+boto3 = "^1.34.13"
+django-localflavor = "^4.0"
+django-admin-autocomplete-filter = "^0.7.1"
+pillow = "^10.2.0"
+python-dateutil = "^2.8.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
