@@ -1,5 +1,5 @@
 ####
-FROM python:3.11-alpine
+FROM python:3.12-alpine
 
 ENV PYTHONDONTWRITEBYTECODE 1
 ENV PYTHONUNBUFFERED 1
@@ -26,7 +26,7 @@ COPY . /code
 
 RUN pip install poetry
 RUN poetry config virtualenvs.in-project true
-RUN poetry install --no-dev
+RUN poetry install 
 EXPOSE 80 
 
 
