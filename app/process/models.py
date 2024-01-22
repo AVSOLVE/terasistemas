@@ -3,6 +3,25 @@ from django.db import models
 from app.core.models import BaseModel
 
 
+def formatar_valor_monetario(valor):
+    # Converte o valor para string
+    valor_str = str(valor)
+
+    # Separa a parte inteira da parte decimal
+    parte_inteira, parte_decimal = valor_str.split(".")
+
+    # Adiciona pontos para separar milhares na parte inteira
+    parte_inteira_formatada = "{:,}".format(int(parte_inteira)).replace(",", ".")
+
+    # Adiciona zeros à parte decimal, se necessário
+    parte_decimal_formatada = parte_decimal.ljust(2, "0")
+
+    # Formata o valor completo
+    valor_formatado = f"R$ {parte_inteira_formatada},{parte_decimal_formatada}"
+
+    return valor_formatado
+
+
 # Create your models here.
 class Bank(BaseModel):
     name = models.CharField(verbose_name="Nome", max_length=300)
@@ -176,3 +195,13 @@ class Process(BaseModel):
 
     def __str__(self):
         return f"{self.client}"
+
+    def save(self, *args, **kwargs):
+        self.client_status = self.client_status.capitalize().strip()
+        super(Process, self).save(*args, **kwargs)
+
+    @property
+    def available_credit_f(self):
+        if not self.available_credit:
+            return None
+        return formatar_valor_monetario(self.available_credit)

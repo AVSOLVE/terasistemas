@@ -74,7 +74,7 @@ class defaultAdmin(admin.ModelAdmin):
         "client_status",
         "bank",
         "branch",
-        "available_credit",
+        "available_credit_f",
         "planner",
     )
     raw_id_fields = ("client",)
