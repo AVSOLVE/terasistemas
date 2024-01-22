@@ -197,7 +197,7 @@ class Process(BaseModel):
         return f"{self.client}"
 
     def save(self, *args, **kwargs):
-        self.client_status = self.client_status.capitalize().strip()
+        self.client_status = self.client_status.strip().capitalize()
         super(Process, self).save(*args, **kwargs)
 
     @property
