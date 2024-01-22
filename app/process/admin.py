@@ -69,8 +69,21 @@ class DefaultAdmin(admin.ModelAdmin):
 
 @admin.register(Process)
 class defaultAdmin(admin.ModelAdmin):
-    list_display = ("client", "bank", "branch", "available_credit", "planner")
+    list_display = (
+        "client",
+        "client_status",
+        "bank",
+        "branch",
+        "available_credit",
+        "planner",
+    )
     raw_id_fields = ("client",)
     search_fields = ("client__name",)
-    list_filter = ("bank", "credit_analyst", "created_at", "updated_at")
+    list_filter = (
+        "client_status",
+        "bank",
+        "credit_analyst",
+        "created_at",
+        "updated_at",
+    )
     date_hierarchy = "created_at"

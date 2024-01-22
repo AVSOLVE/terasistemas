@@ -150,7 +150,7 @@ class Process(BaseModel):
     client_status = models.CharField(
         verbose_name="Status",
         max_length=300,
-        choices=Status.choices,
+        # choices=Status.choices,
         blank=True,
         null=True,
     )
