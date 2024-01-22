@@ -1,0 +1,881 @@
+﻿BANCO;AGENCIA;ANALISTA;LIMITE;PROJETISTA;GERENTE;NOME;ATIVIDADE;LOCAL_AREA; VALOR_LIBERADO ;LINHA;STATUS;RETORNO;RISCO;DETALHES;DATA;VENCIMENTO;GARANTIA; INFOEXTRA 
+CAIXA;PSO;Julia;Geslaine;Kaique;Thiago;ABDALA INACIO FERREIRA NETO;PECUÁRIA ;; R$ 468.900,00 ;Investimento; OPERAÇÃO CONCLUÍDA ;1º Parcela 19/09/2024;CAIXA;Aprovado Custeio R$ 9,5MM | Invest Parcela R$ 165.172,32;SET;19/09/2028;Hip 2º grau - Faz Ama -  M:2110;
+CAIXA;PSO;Julia;Geslaine;Kaique;Thiago;ABDALA INACIO FERREIRA NETO;PECUÁRIA ;; R$ 2.098.500,00 ;Custeio Pecuário; OPERAÇÃO CONCLUÍDA ;;CAIXA;Aprovado Custeio R$ 31MM | Invest Parcela R$ 4,2MM Parcela;OUT;04/10/2025;Hip 3º grau - Faz Ama -  M:2110;
+CAIXA;PSO;Julia;Geslaine;Kaique;Thiago;ABDALA INACIO FERREIRA NETO;PECUÁRIA ;; R$ 1.037.088,00 ;Custeio Pecuário; OPERAÇÃO CONCLUÍDA ;RECORDE - 2 DIAS P LIBERAÇÃO;CAIXA;Aprovado Custeio R$ 9,5MM | Invest Parcela R$ 165.172,32;FEV;22/02/2025;Hip 1º grau - Faz Ama -  M:2110;
+CAIXA;PSO;Julia;Geslaine;Eloisa;Thiago;ABDALA INACIO FERREIRA NETO;PECUÁRIA ;; R$ 4.662.900,00 ;Investimento; OPERAÇÃO CONCLUÍDA ;1º Parcela 13/10/2025;CAIXA;Aprovado Custeio R$ 31MM | Invest Parcela R$ 4,2MM Parcela;OUT;13/10/2033;Hip 4º grau - Faz Ama -  M:2110;
+SICREDI;PSO;Julia;Geslaine;Kaique;Dijelaine;ABDALA INACIO FERREIRA NETO;PECUÁRIA ;; R$ 1.000.000,00 ;Custeio Pecuário; OPERAÇÃO CONCLUÍDA ;;Feito 03/11;Aprovado CPR R$1MM | Garantia real;FEV;02/02/2025;Alienação guarda chuva M: 632, 634, 1.551; Minuta (Alienação) 
+SICREDI;PSO;Julia;Geslaine;;Dijelaine;ABDALA INACIO FERREIRA NETO;PECUÁRIA ;; R$ 238.000,00 ;Energia Solar; OPERAÇÃO CONCLUÍDA ;1º Parcela 09/06/2023 (Parcelas mensais);Feito 03/11;Aprovado CPR R$1MM | Garantia real;Mês;09/05/2028;; Parcelas mensais 
+SICREDI;PSO;Julia;Geslaine;Eloisa;Dijelaine;ABDALA INACIO FERREIRA NETO;PECUÁRIA ;; R$ 706.006,99 ;CPR; OPERAÇÃO CONCLUÍDA ;1º Parcela 03/06/2024;Feito 03/11;;JUN;03/06/2028;Alienação guarda chuva M: 632, 634, 1.551;
+SICREDI;PSO;Julia;Geslaine;Eloisa;Dijelaine;ABDALA INACIO FERREIRA NETO;PECUÁRIA ;; R$ 465.828,16 ;CPR Máq; OPERAÇÃO CONCLUÍDA ;1º Parcela 05/10/2024;Feito 03/11;;OUT;05/10/2028;Alienação guarda chuva M: 632, 634, 1.552;
+CAIXA;PSO;Julia;Geslaine;Eloisa;Thiago;ABDALA INACIO FERREIRA NETO;PECUÁRIA ;; R$ 2.050.628,00 ;Invest. Máq;PROCESSO NO BANCO;Enviado 20/12;CAIXA;Aprovado Custeio R$ 31MM | Invest Parcela R$ 4,2MM Parcela;18-Dec;;;
+CAIXA;PSO;Julia;Geslaine;Eloisa;Thiago;ABDALA INACIO FERREIRA NETO;PECUÁRIA ;; R$ 4.000.000,00 ;Custeio Pecuário;FAZER PROJETO;;CAIXA;Aprovado Custeio R$ 31MM | Invest Parcela R$ 4,2MM Parcela;18-Dec;;;
+SICREDI;PSO;Julia;;;Dijelaine;ABSAIR INACIO FERREIRA NETO;PECUÁRIA ;;;Ind. Elyssama;CONSULTAR CPF;Restritivo;Feito 03/11;Limite enviado 10/11;29-Nov;;;
+SICREDI;PSO;;;;Romulo;ADAILTON DOS SANTOS COSTA ;PECUÁRIA ;;; Devendo Sicredi ; PROCESSO PARADO ;Cliente com a ficha do gado - desativada;; Aprovado R$140.000 custeio| R$100.000 invest ;18-Mar;;;
+SICREDI;PSO;;;;Jose Ailton;ADEIR MOREIRA DA COSTA (Mariana);PECUÁRIA ;;;Ind. Elyssama;INATIVO;Encerrou conta no sicredi;;Limite enviado 06/02;27-Dec;;;
+SICREDI;PSO;;;;Romulo;ADELMAN JOSE RODRIGUES MOTA;PECUÁRIA ;;;Ind Romulo;INATIVO;Sem doc da área, cliente desisteiu da op. Agro;;;20-Jun;;;
+CAIXA;Gurupí;;;;Josué;ADILSON ANDRADE DE ALMEIDA;AGRÍCOLA;;;Ind. Gilberto ;DESISTIU;Doc Imóvel + IR ;CAIXA;;20-Sep;;;
+SICREDI;PSO;;;;Jose Ailton;ADILSON BARBOSA SILVA (Pai Bruno);PECUÁRIA ;;;;ATUALIZADO ;Inadimplente;Enviado 10/03;Limite enviado 10/03;27-Dec;;;
+SICREDI;Colinas;;;;Carlos;ADILSON FRANCISCO BORGES;PECUÁRIA ;; R$ 140.000,00 ; Custeio Pecuário ; OPERAÇÃO CONCLUÍDA ;;;;;;;
+CAIXA;PSO;;;;SEM GN;ADILSON ZANETTI;PECUÁRIA ;;;; INATIVO ;Possui pasta física ;Revenda;;29-Jun;;;
+SICREDI;PSO;Thais;Wendell;;Romulo;ADRIANA CRISTINA DE AGUIAR LEAL;AVICULTURA;;;;CRÉDITO APROVADO;;Feito 20/06;Aprovado Energia Solar R$ 300.000 | Invest R$ 50.000;19-Jul;;;
+CAIXA;;;;;;ADRIANO ALMIRANTE NUNES (Eliandro - Pará);AGRÍCOLA;;;;INATIVO;Médio 2- Sicredi | F - Caixa;;;26-Jun;;;
+SICREDI;PSO;;Geslaine;;Romulo;ADRIANO RIBEIRO DA SILVA;PECUÁRIA ;;;;ATUALIZADO ;;Feito 25/02;Aprovado custeio R$ 100.000 |Invest R$ 70.000 garantia real;20-Oct;;;Cliente renegociou
+CAIXA;Palmas;;Eloisa;;Jovane;AGENOR SILVANI;AGRÍCOLA;; R$ 2.271.965,75 ;Custeio TO; OPERAÇÃO CONCLUÍDA ;;CAIXA;;MAI;23/05/2024;Hip 3º grau - Faz Registro-M: 16335;
+CAIXA;Palmas;;Eloisa;;Jovane;AGENOR SILVANI;AGRÍCOLA;; R$ 3.619.344,25 ;Custeio MG; OPERAÇÃO CONCLUÍDA ;;CAIXA;;FEV;25/02/2024;Hip 2º grau - Faz Registro-M: 16335;
+CAIXA;Palmas;;Eloisa;;Jovane;AGENOR SILVANI;AGRÍCOLA;; R$ 5.329.500,00 ;Investimento; OPERAÇÃO CONCLUÍDA ;1º Parcela 01/02/2025;CAIXA;;FEV;01/02/2033;Hip 1º grau - Faz Registro -M: 16335;
+CAIXA;Palmas;;Eloisa;Eloisa;Jovane;AGENOR SILVANI;AGRÍCOLA;; R$ 2.748.296,00 ;Custeio TO; OPERAÇÃO CONCLUÍDA ;;CAIXA;;ABR;25/04/2024;Hip 4º grau - Faz Registro -M: 16335;
+SICREDI;PSO;;Eloisa;;Romulo;AGENOR SILVANI;AGRÍCOLA;;;;CRÉDITO APROVADO;GARANTIA EM AVALIAÇÃO;;Aprovado Moeda R$ 1MM | Invest R$ 1MM;18-May;;;
+SICREDI;Roda Velha;;;;Daniel ;AGROPECUÁRIA GRATT;AGRÍCOLA;;;; INATIVO ;;; Aprovado invest R$ 2.650.000,00 ;30-Jun;;;
+BB;LEM;;;;Luzinete |Marlon;AILTON MATOS DE CARVALHO;PECUÁRIA ;; R$ 120.000,00 ; Custeio Pecuário ; OPERAÇÃO CONCLUÍDA ;;BB;;24-Nov;;;
+SICREDI;Roda Velha;;;;Daniel ;AILTON MATOS DE CARVALHO;PECUÁRIA ;;;;ATUALIZADO ;GN marcar visita para subir a P.O;GN ; Limite enviado 26/08 ;26-Jun;;;
+SICREDI;PSO;;Geslaine;Geslaine;Romulo;ALCYR CINTRA SILVA;PECUÁRIA ;;;;FAZER PROJETO;;Feito 01/06;Aprovado custeio R$400.000 | Invest R$250.000 Alienação Imóvel ;20-Dec;;;
+SICREDI;PSO;;;;Romulo;ALDEIR FREITAS DE OLIVEIRA ;AGRÍCOLA;;;; INATIVO ;Cliente sem interesse em fazer limite;; Nada consta, cultura abacaxí ;16-Jun;;;
+SICREDI;PSO;;;;Romulo;ALDENOURA PEREIRA DOS SANTOS (Herbas | Vangivaldo);PECUÁRIA ;; R$ 230.000,00 ; Invest. 5 anos  ; OPERAÇÃO CONCLUÍDA ;Trocou de projetista;;;NOV;22/11/2022;Hipoteca: Faz. H3;
+SICREDI;PSO;;;;Romulo;ALDENOURA PEREIRA DOS SANTOS (Herbas | Vangivaldo);PECUÁRIA ;; R$ 250.000,00 ; Custeio Pecuário ; OPERAÇÃO CONCLUÍDA ;;;;JUN;23/06/2022;Hipoteca: Faz. H3;
+SICREDI;PSO;;;;Romulo;ALDENOURA PEREIRA DOS SANTOS (Herbas | Vangivaldo);PECUÁRIA ;;;Baixo 2;INATIVO;Trocou de projetista;Enviado 21/12; Limite enviado 26/05 | Reenviado 14/07;06-Oct;;;
+SICREDI;PSO;;;;Romulo;ALDO MARQUES DE JESUS (Esposa Romana);PECUÁRIA ;; R$ 300.000,00 ;Custeio Pecuário; OPERAÇÃO CONCLUÍDA ;;Enviado 03/08;Aprovado custeio R$300.000 penhor | invest R$ 150.000;AGO;01/08/2023;Penhor;
+SICREDI;PSO;;;;Romulo;ALDO MARQUES DE JESUS (Esposa Romana);PECUÁRIA ;;;;ATUALIZADO ;;Enviado 03/08;Limite enviado 21/03;20-Oct;;;
+CAIXA;Palmas;;;;Jovane;ALEX RODRIGUES MARTINS;AGR/PEC;;;;FALTA DOC;Atualizar o CAR | Areas: Beneficiada MA e garantia To | CARTA DE ANUENCIA;CAIXA;Limite enviado 13/05 |Reenviado 27/05;06-Dec;;;
+SICREDI;PSO;;;;Romulo;ALEX RODRIGUES MARTINS;AGR/PEC;; R$ 164.000,00 ;Custeio Pecuário; OPERAÇÃO CONCLUÍDA ;;;;AGO;16/08/2022;Penhor;
+SICREDI;PSO;;;;Romulo;ALEX RODRIGUES MARTINS;AGR/PEC;;;;CONSULTAR CPF;Limite total devido o laudo 164k (Laudo antigo) |Alto 2;Enviado 16/12;Aprovação Custeio R$ 480.000 | Invest R$ 250.000 Garantia Hip/ Maq;05-Jan;;;
+CAIXA;Palmas;;;;Jovane;ALEXANDRE DE ASSIS ARÃO;PECUÁRIA ;;;Irmão Emivaldo;CRÉDITO APROVADO;Cliente sem interesse - taxa;CAIXA;Aprovado Custeio R$ 733.000| Invest parcela R$ 16.760;20-Oct;;;
+SICREDI;Colinas;;;;Carlos;ALEXANDRE FERREIRA DE OLIVEIRA;PECUÁRIA ;;;;PROCESSO PARADO;Falta FICHA + Resid + ITR + CCIR + CAR;;Sem interesse 10/05;10-May;;;
+SICREDI;PSO;;;Eloisa;Dijelaine;ALEXANDRE FERREIRA LUIZ;PECUÁRIA ;; R$ 200.000,00 ;FNO Animais ;OPERAÇÃO CONCLUÍDA;1º Parcela 10/05/2027;Enviado 09/03;Limite enviado 09/03;ABR;10/04/2029;Hip 3º Grau - MAT. 4.616 - FAZ. DIAMANTE;
+SICREDI;PSO;;;Kaique;Dijelaine;ALEXANDRE FERREIRA LUIZ;PECUÁRIA ;; R$ 200.000,00 ;FNO Cerca;OPERAÇÃO CONCLUÍDA;1º Parcela 10/04/2027;Enviado 09/03;Limite enviado 09/03;ABR;10/04/2030;Hip 2º Grau - MAT. 4.616 - FAZ. DIAMANTE;
+SICREDI;PSO;;;Kaique;Dijelaine;ALEXANDRE FERREIRA LUIZ;PECUÁRIA ;; R$ 50.730,00 ;FNO Sede;OPERAÇÃO CONCLUÍDA;1º Parcela 10/05/2027;Enviado 09/03;Limite enviado 09/03;ABR;10/05/2029;Hip 4º Grau - MAT. 4.616 - FAZ. DIAMANTE;
+SICREDI;PSO;;Geslaine;Wendell;Jose Ailton;ALEXANDRE FERREIRA LUIZ;PECUÁRIA ;;;;CRÉDITO APROVADO;;Enviado 09/03;Aprovado Custeio R$ 300k | Invest R$ 580k - garant. Real;20-Nov;;;
+SICREDI;PSO;;;;Dijelaine;ALEXANDRE SCHERER;AGRÍCOLA;;;;FALTA DOC;;;;06-Dec;;;
+CAIXA;PSO;Thais;Geslaine;Pedro;Thiago;ALEXANDRE TEODORO DE RESENDE (Ind Danilo Scandolo);PECUÁRIA ;; R$ 247.500,00 ;Investimento; OPERAÇÃO CONCLUÍDA ;1º Parcela 25/10/2025;Feito 14/06;Aprovado Custeio R$ 2MM | Invest R$ 108k Parcela;OUT;25/10/2033;Hip. 2º grau - Faz São Pedro - M: 2770;
+CAIXA;PSO;Thais;Geslaine;Pedro;Thiago;ALEXANDRE TEODORO DE RESENDE (Ind Danilo Scandolo);PECUÁRIA ;; R$ 1.137.386,99 ;Custeio Pecuário; OPERAÇÃO CONCLUÍDA ;;Feito 14/06;Aprovado Custeio R$ 2MM | Invest R$ 108k Parcela;NOV;21/09/2025;Hip. 1º grau - Faz São Pedro - M: 2770;
+CAIXA;PSO;Thais;Geslaine;Pedro;Thiago;ALEXANDRE TEODORO DE RESENDE (Ind Danilo Scandolo);PECUÁRIA ;; R$ 1.500.000,00 ;Investimento; OPERAÇÃO CONCLUÍDA ;1º Parcela 04/12/2025;Feito 14/06;Aprovado Custeio R$ 3,4MM | Invest R$ 406k Parcela;DEZ;04/12/2033;Hip. 3º grau - Faz São Pedro - M: 2770;
+SICREDI;PSO;Thais;Geslaine;;Romulo;ALEXANDRE TEODORO DE RESENDE (Ind Danilo Scandolo);PECUÁRIA ;; R$ 500.000,00 ;Custeio Pecuário; OPERAÇÃO CONCLUÍDA ;;Feito 14/06;Aprovado Custeio R$ 400k | Invest R$ 250k | Final. Livre R$ 250k - Garant Alienação;NOV;23/11/2025;Hip. 1º grau - Faz Água Boa - M: 1458;
+SICREDI;PSO;;;;Romulo;ALLAN POVOA;PECUÁRIA ;;;IND Felipe;PROCESSO PARADO;Sem interesse;;;21-Mar;;;
+SICREDI;PSO;;;Eloisa;Romulo;ALONSO GOMES FERREIRA (Filho Gedean);PECUÁRIA ;; R$ 200.000,00 ; FNO Máq ; OPERAÇÃO CONCLUÍDA ;1º Parcela 10/05/2025;Enviado 13/01; Aprovado Custeio R$ 400.000 | Invest R$ 300.000 Garantia Hip. ;ABR;10/05/29;Penhor Drone;
+CAIXA;PSO;;;Eloisa;Thiago;ALVARO AMORIM BASTOS (Esposa Beatriz Teles);PECUÁRIA ;; R$ 6.009.960,00 ;Investimento;PROCESSO NO BANCO;Aprovado Custeio R$ 41,4MM | Invest R$ 7,3MM Parcela ;CAIXA;;18-Dec;;;
+SICREDI;PSO;;;;Dijelaine;ALVARO AMORIM BASTOS (Esposa Beatriz Teles);AGRÍCOLA;;;; FALTA DOC ;;Enviado 11/11;;04-May;;;
+SICREDI;PSO;;;;Romulo;ALVARO MOREIRA MILHOMEM FILHO;PECUÁRIA ;; R$ 500.000,00 ;Custeio Pecuário; OPERAÇÃO CONCLUÍDA ;PROTEC AGRO 16/12 | Minuta ;Enviado 26/08;Aprovado Custeio R$ 500.000 | Invest R$ 300.000 - Gar: Alienação;DEZ;23/12/2024;Alienação guarda chuva  M: 8710 - imóvel urbano; Minuta (Alienação) 
+SICREDI;PSO;;;Eloisa;Romulo;ALVARO MOREIRA MILHOMEM FILHO;PECUÁRIA ;; R$ 496.921,61 ;CPR;OPERAÇÃO CONCLUÍDA;;Enviado 26/08;;JUL;28/07/2025;Alienação Guarda chuva - M:8710;
+SICREDI;PSO;;;Eloisa;Romulo;ALVARO MOREIRA MILHOMEM FILHO;PECUÁRIA ;; R$ 500.000,00 ;Custeio Pecuário;OPERAÇÃO CONCLUÍDA;;Enviado 26/08;;DEZ;23/12/2024;Alienação Guarda chuva - M:8710;
+CAIXA;Palmas;;;;Jovane;AMARILDO JOSE RODRIGUES (Pai João Guilherme);AGRÍCOLA;;;;RETORNAR;Rating B;CAIXA;Aprovado Custeio R$ 6,8MM | Invest R$ 1,4 MM parcela;19-Jun;;;
+CAIXA;PSO;Thais;;Kaique;Thiago;AMAURI CESAR DO CARMO (Esposa Eliane);AGRÍCOLA;Miranorte 949ha; R$ 643.053,59 ;Custeio Agrícola; OPERAÇÃO CONCLUÍDA ;;CAIXA;Aprovado Custeio R$ 1.452.700 | Invest R$ 208.323 Garantia real;MAI;25/05/2024;Hip. 2º grau - Faz São Bento M: 4831;
+CAIXA;Gurupí;Thais;;Kaique;Josué;AMAURI CESAR DO CARMO (Esposa Eliane);AGRÍCOLA;Miranorte 949ha; R$ 1.611.000,00 ;Invest. Máq; OPERAÇÃO CONCLUÍDA ;1º Parcela 15/07/2023;CAIXA;Aprovado Custeio R$ 1.452.700 | Invest R$ 208.323 Garantia real;JUL;15/07/2030;Penhor Maquinário;
+CAIXA;PSO;Thais;;Eloisa;Thiago;AMAURI CESAR DO CARMO (Esposa Eliane);AGRÍCOLA;Miranorte 949ha; R$ 660.000,00 ;Investimento; OPERAÇÃO CONCLUÍDA ;1º Parcela 18/04/2026;CAIXA;Aprovado Custeio R$ 1.452.700 | Invest R$ 208.323 Garantia real;ABR;18/04/2028;Hip. 3º grau - Faz São Bento M: 4831;
+SICREDI;PSO;Thais;;;Romulo;AMAURI CESAR DO CARMO (Esposa Eliane);AGRÍCOLA;Miranorte 949ha; R$ 251.387,50 ;Invest. 5 anos; OPERAÇÃO CONCLUÍDA ;PROTEC AGRO 13/05;Enviado 15/09;Aprovado custeio R$ 1MM | Invest R$ 800.000 Garantia Real/Maq;07-Jun;;;
+SICREDI;PSO;Thais;;Kaique;Romulo;AMAURI CESAR DO CARMO (Esposa Eliane);AGRÍCOLA;Miranorte 949ha; R$ 237.000,29 ;CPR; OPERAÇÃO CONCLUÍDA ;1º Parcela 26/05/2024;Enviado 11/08;;MAI;26/05/2028;Penhor Máquina;
+CAIXA;PSO;;;;Fernando;AMAURILDO JOSE DE SOUZA (Filho Luan);AGRÍCOLA;;;; CRÉDITO APROVADO ;Rating A;CAIXA;Aprovado Custeio R$683.800 | Invest parcela 138.804 ;19-Jun;;;
+SICREDI;PSO;;Geslaine;;Romulo;AMAURILDO JOSE DE SOUZA (Filho Luan);AGRÍCOLA;;;;ATUALIZADO ;Falta Licença Ambiental | possui somente o protocolo | Sem garantia real | LIMITE ENVIADO 04/11;Enviado 11/08; Aprovado custeio R$ 500.000 | Invest R$ 250.000 (Garantia de imóvel) ;20-Oct;;;
+SICREDI;PSO;;;;Dijelaine;AMIR COELHO MENDES (Filho Anilton e Amilton);PECUÁRIA ;;;Ind. Felipe;CONSULTAR CPF;;;Limite enviado 24/01;24-Jan;;;
+BB;PARANÁ;;;;SEM GN;ANA EMILIA CRISPIM SANDOVAL;AGRÍCOLA;; R$ 1.271.475,37 ; Custeio Agrícola ; OPERAÇÃO CONCLUÍDA ;;BB;;09-Jul;;;
+SICREDI;PSO;Julia;;Kaique;Dijelaine;ANDRE CAPARROZ ZAGOMEL ;AGRÍCOLA;; R$ 1.300.002,48 ;CPR - Custeio;OPERAÇÃO CONCLUÍDA;;;Limite enviado 08/05;JUL;12/07/2024;Alienação Guarda chuva - M: 3920;Acordado 1% custeio| 0,5% CPR| 1,5% Invest
+SICREDI;PSO;Julia;;Wendell;Dijelaine;ANDRE CAPARROZ ZAGOMEL ;AGRÍCOLA;; R$ 200.000,00 ; FNO Pré Moldado ;OPERAÇÃO CONCLUÍDA;1º Parcela 10/08/2026;;Limite enviado 08/05;AGO;10/08/2029;Hip. 2º grau - Faz Zagomel   M: 3920;Acordado 1% custeio| 0,5% CPR| 1,5% Invest
+CAIXA;Gurupí;Geslaine;;;Josué;ANDRE DONGENSK;AGRÍCOLA;; R$ 768.829,50 ;Custeio Agrícola; OPERAÇÃO CONCLUÍDA ;;Rating C;Aprovado Custeio R$1,5M | Invest R$ 1,1M ;ABR;14/04/23;Hipoteca M:1608;
+SICREDI;PSO;Geslaine;;;Dijelaine;ANDRE DONGENSK;AGRÍCOLA;; R$ 500.000,00 ;Invest. 5 anos; OPERAÇÃO CONCLUÍDA ;1º parcela 06/03/2023;Enviado 18/08;Renovação R$312.000 CPR penhor | Custeio R$500.000 Hip.;MAR;06/03/2027;Penhor Maquinário;
+SICREDI;PSO;Geslaine;;;Dijelaine;ANDRE DONGENSK;AGRÍCOLA;; R$ 300.000,00 ;Custeio Agrícola; OPERAÇÃO CONCLUÍDA ;PAGO;Enviado 18/08;Renovação R$312.000 CPR penhor | Custeio R$500.000 Hip.;SET;27/09/2022;Penhor;
+SICREDI;PSO;Geslaine;;Eloisa;Dijelaine;ANDRE DONGENSK;AGRÍCOLA;; R$ 189.000,00 ;FNO Máq; OPERAÇÃO CONCLUÍDA ;1º parcela 10/06/2027;Enviado 18/08;;JUN;10/06/2030;Penhor Maquinário;
+SICREDI;PSO;;Paulo;Wendell;Romulo;ANDRE LUIZ DA COSTA;PECUÁRIA ;; R$ 325.000,00 ;Custeio Pecuário;OPERAÇÃO CONCLUÍDA;;;Aprovado Custeio R$ 700.000 | CPR R$ 400.000| Invest R$ 400.000  - Alien. Guarda chuva;NOV;06/11/2025;Alienação M:123 - Chácara Belo Horizonte;
+SICREDI;PSO;;Paulo;Wendell;Romulo;ANDRE LUIZ DA COSTA;PECUÁRIA ;; R$ 200.000,00 ;FNO Animais;PROCESSO NO BANCO;PROTEC AGRO 20/10;;Aprovado Custeio R$ 700.000 | CPR R$ 400.000| Invest R$ 400.000  - Alien. Guarda chuva;20-Oct;;Penhor ;
+SICREDI;PSO;;;;Romulo;ANDREA ALEXSANDRA BARAO FACHINE;PECUÁRIA ;;; Rating B ; INATIVO ;Estão analizando novo projeto, caso interesse irão entrar em contato;; Pisicultura -  sem documentação ;20-Jan;;;
+SICREDI;PSO;;Geslaine;;Jose Ailton;ANILTON COELHO MENDES (Pai Amir);PECUÁRIA ;Araguacema | 642ha;;;ATUALIZADO ;Área embargada;;Limite enviado 17/04;27-Dec;;;
+SICREDI;PSO;;;;Romulo;ANTONIA PINTO DA CUNHA;PECUÁRIA ;; R$ 400.000,00 ; Invest. BNDES ; PROCESSO PARADO ;PROTEC AGRO 12/11;Enviado 12/11;Limite enviado 20/07;26-Jul;;;
+SICREDI;PSO;;;;Romulo;ANTONIA PINTO DA CUNHA;PECUÁRIA ;; R$ 200.000,00 ; Custeio Pecuário ; OPERAÇÃO CONCLUÍDA ;;; Aprovado Custeio R$ 600.000 | R$400.000 invest  ;OUT;18/10/2022;Hipoteca: Faz. Bom Sossego;
+BASA;PSO;;;;Denise;ANTONIO CARLOS BERNADINHO;PECUÁRIA ;; R$ 210.000,00 ;; OPERAÇÃO CONCLUÍDA ;;BASA;;;;;
+SICREDI;PSO;;;;Romulo;ANTONIO CARLOS LACERDA CABRAL;NADA CONSTA;;;; INATIVO ;Sem boas refências;;;07-Jan;;;
+CAIXA;Palmas;;Paulo;;Jovane;ANTONIO CARLOS MUSIAL WISNIEWSKI;AGR/PEC;;;Rating A;CRÉDITO APROVADO;;CAIXA;Aprovado Custeio Soja R$2,9MM | Custeio Milho R$ 2MM | Invest R$ 1,2 Parcela;14-Apr;;;
+SICREDI;Tocantinópolis;;;;Jordana;ANTONIO DA CONCEIÇÃO (Pai Karine);PECUÁRIA ;; R$ 91.224,87 ;Custeio CPR; OPERAÇÃO CONCLUÍDA ;1º Parcela ;GN;;NOV;03/11/2024;Penhor; VÍDEO ESCRITÓRIO ENVIADO 
+CAIXA;Palmas;;;;Jovane;ANTONIO DIVINO CABRAL ;PECUÁRIA ;;;Ind Marcus /Simone;PROSPECT;Sicredi Médio 1;;;23-Mar;;;
+SICREDI;PSO;;;;Jose Ailton;ANTONIO FIRMINO DE FREITAS;PECUÁRIA ;;;Alto 1;ATUALIZADO ;Sem garantia;;Limite enviado 09/03;27-Dec;;;
+SICREDI;Tocantinópolis;Geslaine;Paulo;Wendell;Jordana;ANTONIO OLIVIERA ALENCAR NETO (NETO);PECUÁRIA ;; R$ 200.000,00 ;Custeio Pecuário;OPERAÇÃO CONCLUÍDA;;GN;Limite enviado 24/05;NOV;09/09/2025;Alienação M: 4033; Minuta Alienação 
+SICREDI;Tocantinópolis;Geslaine;Paulo;Wendell;Jordana;ANTONIO OLIVIERA ALENCAR NETO (NETO);PECUÁRIA ;; R$ 198.990,00 ;FNO Caminhonete;OPERAÇÃO CONCLUÍDA;1º Parcela 10/10/2025;GN;Limite enviado 24/05;OUT;10/10/2028;Penhor caminhonete;
+SICREDI;Tocantinópolis;Geslaine;Paulo;Wendell;Jordana;ANTONIO OLIVIERA ALENCAR NETO (NETO);PECUÁRIA ;; R$ 276.439,00 ;CPR;OPERAÇÃO CONCLUÍDA;1º Parcela 19/08/2025;GN;Limite enviado 24/05;AGO;19/08/2027;Alienação M: 4033; Minuta Alienação 
+SICREDI;PSO;;;;Romulo;ARIEL ALVES PARENTE ;PECUÁRIA ;;;;CRÉDITO APROVADO;Garantia (carro fiat Toro);Enviado 11/11;Aprovado Custeio R$ 200.000| Garantia Real ;20-Oct;;;
+SICREDI;Colinas;;;;Carlos;ARLINDO CASIMIRO;PECUÁRIA ;;;;PROCESSO PARADO;Sem movimentação no extrato da ficha ;;;04-Jan;;;
+SICREDI;PSO;;;;Romulo;ARLINDO NOGUEIRA DE OLIVEIRA;PECUÁRIA ;;;;ATUALIZADO ;;Enviado 11/08; Limite enviado 04/08 ;04-Aug;;; Alienação 
+SICREDI;PSO;;;;Romulo;ARLINDO NOGUEIRA DE OLIVEIRA;PECUÁRIA ;; R$ 100.000,00 ;Invest. 5 anos; OPERAÇÃO CONCLUÍDA ;1º parcela 16/03/2023;Enviado 11/08; Aprovado custeio R$270.000 | Invest R$100.000 Tudo com garantia Real ;MAR;16/03/26;Alienação M: 95781;
+SICREDI;PSO;;;;Romulo;ARLINDO NOGUEIRA DE OLIVEIRA;PECUÁRIA ;; R$ 270.000,00 ;Custeio Pecuário; OPERAÇÃO CONCLUÍDA ;PROTEC AGRO 03/03- 13/06 | Limite enviado 04/08 -12/08;Enviado 11/08; Aprovado custeio R$270.000 | Invest R$100.000 Tudo com garantia Real ;AGO;04/08/24;Alienação: M-95781;
+CAIXA;Palmas;Julia;Wendell;;Jovane;ARMIN MICHAEL SCHERER (Pai Klaus -Ind Fabio);AGRÍCOLA;;;;CRÉDITO APROVADO;;CAIXA;Aprovado Custeio R$ 13,1MM | Invest R$ 12MM;22-May;;;
+CAIXA;PSO;;;;Thiago;ARTHUR MOULIN COSTA ;AGRÍCOLA;;;;CONSULTAR RATING;Rating E;CAIXA;;12-Dec;;;
+SICREDI;PSO;;;;Dijelaine;ATAIDES VIEIRA BORGES (Esposa Luciane);PECUÁRIA ;;;; INATIVO ;Irá rodar no nome do Celmo;Enviado 11/08; Limite enviado 05/07 | Enviado 23/12 | Reenviado 15/02 ;18-Apr;;;
+SICREDI;PSO;;;;Romulo;AUGUSTINHO MARX;PECUÁRIA ;;;;ATUALIZADO ;Limite enviado 22/03;GN;Aprovado Custeio R$ 350.000 penhor| Invest R$ 300.000 alienação;22-Mar;;;
+SICREDI;PSO;;;;Dijelaine;BEATRIZ TELES FERREIRA BASTOS;AGRÍCOLA;;; Baixo 2 ; INATIVO ; NÃo possui registro no Sicredi ;; Limite em nome do esposo (Alvaro Amorim) ;22-Oct;;;
+SICREDI;PSO;;;;Romulo;BENEDITO RUIZ FILHO (Esposa Tania Verrel);PECUÁRIA ;;;;ATUALIZADO ;;;Limite enviado 13/02;03-Jul;;;
+BASA;PSO;;;;Denise;BENONI SILVA PEREIRA;PECUÁRIA ;; R$ 110.102,63 ; Investimentos ; OPERAÇÃO CONCLUÍDA ;Verificar possivel renovação cadastral - prospecção de custeio;BASA;;;;;
+SICREDI;Roda Velha;;;;Daniel ;BERNAHARD JOSEF GRATT;AGRÍCOLA;;;;INATIVO;Mostrou interesse em linhas para pivo ;; Aprovado invest R$ 2.650.000,00 | Limite enviado 19/02  ;04-Oct;;;
+SICREDI;PSO;;Paulo;;Romulo;BRUNO ALVES BARBOSA (Filho Adilson);PECUÁRIA ;;;Alto 1;ATUALIZADO ;Estão devendo cartão;;Limite enviado 13/04;27-Dec;;;
+SICREDI;PSO;;;;Romulo;BRUNO COELHO MENDES;PECUÁRIA ;; R$ 72.000,00 ; Custeio Pecuário ; OPERAÇÃO CONCLUÍDA ;;;;MAR;29/03/2023;Hipoteca: Lote Ponte Alta;
+SICREDI;PSO;;;;Romulo;BRUNO COELHO MENDES;PECUÁRIA ;;;;CONSULTAR CPF;ESTÁ DEVENDO AO BANCO;Enviado 14/10;Limite enviado 18/01 Reenviado 15/02;04-May;;;
+CAIXA;Gurupí;;;;Josué;BRUNO DENER RIGO;AGRÍCOLA;;;;INATIVO;Rating F;CAIXA;Limite enviado 23/01;28-Dec;;;
+SICREDI;PSO;;;;Dijelaine;BRUNO DENER RIGO;AGRÍCOLA;; R$ 250.000,00 ; Custeio CPR ; OPERAÇÃO CONCLUÍDA ;; Enviado 11/08 ;Aprovado Custeio R$ 250.000 | Fomento R$ 100.000 Gartnia Alienação;DEZ;01/12/2022;Penhor;
+SICREDI;PSO;;;;Dijelaine;BRUNO DENER RIGO;AGRÍCOLA;; R$ 250.000,00 ; Custeio CPR ; OPERAÇÃO CONCLUÍDA ;;Enviado 08/02;Aprovado Custeio R$ 250.000 |CPR R$ 260.000 Garantia ambas penhor;MAI;15/05/2023;Penhor 2º grau;
+SICREDI;PSO;;;;Dijelaine;BRUNO DENER RIGO;AGRÍCOLA;;;;CONSULTAR CPF;Está devendo ao Banco;Enviado 08/02;Limite enviado 18/01;04-May;;;
+SICREDI;Colinas;;Geslaine;;Matheus;BRUNO MAXIMIANO PAULA (Filho Mirian);PECUÁRIA ;;;;COBRAR GN;;GN;Limite enviado 07/06| reenviado 03/08;04-Aug;;;
+SICREDI;PSO;;;;Dijelaine;BRUNO VIEIRA FONSECA;PECUÁRIA ;;;;FALTA DOC;Precisa de 200k CPR + 300k compra animais;Feito 30/05;;30-May;;;
+SICREDI;PSO;;;;Romulo;CARLA PRATÍCIA RIBEIRO GUIDA;PECUÁRIA ;; R$ 160.000,00 ; Custeio Pecuário ; OPERAÇÃO CONCLUÍDA ;; Enviado 05/08 ;Aprovado R$ 160.000 custeio | R$ 100.000 invest;AGO;07/08/2023;Hipoteca: Faz. Diamente;
+SICREDI;Colinas;;;;Carlos;CARLOS ALBERTO MARTINS CARDOSO;PECUÁRIA ;;;; INATIVO ;GN sem interesse ;;Limite enviado 03/21 | Reenviado 14/07;20-Dec;;;
+SICREDI;PSO;;;;Romulo;CARLOS ALEXANDRE BERNARDINO;NADA CONSTA;;;Baixo 1;INATIVO;Possui CC no Sicredi | Enviado msg 06/01;;;06-Jan;;;
+CAIXA;Palmas;;;;Jovane;CARLOS ANTONIO BRAGANÇA FERREIRA;AGRÍCOLA;; R$ 1.173.000,00 ;Invest. Maq; DESISTIU ;Não tem notas;CAIXA;Aprovado Custeio R$ 572.838 | Invest parcela R$ 72.260;04-Aug;;;Ind. Revenda
+SICREDI;JK;;Geslaine;;Carol;CARLOS ANTONIO BRAGANÇA FERREIRA;AGRÍCOLA;; R$ 358.860,78 ;Invest. Maq; OPERAÇÃO CONCLUÍDA ;1º Parcela 14/01/2024;GN;Pré aprovado Cpr R$ 800.000;JAN;14/01/28;Hip 1º grau M:270;Conta BB AG:0804-4 CC:25853-9
+SICREDI;JK;;Geslaine;;Carol;CARLOS ANTONIO BRAGANÇA FERREIRA;AGRÍCOLA;;;; COBRAR GN ;;GN;Limite enviado 08/11;08-Nov;;;
+CAIXA;Palmas;Julia;;;Jovane;CARLOS CESAR DA FONSECA RIBEIRO (Irmão Fabio);;;;;INATIVO;GA não quer operar;CAIXA;;30-May;;;
+BB;Balsas;;;;Douglas;CARLOS EDUARDO MAROCHIO;AGRÍCOLA;;;;ATUALIZADO ;Sem área para beneficiar;BB;Aprovado R$ 1,3 MM custeio e investimento;18-Oct;;;Ind. Carlos GN
+SICREDI;PSO;;;;Dijelaine;CARLOS EDUARDO MAROCHIO;AGRÍCOLA;; R$ 500.000,00 ; Invest. BNDES ; OPERAÇÃO CONCLUÍDA ;Maquinário;Enviado 03/08; Aprovado Custeio R$ 500.000 | invest R$ 200.000 ;JUL;15/07/2023;Penhor da Máquina;CAIXA Rating C
+SICREDI;PSO;;;;Dijelaine;CARLOS EDUARDO MAROCHIO;AGRÍCOLA;; R$ 500.000,00 ; Custeio Agrícola  ; OPERAÇÃO CONCLUÍDA ;;Enviado 03/08; Aprovado Custeio R$ 500.000 | invest R$ 200.000 ;SET;21/09/2022;Penhor;Rating A
+SICREDI;PSO;;;;Dijelaine;CARLOS EDUARDO MAROCHIO;AGRÍCOLA;; R$ 235.000,00 ; Invest. 5 anos  ; OPERAÇÃO CONCLUÍDA ;;Enviado 03/08; Aprovado Custeio R$ 500.000 | invest R$ 200.000  ;JUN;29/06/2022;Penhor triturador de pedras;Rating A | Mas inoperante devido restritivo interno
+SICREDI;PSO;;Paulo;;Dijelaine;CARLOS EDUARDO MAROCHIO;AGRÍCOLA;;;;ATUALIZADO ;Não aprovou mais valores devido falta de respaldo patrimonial;Enviado 03/08;Limite enviado 31/08;25-Jan;;;
+CAIXA;Palmas;;Geslaine;Eloisa;Jovane;CARLOS JUAREZ METZKA (Esposa Nara Rubia - filha Lara);PECUÁRIA ;; R$ 1.142.983,00 ;Custeio Pecuário;OPERAÇÃO CONCLUÍDA;;CAIXA;Aprovado Custeio R$ 1MM| Milho R$ 908K | Invest R$228k Parcela;NOV;19/11/2025;Hip 1ºgrau - Faz Independencia - M: 1746; Alienação 
+SICREDI;PSO;Thais;Geslaine;Wendell;Romulo;CARLOS JUAREZ METZKA (Esposa Nara Rubia - filha Lara);PECUÁRIA ;;;CPR;DESISTIU;Cliente não qr alienação;Feito 20/04;Aprovado CPR R$1MM | Garat. Real;09-Oct;;; Alienação 
+SICREDI;PSO;;;;Romulo;CARMELIA NERES DE BARROS (Esposo Vangivaldo);PECUÁRIA ;;;;EMBARGO; EMBARGO | Dossiê enviado 28/03 ;Enviado 21/12;Aprovado Custeio R$ 250.000 | Invest R$ 100.000 | Garantia alienção imóvel;20-Oct;;;
+SICREDI;PSO;;;;Romulo;CARMELIA NERES DE BARROS (Esposo Vangivaldo);PECUÁRIA ;;;;ATUALIZADO ;;Enviado 26/08;Limite enviado 26/08;15-Sep;;;
+SICREDI;PSO;Julia;;Wendell;Romulo;CELIA TEIXEIRA ALVES;PECUÁRIA ;;;Rating E;FALTA DOC;Falta doc pessoais + doc imovel;;;07-Dec;;;
+SICREDI;Tocantinópolis;Geslaine;Eloisa;Eloisa;Jordana;CELIO ALVES COSTA;PECUÁRIA ;; R$ 600.000,00 ;CPR;PROCESSO NO BANCO;PROTEC AGRO 02/06;GN;Aprovado CPR R$ 600.000;05-Jun;;;
+SICREDI;PSO;;;;Dijelaine;CELMO VIEIRA BORGES (Pai Ataides);PECUÁRIA ;;;;CRÉDITO APROVADO;;Feito 11/04;Aprovado Custeio R$ 200.000 Garantia alienação + aval do pai;20-Oct;;;
+CAIXA;Palmas;;Geslaine;;Jovane;CELSO BREIER;AGRÍCOLA;;;;CRÉDITO APROVADO;Sem garantia;CAIXA;Aprovado Custeio R$ 867.000| Invest parcela R$ 176.000;17-Nov;;;
+SICREDI;PSO;;Paulo;Geslaine;Romulo;CELSO BREIER;AGRÍCOLA;;;;CRÉDITO APROVADO;Custeio cancelado devido área está nome de outra pessoa, e não conseguir pegar a ass. Na conta aval;Enviado 08/12;Aprovado Custeio R$ 400.000 | Invest R$ 250.000 e R$ 180.000 Garantia Hip ;18-Feb;;Dossiê enviado 20/11;AVERBAÇÃO DA MATRICULA - DEPOIS FAZER AVALIAÇÃO IMÓVEL
+CAIXA;Gurupí;Julia;Gesleine;;Josué;CESAR SILOS DE SOUZA;AGRÍCOLA;; R$ 569.330,00 ;Investimento; OPERAÇÃO CONCLUÍDA ;1º parcela 03/05/2024;Rating AA;Aprovado Custeio R$ 3,1 MM | Invest R$ 5,4MM;MAI;03/05/2030;Penhor : PU (Máquina);
+CAIXA;Gurupí;Julia;Gesleine;;Josué;CESAR SILOS DE SOUZA;AGRÍCOLA;; R$ 1.045.054,38 ; Custeio Agrícola  ; OPERAÇÃO CONCLUÍDA ;PAGO;CAIXA;Aprovado Custeio R$ 3,1 MM | Invest R$ 5,4MM;MAI;10/05/2023;Hip 2º grau - Faz Nª Sra da Conceição;
+CAIXA;Gurupí;Julia;Geslaine;Eloisa;Josué;CESAR SILOS DE SOUZA;AGRÍCOLA;; R$ 1.199.000,00 ;Investimento; OPERAÇÃO CONCLUÍDA ;1º parcela 04/08/2025;CAIXA;Aprovado Custeio R$ 5,9MM | Invest R$ 1,7M Parcela;AGO;04/08/2033;Hip 1º grau - Faz Nª Sra da Conceição;
+CAIXA;Gurupí;Julia;Geslaine;Eloisa;Josué;CESAR SILOS DE SOUZA;AGRÍCOLA;; R$ 689.103,63 ; Custeio Agrícola  ; OPERAÇÃO CONCLUÍDA ;PAGO;CAIXA;Aprovado Custeio R$ 5,9MM | Invest R$ 1,7M Parcela;MAI;19/05/2023;Hip 1º grau - Faz Nª Sra da Conceição;
+SICREDI;PSO;Julia;Gesleine;;Dijelaine;CESAR SILOS DE SOUZA;AGRÍCOLA;; R$ 100.000,00 ; Invest. 5 anos  ; OPERAÇÃO CONCLUÍDA ;;Enviado 11/08;Aprovado custeio R$ 1MM | invest R$ 800.000;MAI;09/05/2022;Hip. Guarda Chuva: Faz. Terra Santa; Minuta (Hipoteca) 
+SICREDI;PSO;Julia;Gesleine;;Dijelaine;CESAR SILOS DE SOUZA;AGRÍCOLA;; R$ 425.000,00 ; Invest. 5 anos  ; OPERAÇÃO CONCLUÍDA ;1º parcela 17/09/2022;Enviado 11/08;Aprovado custeio R$ 1MM | invest R$ 800.000;SET;17/09/2026;Penhor Maquinário; Minuta (Hipoteca) 
+SICREDI;PSO;Julia;Gesleine;;Dijelaine;CESAR SILOS DE SOUZA;AGRÍCOLA;; R$ 1.000.000,00 ; Custeio Agrícola  ; OPERAÇÃO CONCLUÍDA ;;Enviado 11/08;Aprovado custeio R$ 1MM | invest R$ 800.000;ABR;29/04/2022;Hip. Guarda Chuva: Faz. Terra Santa; Minuta (Hipoteca) 
+SICREDI;PSO;Julia;Gesleine;;Dijelaine;CESAR SILOS DE SOUZA;AGRÍCOLA;;;;CRÉDITO APROVADO;;Enviado 11/08;Aprovado custeio R$ 1MM | invest R$ 500.000;27-Dec;;; Minuta (Hipoteca) 
+SICREDI;PSO;;;;Romulo;CHARLES TENINSON SILVA MEDRADO;PECUÁRIA ;;;; FALTA DOC ;Registranto doc do imóvel;;Doc endereço, Falta Doc imovel;14-Feb;;;
+BB;Tocantinópolis;Julia;Paulo ;;Claúdio;CICERO CONCEIÇÃO DA SILVA ;PECUÁRIA ;;;;CONSULTAR CPF;Restritivo;BB;;21-Oct;;;
+SICREDI;Tocantinópolis;Julia;;Eloisa;Jordana;CICERO CONCEIÇÃO DA SILVA ;PECUÁRIA ;; R$ 200.000,00 ;CPR;PROCESSO PARADO;CLIENTE COM CCF - 22/06;Agência 27/09/22;Aprovado Invest R$ 1MM;22-Jun;;; VÍDEO ESCRITÓRIO ENVIADO 
+SICREDI;PSO;Thais ;Wendell;;Romulo;CID LUIZ SIPANSKI (Esposa Marilena);PECUÁRIA ;;;PROTEC AGRO 15/10 | Não possui a Ass. Carta de anuencia | Falta END + FICHA;CRÉDITO APROVADO;;Enviado 03/08;Aprovado Custeio R$ 400k | Invest R$ 580k | Livre R$ 1MM - garant real;27-Oct;;;
+SICREDI;PSO;Thais;;;Dijelaine;CLAUDECIR ZAGOMEL ;AGRÍCOLA;; R$ 200.000,00 ; FNO Solo ;OPERAÇÃO CONCLUÍDA;1º Parcela 10/08/2026;;Limite enviado 08/05;AGO;10/08/2029;Hip. 3º grau - Faz Zagomel M: 3920;Acordado 1% custeio| 0,5% CPR| 1,5% Invest
+SICREDI;PSO;;;;Romulo;CLAUDIA ANGELA SOARES PEREIRA;PECUÁRIA ;;; Rating B (Caixa) ; PROCESSO PARADO ;Romulo Cliente sem boa procedencia ;; Limite enviado 04/02 ;06-Jan;;;
+CAIXA;PSO;Aprosoja;Geslaine;;Thiago;CLAUDIO MATSUBARA FILHO;AGRÍCOLA;;;;CRÉDITO APROVADO;;CAIXA;Aprovado Custeio R$ 71MM | Invest R$ 50MM;12-Dec;;;
+CAIXA;Palmas;Julia;Geslaine;Eloisa;Jovane;CLEBER DE OLIVEIRA BARCELOS (Esposo Georgia);PECUÁRIA ;; R$ 1.047.060,00 ;Custeio Pecuário;OPERAÇÃO CONCLUÍDA;;CAIXA;Aprovado custeio Pec R$ 1MM | custeio Milho R$ 480k  | Inves R$ 249k Parcela;SET;11/09/25;Alienação - Fazenda conquisnta III - M: 1933;
+CAIXA;Palmas;Julia;Geslaine;Eloisa;Jovane;CLEBER DE OLIVEIRA BARCELOS (Esposo Georgia);PECUÁRIA ;; R$ 519.714,38 ;Investimento;OPERAÇÃO CONCLUÍDA;1º Parcela 25/11/2025;CAIXA;Aprovado custeio Pec R$ 1MM | custeio Milho R$ 480k  | Inves R$ 249k Parcela;NOV;25/11/31;Alienação - Fazenda Segredo - M: 498;
+CAIXA;Palmas;Julia;Geslaine;Eloisa;Jovane;CLEBER DE OLIVEIRA BARCELOS (Esposo Georgia);PECUÁRIA ;; R$ 445.000,00 ;Invest. Maq;PROCESSO NO BANCO;;CAIXA;Aprovado custeio Pec R$ 1MM | custeio Milho R$ 480k  | Inves R$ 249k Parcela;08-Nov;;;
+SICREDI;PSO;;Geslaine;;Jose Ailton;CLEBER DE OLIVEIRA BARCELOS (Esposo Georgia);PECUÁRIA ;;;;COBRAR GN;;Feito 10/08;Limite enviado 14/08;20-Oct;;;
+SICREDI;PSO;;;;Dijelaine;CLEDIO INÁCIO WILLE;AGRÍCOLA;;;; INATIVO ;Pegou recurso em outro banco;;Aprovado custeio R$ 700M | Invest R$ 400M;04-Oct;;;
+SICREDI;PSO;;;;Romulo;CLEITON JOSE DE SOUSA ;PECUÁRIA ;;;;INATIVO;Desistiu e encerrou conta;;;09-Nov;;;
+SICREDI;PSO;;;;Romulo;CLEO SOUZA MARQUES;PECUÁRIA ;;;Migrar Caixa após pg Sicredi;INATIVO;DEVENDO SICREDI; Enviado 17/09 ; Limite enviado 17/09 ;07-Apr;;;
+CAIXA;Gurupí;;;;Josué;CLEUDIMAR PEREIRA DOS SANTOS;PECUÁRIA ;;;Rating C; CRÉDITO APROVADO ;;CAIXA;Aprovado Custeio R$ 170.000 | Invest R$ 288.000;20-Oct;;;
+CAIXA;Palmas;;Paulo;;Jovane;CLEUDSON ALVES VIERIA;PECUÁRIA ;;;; CRÉDITO APROVADO ;;CAIXA;Aprovado Custeio R$ 349.000 | Invest R$ 25.538 Parcela;22-May;;;
+SICREDI;JK;;;;Karynne;CLEUDSON ALVES VIERIA;PECUÁRIA ;; R$ 350.000,00 ;Invest. FNO; OPERAÇÃO CONCLUÍDA ;;GN ;Aprovado Custeio R$ 200.000 (Pré aprovado);AGO;10/08/31;Hip Guarda chuva- M: 155.222 Avaliada R$ 1.382.100,00; Minuta (Hipoteca) 
+SICREDI;JK;;;;Karynne;CLEUDSON ALVES VIERIA;PECUÁRIA ;; R$ 150.000,00 ;CPR; OPERAÇÃO CONCLUÍDA ;;GN ;Limite enviado 06/02;AGO;10/08/31;Hip Guarda chuva- M: 155.222 Avaliada R$ 1.382.100,00; Minuta (Hipoteca) 
+SICREDI;JK;;Geslaine;;Karynne;CLEUDSON ALVES VIERIA;PECUÁRIA ;; R$ 150.000,00 ;CPR; COBRAR GN ;;GN ;;12-Dec;;; Minuta (Hipoteca) 
+SICREDI;Roda Velha;;;;Daniel ;CLEUSA AGDA COPETTI;AGR/PEC;;;; INATIVO ;Contratado maquinário | Escutou audio e n respondeu;; Aprovado invest R$ 2.370.000,00 ;04-Oct;;;
+SICREDI;PSO;Thais;Geslaine;;Romulo;CLEUSA MARTINS RODRIGUES (Mãe Romulo);PECUÁRIA ;;;;ATUALIZADO ;;Feito 20/06;Limite enviado 20/06;20-Oct;;;
+SICREDI;PSO;Thais;Geslaine;ELoisa;Romulo;CLEUSA MARTINS RODRIGUES (Mãe Romulo);PECUÁRIA ;; R$ 200.000,00 ;FNO animais ;FAZER PROJETO;PROTEC AGRO 20/06;Feito 20/06;;20-Mar;;;
+CAIXA;PSO;;;;Thiago;CLOVES AGUIAR MAIA;PECUÁRIA ;;;RATING A;FALTA DOC;FALTA LICENÇA;CAIXA;;29-Mar;;;
+SICREDI;PSO;;;;Romulo;CLOVES AGUIAR MAIA;PECUÁRIA ;; R$ 100.000,00 ;Custeio Pecuário;CANCELADO;Falta Licença;Feito 02/05;Aprovado Custeio R$ 100.000 | invest R$ 60.000 Hip. Guarda chuva;23-Jan;;;
+BB;PSO;;;;Thiago;CLOVES JOSE MARQUES NETO;PECUÁRIA ;;;;CRÉDITO APROVADO;;Enviado 13/08;Aprovado Custeio R$ 592.000 | Invest R$ 1,9MM;27/07;;;
+SICREDI;PSO;;Geslaine;;Romulo;CLOVES JOSE MARQUES NETO;PECUÁRIA ;; R$ 480.000,00 ; Custeio Pecuário ; OPERAÇÃO CONCLUÍDA ;PAGO;Enviado 13/08;Aprovado Custeio R$ 1MM | Invest R$ 359.000 - garantia;JAN;17/01/2023;Hipoteca: Faz. São Marcos;
+SICREDI;PSO;;Geslaine;;Romulo;CLOVES JOSE MARQUES NETO;PECUÁRIA ;; R$ 500.000,00 ; Custeio Pecuário ; OPERAÇÃO CONCLUÍDA ;PAGO E RENOVADO;Enviado 13/08;Aprovado Custeio R$ 1MM | Invest R$ 359.000 - garantia;OUT;03/10/2023;Penhor;
+SICREDI;PSO;;Geslaine;;Romulo;CLOVES JOSE MARQUES NETO;PECUÁRIA ;; R$ 200.000,00 ; Investimento ; OPERAÇÃO CONCLUÍDA ;1º Parcela 05/01/2022;Enviado 13/08;Aprovado Custeio R$ 1MM | Invest R$ 359.000 - garantia;JAN;05/01/2025;Hipoteca: Lote;
+SICREDI;PSO;;Geslaine;;Romulo;CLOVES JOSE MARQUES NETO;PECUÁRIA ;; R$ 290.000,00 ; Custeio Pecuário ; OPERAÇÃO CONCLUÍDA ;;Enviado 13/08;Enviado 13/08;JAN;02/01/2025;Alienação M:  870,  Faz Retiro Alterosa;
+SICREDI;PSO;;Geslaine;;Romulo;CLOVES JOSE MARQUES NETO;PECUÁRIA ;; R$ 200.000,00 ;FNO Animais; OPERAÇÃO CONCLUÍDA ;1º Parcela 10/06/2025;Enviado 13/08;Aprovado Custeio R$ 1,8MM garantia;JUN;10/06/2029;Penhor de gado;
+SICREDI;PSO;;Geslaine;Wendell;Romulo;CLOVES JOSE MARQUES NETO;PECUÁRIA ;; R$ 500.000,00 ;Custeio Pecuário;FAZER PROJETO;aval Luciene + Wilma + penhor;Enviado 13/08;Limite enviado 22/06;19-Jan;;;
+SICREDI;Tocantinópolis;;;;Jordana;CREUSILDA PEREIRA DE CASTRO - DOMINGUINHOS (Esposa Faelma);PECUÁRIA ;; R$ 500.354,59 ;CPR; OPERAÇÃO CONCLUÍDA ;1º Parcela 07/01/2025;GN;Aprovado CPR R$ 550.000 | Garant. R$ 300.000 penhor - restante garantia real;JAN;07/01/2028;Alienação Faz Santa Isabel - M: 1023; Alienação 
+SICREDI;Tocantinópolis;;Geslaine;;Jordana;CREUSILDA PEREIRA DE CASTRO - DOMINGUINHOS (Esposa Faelma);PECUÁRIA ;;;; COBRAR GN ;;GN;Limite enviado 17/10;23-Oct;;; Alienação 
+BB;BSB;;;;SEM GN;CRISTIANO NIGOTO;NADA CONSTA;;;; OPERAÇÃO CONCLUÍDA ;DOC renegociação R$ 500.000,00;BB;;;;;
+SICREDI;PSO;;;;Romulo;CRISTIOVALDO BRITO DE ALMEIDA;NADA CONSTA;;;; INATIVO ;Não vamos mexer com esse cliente;;;07-Jan;;;
+CAIXA;Palmas;;;;Jovane;DACIR FERREIRA CEZAR;AGRÍCOLA;;;Ind Ricardo New holland;PROSPECT;Rating C;CAIXA;;20-Jul;;;
+SICREDI;JK;;Geslaine;;Carol;DALIR DAL MORO ZANELLA;PECUÁRIA ;;;; COBRAR GN ;;; Limite enviado 08/11 ;08-Nov;;; Aprovado R$500.000 custeio| R$300.000 invest  
+SICREDI;PSO;;;;Dijelaine;DANIEL DIAS ROCHA;PECUÁRIA ;;;; INATIVO ;Cliente fará projeto com outro projetista;Enviado 11/08;Aprovado Custeio R$ 100.000,00 - Garantia Real;20-Jun;;;
+SICREDI;Roda Velha;;;;Daniel ;DANIEL DONADEL;NADA CONSTA;;;;INATIVO;FEZ COM OUTRO PROJETISTA;GN ;;09-Jul;;;
+CAIXA;Palmas;;;;Jovane;DANIEL RODRIGUES DO SANTOS;AGRÍCOLA;;;Ind Bruno; FALTA DOC ; Rating A | Cliente procurando área p arrendar;CAIXA;;14-Feb;;;
+CAIXA;PSO;;Geslaine;Eloisa;Andre;DANILLO SILVA MORAES (Pai Guilherme Sócio);;; R$ 3.000.000,00 ;Custeio Agrícola;FAZER PROJETO;;CAIXA;Aprovado Custeio R$ 24MM | Invest R$ 7MM Parcela;04-Sep;;;
+BB;Divinópolis;Geslaine;;;SEM GN;DANILO SCANDOLO MANO;PECUÁRIA ;; R$ 600.000,00 ; Custeio Pecuário ; OPERAÇÃO CONCLUÍDA ;;BB;Aprovado custeio R$ 600.000 | Invest R$ 600.000;JUL;29/07/23;;
+CAIXA;Palmas;Geslaine;;Eloisa;Jovane;DANILO SCANDOLO MANO;PECUÁRIA ;; R$ 458.712,00 ; Custeio Pecuário ; OPERAÇÃO CONCLUÍDA ;;CAIXA;Aprovado custeio R$ 613.000 - Gado R$ 461.000|  Invest R$ 1,4MM;JUL;09/07/25;1º grau Hip: Faz. Benedito II, M 1996;
+CAIXA;Palmas;Thais;;Eloisa;Jovane;DANILO SCANDOLO MANO;PECUÁRIA ;;;;CONSULTAR RATING;Esposa Geslane (29/11) - Rating D;CAIXA;Aprovado custeio R$ 613.000 - Gado R$ 461.000|  Invest R$ 1,4MM;28-Dec;;;
+SICREDI;PSO;Geslaine;;;Romulo;DANILO SCANDOLO MANO;PECUÁRIA ;; R$ 300.000,00 ;Custeio Pecuário; OPERAÇÃO CONCLUÍDA ;PAGO E RENOVADO;Enviado 11/08;Aprovado Custeio R$300.000 | Invest R$150.000 Garantia Real;OUT;10/10/2023;Hipoteca: Faz. Benedito II; Minuta (Hipoteca) 
+SICREDI;PSO;Geslaine;;Eloisa;Romulo;DANILO SCANDOLO MANO;PECUÁRIA ;; R$ 146.200,00 ;Invest. 5 anos ; OPERAÇÃO CONCLUÍDA ;Maquinário ;Enviado 11/08;Aprovado Custeio R$300.000 | Invest R$150.000 Garantia Real;FEV;18/02/2027;Penhor do Maquinário; Minuta (Hipoteca) 
+SICREDI;PSO;Geslaine;;Eloisa;Romulo;DANILO SCANDOLO MANO;PECUÁRIA ;; R$ 480.000,00 ;Custeio Pecuário; OPERAÇÃO CONCLUÍDA ;;Enviado 11/08;Aprovado Custeio R$900.000 | Invest R$150.000 Garantia Real;MAI;02/05/2025;Hip Guarda chuva- M: 1997 ; Minuta (Hipoteca) 
+SICREDI;PSO;Geslaine;;Kaique ;Romulo;DANILO SCANDOLO MANO;PECUÁRIA ;; R$ 52.000,00 ; FNO Máq ; OPERAÇÃO CONCLUÍDA ;1º Parcela 01/05/2025;Enviado 11/08;;MAI;10/05/2029;Penhor Grade; Minuta (Hipoteca) 
+SICREDI;PSO;;;;Romulo;DANILO SCANDOLO MANO;PECUÁRIA ;; R$ 300.000,00 ;Custeio Pecuário; OPERAÇÃO CONCLUÍDA ;;Enviado 11/08;Aprovado Custeio R$300.000 | Invest R$150.000 Garantia Real;OUT;20/10/2025;Hip Guarda chuva- M: 1997 ; Minuta (Hipoteca) 
+SICREDI;PSO ;;;;Romulo;DAVI CRISTIANO CARNEIRO BORGES;NADA CONSTA;;;;CONSULTAR CPF; Alto 2 ;;Nada consta | Somente CND'S;05-Jan;;;
+CAIXA;PSO;;;;Thiago;DAVY GUIDA CORREIRA;AGRÍCOLA;;;Ind. Luciano Navarini;;RATING E;CAIXA;;09-Feb;;;
+SICREDI;Lagoa;;;;Janilto;DAVY GUIDA CORREIRA;AGRÍCOLA;;;; INATIVO ;ASTEC SAFRA GURUPÍ;GN;;27-Oct;;;
+CAIXA;PSO;;;;Thiago;DEBORA QUEIROZ DE ALMEIDA;AGRÍCOLA;; R$ 8.762.391,00 ;Investimento; OPERAÇÃO CONCLUÍDA ;1º Parcela 06/04/2025;CAIXA;Aprovado custeio R$ 19.887.026,00 | Invest parcela R$ 2.955.758,00;ABR;06/04/2032;Hipoteca 1º grau Faz Retiro M: 1721; Acordado 1% Custeio | 1,3% Invest 
+CAIXA;PSO;;;;Thiago;DEBORA QUEIROZ DE ALMEIDA;AGRÍCOLA;; R$ 6.021.400,00 ;Comercialização; OPERAÇÃO CONCLUÍDA ;RENEGOCIAÇÃO;CAIXA;Aprovado custeio R$ 19.887.026,00 | Invest parcela R$ 2.955.758,00;SET;22/09/2023;Hipoteca 3º grau Faz Retiro M: 1721; Acordado 1% Custeio | 1,3% Invest 
+SICREDI;PSO;;;;Romulo;DEJANIRA GONZAGA DE SANTANA (Contato Marinho);PECUÁRIA ;;;Ind. Renata;CRÉDITO APROVADO;;Feito 10/01;Aprovado custeio R$50.000 | Invest R$ 25.000;20-Oct;;;
+SICREDI;PSO;;;;Romulo;DELCY MORAES ALVES;PECUÁRIA ;; R$ 120.000,00 ; Custeio Pecuário ; OPERAÇÃO CONCLUÍDA ;PAGO;;Saber se possui conta no Sicredi;ABR;05/04/2023;Hip. Guarda Chuva: Faz. Firmeza; Minuta (Hipoteca) 
+SICREDI;PSO;;;;Romulo;DELCY MORAES ALVES;PECUÁRIA ;;;; FALECEU ;Romulo não irá mais atender, cliente com Câncer;;Limite enviado 15/03;01-Sep;;;
+SICREDI;PSO;;;;Romulo;DELUBIO GOMES DE OLIVEIRA;PECUÁRIA ;;;;ATUALIZADO ;Possui EMBARGO IBAMA em 2 áreas;;Limite enviado 27/07;27-Jul;;;
+SICREDI;PSO;Julia;;;Romulo;DEUSIMAR RIBEIRO DE SOUSA;PECUÁRIA ;; R$ 220.000,00 ;Custeio Pecuário; OPERAÇÃO CONCLUÍDA ;PROTEC AGRO 01/02 - Enviado 14/06;Enviado 20/10;Aprovado Custeio R$220.000 | Invest R$50.000 - Garantia Real;JUN;24/06/24;;
+SICREDI;PSO;Julia;Geslaine;;Romulo;DEUSIMAR RIBEIRO DE SOUSA;PECUÁRIA ;;;; CRÉDITO APROVADO ;Limite atualizado 28/06;Enviado 20/10;Aprovado Custeio R$40.000 | Invest R$60.000 - Garantia Real;19-Sep;;;
+CAIXA;Gurupí;;;;Josué;DIANE RUTH DIRKS;PECUÁRIA ;;;ProjeteAgro;INATIVO;Restritivo | Esposa Frank;CAIXA;Aprovado Custeio R$ 95.478 | Invest R$ 25.816 ;18-Jan;;;
+SICREDI;PSO;;;;Romulo;DIANYR JALES DA SILVA;PECUÁRIA ;; R$ 146.940,00 ;Custeio Pecuário; OPERAÇÃO CONCLUÍDA ;;Feito 18/11;;DEZ;28/12/23;Hipoteca: Faz. Felicidade M:20.561;
+SICREDI;PSO;;;;Romulo;DIANYR JALES DA SILVA;PECUÁRIA ;;;;ATUALIZADO ;Está com restritivo;Feito 18/11;Limite enviado 19/08;06-Oct;;;
+SICREDI;JK;;;;Hingride;DIEGO DUARTE FREITAS (Irmão Fabricio);PECUÁRIA ;;;; INATIVO ;FALTA DOC - FAZ VICTORIA II;;;14-Feb;;;
+SICREDI;PSO;;;;Dijelaine;DIERE FABIO RODRIGUES;AGR/PEC;; R$ 121.988,75 ; Invest. BNDES ; OPERAÇÃO CONCLUÍDA ;Maquinário;;;AGO;15/08/2022;Hipoteca: Citio Palma Sola M-5.501;
+SICREDI;PSO;;;;Dijelaine;DIERE FABIO RODRIGUES;AGR/PEC;; R$ 1.000.000,00 ; Custeio Agrícola  ; OPERAÇÃO CONCLUÍDA ;;;;ABR;30/04/2022;Alienação: Citio Palma Sola/ lote 134, gleba 12 M-6168;
+SICREDI;PSO;Julia;Geslaine;;Dijelaine;DIERE FABIO RODRIGUES;AGR/PEC;;;Rating E;ATUALIZADO ;Aprovou somente fomento;Enviado 26/11;Limite enviado 10/03;04-May;;;
+SICREDI;PSO;;;;Dijelaine;DIGAROTO;NADA CONSTA;;;;INATIVO;Falta toda doc | 10 alqueiros;;;18-Jan;;;
+CAIXA;Palmas;;;;Jovane;DIOGO ALVES FELIZARI DE PAULA;AGRÍCOLA;;;;PROSPECT;Rating E;CAIXA;;20-Jul;;;Ind Ricardo New holland
+CAIXA;Palmas;Hyuri;;;Jovane;DIOGO SERRADOURA;PECUÁRIA ;;;;CRÉDITO APROVADO;Falta doc;CAIXA;Aprovado Custeio R$ 366K | Invest R$ 20k Parcela;16-Nov;;;
+SICREDI;PSO;;;;Romulo;DIRCE PEREIRA AIRES (Filho Fabricio);PECUÁRIA ;;;; CRÉDITO APROVADO ;;Enviado 28/12; Aprovado Custeio R$ 600.000 | Invest. R$ 350.000 | Garantia Alienação Guarda chuva ;20-Oct;;;
+SICREDI;PSO;;;;Romulo;DIVINA MARIA GONÇALVES;PECUÁRIA ;;;;INATIVO;Irá vender a fazenda ;;;21-Mar;;;
+SICREDI;PSO;;;;Romulo;DIVINA SOUZA LIMA;PECUÁRIA ;; R$ 110.000,00 ; Custeio Pecuário ; OPERAÇÃO CONCLUÍDA ;;;;SET;19/09/2022;Hipoteca: Chácara Targos;
+SICREDI;PSO;;;;Romulo;DIVINA SOUZA LIMA;PECUÁRIA ;; R$ 200.000,00 ;FNO Máq; OPERAÇÃO CONCLUÍDA ; 1º Parcela 10/03/2025 ;Enviado 18/11;Aprovado Custeio R$ 600.000 | Invest R$ 400.000 Hipoteca ;MAR;10/03/29;Penhor - trator massey;
+CAIXA;PSO;;Wendell;;Thiago;DIVINO CABRAL DE SOUSA (Pai Wester);PECUÁRIA ;;;Rating C;CRÉDITO APROVADO;Limite enviado 05/07;CAIXA;Aprovado Custeio R$ 3,2MM | Invest R$ 1,7MM;04-Aug;;;
+SICREDI;PSO;Julia;Wendell;;Romulo ;DIVINO CABRAL DE SOUSA (Pai Wester);PECUÁRIA ;; R$ 200.000,00 ;FNO Animais;FAZER PROJETO;;;Limite enviado 04/07;18-Dec;;;
+SICREDI;PSO;;;Kaique;Romulo;DOMINGOS DE RAMOS CARNEIRO GUIDA JR;PECUÁRIA ;; R$ 100.000,00 ;Custeio Pecuário; OPERAÇÃO CONCLUÍDA ;;Feito 15/03;Aprovado Custeio R$ 100.000 | Invest R$ 60.000 Garantia - hip;ABR;27/04/25;Alienação Guarda chuva - M:905 ; Minuta (Alienação) 
+SICREDI;PSO;;;;Romulo;DOMINGOS RODRIGUES PEREIRA;NADA CONSTA;;; SEM CONTATO ; CONSULTAR CPF ; Alto 1 ;;;05-Jan;;;
+SICREDI;PSO;;;;Romulo;DOMINGOS TAVEIRA CAMPOS (Filho Samuel);PECUÁRIA ;; R$ 150.000,00 ;Custeio Pecuário; OPERAÇÃO CONCLUÍDA ;RENEGOCIAÇÃO;Enviado 17/08;Aprovado custeio R$ 150.000 | invest R$ 100.000 Garantia Real;OUT;25/10/2023;Hipoteca: Faz. Serrote Folhas;
+SICREDI;PSO;;;;Romulo;DOMINGOS TAVEIRA CAMPOS (Filho Samuel);PECUÁRIA ;; R$ 100.000,00 ;Invest. Pronamp; PROCESSO PARADO ;PROTEC AGRO 28/10 | RESTRITIVO;Enviado 17/08;Aprovado invest R$ 100.000 Garantia Real;22-Nov;;;
+SICREDI;PSO;;;;Romulo;DOMINGOS TAVEIRA CAMPOS (Filho Samuel);PECUÁRIA ;;;; CRÉDITO APROVADO ;;Enviado 17/08;Aprovado custeio R$ 350.000 | invest R$ 200.000 | CPR R$ 100.000 - Garantia Hip;21-Mar;;;
+SICREDI;PSO;;;;Romulo;DORVILEY FERREIRA SOARES;PECUÁRIA ;;;; CRÉDITO APROVADO ;Agendar visita em caso de Penhor;; Aprovado R$ 40.000 custeio| R$20.000 invest |R$ 5.000 rotativo  ;20-Oct;;;
+CAIXA;Palmas;;Eloisa;Eloisa;Jovane;EDEGAR SILVANI;AGRÍCOLA;; R$ 2.132.623,25 ;Custeio Agrícola;OPERAÇÃO CONCLUÍDA;Rating C;CAIXA;Aprovado Custeio Soja R$ 8,2MM | Custeio Milho R$ 8,8MM | Invest R$ 12MM;MAI;25/05/2024;Hip 3º grau - M:2029 Fazenda Fátima;
+CAIXA;Palmas;;Eloisa;Eloisa;Jovane;EDEGAR SILVANI;AGRÍCOLA;; R$ 2.189.000,00 ;Investimento;OPERAÇÃO CONCLUÍDA;1º Parcela 25/05/2025;CAIXA;Aprovado Custeio Soja R$ 8,2MM | Custeio Milho R$ 8,8MM | Invest R$ 12MM;MAI;25/05/20233;Hip 2º grau - M:2029 Fazenda Fátima;
+CAIXA;Palmas;;Eloisa;Eloisa;Jovane;EDEGAR SILVANI;AGRÍCOLA;; R$ 2.776.482,89 ;Invest. Energia S.;OPERAÇÃO CONCLUÍDA;1º Parcela 25/09/2025;CAIXA;Aprovado Custeio Soja R$ 8,2MM | Custeio Milho R$ 8,8MM | Invest R$ 12MM;SET;25/09/2033;Hip 4º grau - M:2029 Fazenda Fátima;
+CAIXA;Palmas;;Eloisa;Eloisa;Jovane;EDEGAR SILVANI;AGRÍCOLA;;;Investimento;FAZER PROJETO;;CAIXA;Aprovado Custeio Soja R$ 8,2MM | Custeio Milho R$ 8,8MM | Invest R$ 12MM;25-Jul;;;
+CAIXA;Palmas;;Eloisa;Eloisa;Jovane;EDEGAR SILVANI;AGRÍCOLA;; R$ 3.793.819,98 ;Custeio Agrícola;OPERAÇÃO CONCLUÍDA;;CAIXA;Aprovado Custeio Soja R$ 8,2MM | Custeio Milho R$ 8,8MM | Invest R$ 12MM;ABR;25/04/2024;Hip 5º grau - M:2029 Fazenda Fátima;
+SICREDI;PSO;;Geslaine;;Jovane;EDEGAR SILVANI;AGRÍCOLA;;;;ATUALIZADO ;;CAIXA;Aprovado Custeio Soja R$ 8MM | Custeio Milho R$ 8,8MM | Invest R$ 12MM;18-Jul;;;
+CAIXA;Palmas;;;;Jovane;EDERSON CASSEL CZEKALSKI;AGRÍCOLA;;;;PROCESSO PARADO;Rating B | Cliente sem garantia ;CAIXA;;11-Feb;;;
+SICOOB VILA PORTES;Pará;;;;Daniela;EDERSON CASSEL CZEKALSKI;AGRÍCOLA;;;;INATIVO;SEM GARANTIA;SICOOB;Limite reenviado 20/10;17-Nov;;;
+SICREDI;Colinas;;;;Carlos;EDERSON CASSEL CZEKALSKI;AGRÍCOLA;;;;ANALISE NEGATIVA;Sem garantia disponivél ;Enviado 29/12;Limite enviado 29/12;11-Feb;;;
+BB;Miracema;;;;Giovani;EDILSON FRANCISCO DE SOUZA (Esposa Clara);PECUÁRIA ;;;;CRÉDITO APROVADO;;BB;Aprovado Custeio R$98.000 | Invest R$268.000;10-Mar;;;
+SICREDI;Palmas;;Paulo;;Luana;EDILSON FRANCISCO DE SOUZA (Esposa Clara);PECUÁRIA ;;;RATING D;COBRAR GN;;;Limite enviado 24/05;05-Sep;;;
+SICREDI;PSO;;;;Romulo;EDIVAN PEREIRA BARROS;PECUÁRIA ;;;Cliente desistiu pq achou avaliação de imóvel cara;CRÉDITO APROVADO;Agendar visita para tentar no penhor;Enviado 16/08;Aprovado custeio R$ 150.000 | invest R$ 50.000 Garantia Real;20-Oct;;;
+CAIXA;Gurupí;;;;Josué;EDMILSON DE OLIVEIRA LOPES;PECUÁRIA ;;;ProjeteAgro;INATIVO;Rating C | Garantia BASA;CAIXA;Aprovado Custeio  R$ 105.000 | Invest R$ 112.000 ;14-Jan;;;
+CAIXA;Palmas;Geslaine;;Kaique;Jovane;EDSON DALLA CORT (Esposo REGIANE DALLA);AGRÍCOLA;; R$ 973.250,00 ;Invest. Máq; OPERAÇÃO CONCLUÍDA ;Parcelas R$ 162.208,33 (última 2029);CAIXA;Aprovado Custeio R$ 6.300.000 | Invest R$ 496.000 Parcela;JUL;25/07/2024;Penhor maquinário;
+CAIXA;Palmas;Geslaine;;Kaique;Jovane;EDSON DALLA CORT (Esposo REGIANE DALLA);AGRÍCOLA;; R$ 476.000,00 ;Invest. Máq; OPERAÇÃO CONCLUÍDA ;1º Parcela 25/10/2024;CAIXA;Aprovado Custeio R$ 6.300.000 | Invest R$ 315.414 Parcela;OUT;25/10/2029;Penhor Máquina;
+CAIXA;Palmas;Geslaine;;Kaique;Jovane;EDSON DALLA CORT (Esposo REGIANE DALLA);AGRÍCOLA;; R$ 833.000,00 ;Invest. Máq; OPERAÇÃO CONCLUÍDA ;1º Parcela 03/10/2024;CAIXA;Aprovado Custeio R$ 6.300.000 | Invest R$ 315.414 Parcela;OUT;03/10/2029;Penhor Máquina;
+CAIXA;Palmas;Geslaine;;Kaique;Jovane;EDSON DALLA CORT (Esposo REGIANE DALLA);AGRÍCOLA;; R$ 147.050,00 ;Invest. Máq; OPERAÇÃO CONCLUÍDA ;1º Parcela 16/07/2025;CAIXA;Aprovado Custeio R$ 13MM | Invest R$2,3MM Parcela;JUL;16/07/2031;Penhor Máquina;
+SICOOB UNICENTRO;Palmas;Geslaine;;Kaique;Diego;EDSON DALLA CORT (Esposo REGIANE DALLA);AGRÍCOLA;;;;COBRAR GN;;SICOOB;Limite enviado 09/05;09-May;;;
+SICREDI;PSO;;;;Romulo;EDSON KFOURI NETO;NADA CONSTA;;; Caixa - Rating F ; PROCESSO PARADO ;SICREDI :GN Sem interesse em movimentar com o cliente (obs: sempre com restritivo);;Limite enviado 05/07;20-Dec;;;
+CAIXA;Palmas;Julia;;;Jovane;EDUARDO ANTONIO FELKL KUMMEL (Ind Fabio Fonseca);AGRÍCOLA;;;;INATIVO;Falta doc;CAIXA;;30-May;;;
+CAIXA;PSO;Thais;Paulo;Pedro;Thiago;EGIDIO COSTA BARBOSA NETO (Esposa Michelly);PECUÁRIA ;; R$ 1.540.140,00 ;Custeio Pecuário; OPERAÇÃO CONCLUÍDA ;;CAIXA;Aprovado Custeio R$ 5MM | Invest R$ 333.000 Parcela;OUT;09/10/25;Hip. 3º grau - Faz Sonho Meu - M: 762;
+CAIXA;PSO;Thais;Paulo;Pedro;Thiago;EGIDIO COSTA BARBOSA NETO (Esposa Michelly);PECUÁRIA ;; R$ 495.000,00 ;Investimento; OPERAÇÃO CONCLUÍDA ;1º Parcela 10/10/2025;CAIXA;Aprovado Custeio R$ 5MM | Invest R$ 333.000 Parcela;OUT;10/10/33;Hip. 2º grau - Faz Sonho Meu - M: 762;
+CAIXA;PSO;;Geslaine;Pedro;Thiago;EGIDIO COSTA BARBOSA NETO (Esposa Michelly);PECUÁRIA ;; R$ 1.760.000,00 ;Investimento; OPERAÇÃO CONCLUÍDA ;1º Parcela 24/11/2025;CAIXA;Aprovado Custeio R$ 2,7MM | Invest R$ 474k Parcela;NOV;24/11/33;Hip. 4º grau - Faz Sonho Meu - M: 762;
+SICREDI;PSO;Thais;;;Romulo;EGIDIO COSTA BARBOSA NETO (Esposa Michelly);PECUÁRIA ;; R$ 350.000,00 ; Custeio Pecuário ; OPERAÇÃO CONCLUÍDA ;PAGO;Enviado 17/08; Aprovado Custeio R$ 350.000 garantia Penhor | Invest R$ 200.000 ;FEV;09/02/2023;Alienação Guarda-chuva M: 1284 - FAZ Pé do Morro;
+SICREDI;PSO;Thais;;;Romulo;EGIDIO COSTA BARBOSA NETO (Esposa Michelly);PECUÁRIA ;; R$ 173.957,76 ; Invest. 5 anos  ; OPERAÇÃO CONCLUÍDA ;;Enviado 11/08; Aprovado Custeio R$ 350.000 garantia Penhor | Invest R$ 200.000 ;JUN;24/06/2026;Alienação: Hilux;
+SICREDI;PSO;Thais;;;Romulo;EGIDIO COSTA BARBOSA NETO (Esposa Michelly);PECUÁRIA ;; R$ 350.000,00 ; Custeio Pecuário ; OPERAÇÃO CONCLUÍDA ;PAGO - não renovado devido falta de garantia;Enviado 11/08; Aprovado Custeio R$ 350.000 garantia Penhor | Invest R$ 200.000 ;SET;20/09/2023;Penhor;
+SICREDI;PSO;Thais;;Kaique;Romulo;EGIDIO COSTA BARBOSA NETO (Esposa Michelly);PECUÁRIA ;; R$ 860.000,00 ; Invest. Máq ; OPERAÇÃO CONCLUÍDA ;1º Parcela 15/05/2024;Enviado 06/03;Aprovado Custeio R$ 1MM;MAI;15/05/2032;Alienação Máquina;
+SICREDI;PSO;Thais;;Eloisa;Romulo;EGIDIO COSTA BARBOSA NETO (Esposa Michelly);PECUÁRIA ;; R$ 600.000,00 ; Custeio Pecuário ; OPERAÇÃO CONCLUÍDA ;;Enviado 06/03;Aprovado Custeio R$ 1MM;MAR;20/03/2025;Alienação Guarda-chuva M: 1284 - FAZ Pé do Morro;
+SICREDI;PSO;;;;Romulo;ELANO BARBOSA DE SOUZA;PECUÁRIA ;;;;INATIVO; Tomou recurso no BB |Ficha zerada ;; Aprovado R$100.000 custeio| R$50.000 invest |R$ 15.000 rotativo | R$ 30.000 Fomento leilão ;19-Jul;;;
+CAIXA;PSO;;Geslaine;;Thiago;ELENIR SÃO JOSÉ MILHOMEM (Mãe Murilo);PECUÁRIA ;; R$ 700.899,00 ;Custeio Pecuário;OPERAÇÃO CONCLUÍDA;;Enviado 18/01;Aprovado Custeio R$ 9,1MM | Invest parcela R$ 688K;NOV;24/11/2025;Hip. 1º grau - Faz Santa Helena II- M: 3652;Aprovado Custeio R$ 1,4MM | Invest R$600.000
+SICREDI;PSO;Julia;Wendell;Eloisa;Romulo;ELENIR SÃO JOSÉ MILHOMEM (Mãe Murilo);PECUÁRIA ;;;;ATUALIZADO ;DOSSIÊ ENVIADO - CARTA DE ANUENCIA;Enviado 18/01;;20-Oct;;;Aprovado Custeio R$ 1,4MM | Invest R$600.000
+SICOOB TOCANTINS;PSO;;;;Douglas;ELISMAR ALVES GUIDA;PECUÁRIA ;; R$ 50.000,00 ;Custeio Pecuário; OPERAÇÃO CONCLUÍDA ;Rating C - CX;SICOOB;;04-May;;;
+SICREDI;PSO;Julia;;Wendell;Jose Ailton;ELISMAR ALVES GUIDA;PECUÁRIA ;;;;FAZER PROJETO;;;Aprovado Custeio R$ 200k | Invest R$ 200k | CPR R$ 100k  | Invest R$ 100k;20-Oct;;;
+SICREDI;PSO;;;;Romulo;ELPIDIO PINHEIRO NOLETO;PECUÁRIA ;; R$ 320.000,00 ; Custeio Pecuário ; OPERAÇÃO CONCLUÍDA ;PAGO;;;OUT;30/10/2022;Hipoteca: Faz. Mata Azul;
+SICREDI;PSO;;;;Romulo;ELPIDIO PINHEIRO NOLETO;PECUÁRIA ;;;;CRÉDITO APROVADO; Cadastro atualizado mês 07 ;Enviado 28/12;Aprovado Custeio R$ 480.000 | Invest R$ 460.00  Garantia Real;20-Oct;;;
+SICREDI;PSO;;;Eloisa;Romulo;ELPIDIO PINHEIRO NOLETO;PECUÁRIA ;; R$ 200.000,00 ;FNO Animais; OPERAÇÃO CONCLUÍDA ;1º Parcela 10/03/2025;Feito 21/03;;MAR;10/03/2029;Hip 1ºgrau - Faz. Mata Azul;
+CAIXA;Palmas;;;;Jovane;EMERSON JOSE MENEGUETTI;PECUÁRIA ;;;;CONTA ENCERRADA; Rating C;Rating B;Aprovado Custeio R$ 2,1MM | Invest R$ 1MM;19-Oct;;;
+CAIXA;Palmas;;;;Jovane;EMERSON ZAUR DE OLIVEIRA (Socio Wilsom - Agromac);PECUÁRIA ;;;;CRÉDITO APROVADO;;CAIXA;Aprovado Custeio R$ 720.000 | Invest parcela R$ 40.593;14-Feb;;;
+SICREDI;PSO;;;;Romulo;EMERSON ZAUR DE OLIVEIRA (Socio Wilsom - Agromac);NADA CONSTA;; R$ 500.000,00 ;Custeio Pecuário; OPERAÇÃO CONCLUÍDA ;;Enviado 19/07;Aprovado Custeio R$ 500.000 penhor gado;SET;04/09/24;Penhor Gado (195 animais de 13 a 24 meses);
+SICREDI;PSO;;;;Romulo;EMIVAL COELHO DE ABREU;PECUÁRIA ;;; Médio 1 | Rating B CAIXA ; PROCESSO PARADO ;Falta toda DOC imovel + END + IRPF |Informou não precisar do recurso agora;; Limite enviado 05/05 ;15-Feb;;;
+CAIXA;Gurupí;;;;Josué;EMIVALDO ALVES DA SILVA;PECUÁRIA ;; R$ 384.250,00 ;Custeio Pecuário; OPERAÇÃO CONCLUÍDA ;;CAIXA;Aprovado Custeio R$1.316.459 | Invest R$ 337.000;JAN;05/01/24;Penhor + Hipoteca M: 2910;
+CAIXA;Gurupí;;;;Josué;EMIVALDO ALVES DA SILVA;PECUÁRIA ;;;;RENEGOCIAÇÃO;Rating E;CAIXA;Aprovado Custeio R$1.316.459 | Invest R$ 337.000;28-Dec;;;
+SICREDI;PSO;;;;Romulo;EMIVALDO ALVES DA SILVA;PECUÁRIA ;; R$ 36.550,00 ; Invest. 5 anos ; OPERAÇÃO CONCLUÍDA ;PROTEC AGRO 14/06;Enviado 21/09; Aprovado R$400.000 custeio | R$350.000 invest | Garatnia Real ;JUN;16/06/27;Penhor da máquina;
+SICREDI;PSO;;Geslaine;;Romulo;EMIVALDO ALVES DA SILVA;PECUÁRIA ;;;;ATUALIZADO ;;Enviado 21/09;;16-Aug;;;
+SICREDI;PSO;Julia;Geslaine;;Romulo;ERLAN JUNIO SOUZA;PECUÁRIA ;; R$ 300.000,00 ; Custeio Pecuário ; OPERAÇÃO CONCLUÍDA ;PAGO;; Aprovado R$ 300.000 custeio penhor | R$ 500.000 custeio | R$ 193.450 invest Garantia real ;JUN;19/06/2023;Penhor;
+SICREDI;PSO;Julia;Geslaine;Wendell;Romulo;ERLAN JUNIO SOUZA;PECUÁRIA ;; R$ 800.000,00 ; Custeio Pecuário ; OPERAÇÃO CONCLUÍDA ;;Enviado 14/03; Aprovado R$ 800.000 custeio | R$ 200.000 FNO ;SET;04/09/2025;Alienação - Faz Arueura -  M: 3557 ; Alienação 
+SICREDI;PSO;Julia;Geslaine;Wendell;Romulo;ERLAN JUNIO SOUZA;PECUÁRIA ;; R$ 200.000,00 ;FNO; OPERAÇÃO CONCLUÍDA ;1º Parcela 10/10/2026;Enviado 14/03; Aprovado R$ 800.000 custeio | R$ 200.000 FNO ;OUT;10/10/2028;Alienação - Faz Arueura -  M: 3557 ;
+CAIXA;Gurupí;;;;Josué;ERMICIO ALVES DE SOUSA;PECUÁRIA ;;;Pronaf; PROCESSO PARADO ;Falta Licença ambiental | Cliente desquitando;CAIXA;Aprovado custeio R$ 400.000;22-Nov;;;
+SICREDI;PSO;;;;Romulo;ERNANDES SILVA DE OLIVEIRA (Traterra);PECUÁRIA ;; R$ 380.000,00 ; Custeio Pecuário ; OPERAÇÃO CONCLUÍDA ;PROTEC AGRO 30/03 - 13/06;Feito 16/02;Aprovado Custeio R$ 380.000 Penhor | Invest R$ 200.000 Gar. real;JUN;06/06/2024;Penhor do gado ;
+SICREDI;PSO;Julia;Geslaine;Wendell;Romulo;ERNANDES SILVA DE OLIVEIRA (Traterra);PECUÁRIA ;; R$ 170.000,00 ; Custeio Pecuário ;CANCELADO;Falta enviar minuta guarda chuva;Feito 16/02;Limite enviado 19/01;20-Oct;;;
+BB;PSO;;Geslaine;Pedro;Thiago;ESIO BORGES DE ANDRADE;PECUÁRIA ;; R$ 403.537,95 ; Custeio Pecuário ; OPERAÇÃO CONCLUÍDA ;;BB;Aprovado Custeio R$ 750.000 | Invest R$ 1.450.000;DEZ;01/12/2024;Penhor;
+SICREDI;PSO;Geslaine;;Kaique;Romulo;ESIO BORGES DE ANDRADE;PECUÁRIA ;; R$ 166.842,00 ; Invest. 5 anos  ; OPERAÇÃO CONCLUÍDA ;;Enviado 04/03;R$ 700.000,00 custeio BB |Op. Sicredi foi um Carro (Agrotins);JUN;22/06/2026;Penhor: Caminhonete;
+SICREDI;PSO;Geslaine;;Wendell;Romulo;ESIO BORGES DE ANDRADE;PECUÁRIA ;; R$ 1.000.000,00 ; Custeio Pecuário ; OPERAÇÃO CONCLUÍDA ;;Enviado 04/03;Aprovado Custeio R$ 1,2 MM | Invest R$700.000 Alienação imóvel ;AGO;24/08/25;Alienação Guarda Chuva - M: 207; Alienação 
+SICREDI;PSO;Geslaine;;Kaique;Romulo;ESIO BORGES DE ANDRADE;PECUÁRIA ;; R$ 200.000,00 ;FNO Animais ;PROCESSO NO BANCO; PROTEC AGRO 15/06 ;Enviado 04/03;Aprovado Custeio R$ 1,2 MM | Invest R$700.000 Alienação imóvel ;15-Jun;;;
+SICREDI;PSO;;Geslaine;;Romulo;EURIPEDES BATISTA DA SILVA JUNIOR;PECUÁRIA ;;;;ATUALIZADO ;;;Limite enviado 07/06;20-Oct;;;
+CAIXA;Gurupí;;;;Josué;EURIPEDES RODRIGUES REBOUÇAS ;PECUÁRIA ;;;ProjeteAgro;INATIVO;Falta protocolo + avaliação;CAIXA;Aprovado Custeio R$ 674.000 | Invest R$ 312.000;22-Feb;;;
+SICREDI;Tocantinópolis;;;;Jordana;EURIVALDO GOMES;PECUÁRIA ;;;;FALTA DOC;;;;21-Mar;;;
+SICREDI;PSO;;;;Romulo;EUVALDO RESPLAND MONTELO (Esposa Solimeire) ;NADA CONSTA;;;;INATIVO;Cliente desistiu ;;;18-Aug;;;
+CAIXA;Palmas;Thais;;;Jovane;FABIANO RAFAEL KONRATH (Grupo Fabiano);AGRÍCOLA;;;Rating B;INATIVO;;;Aprovado Custeio R$8,4MM | Invest R$12,4MM;20-Jun;;;
+SICREDI;PSO;Thais;Geslaine;Wendell;Romulo;FABIANO RAFAEL KONRATH (Grupo Fabiano);AGRÍCOLA;; R$ 200.000,00 ;FNO Máq;INATIVO;Outro projetista 30/10;Feito 09/06;Aprovado Custeio R$800k | Invest R$400k | CPR R$400k | Garant. Alienação;20-Oct;;;
+BB;Palmas;;;;Leandro;FABIO BERTOLDI;AGRÍCOLA;;;;CONSULTAR RATING;EMBARGO na empresa onde o CPF é vinculado;BB;;14-Oct;;;
+CAIXA;Mato Grosso;;;Eloisa;Josué;FABIO BERTOLDI;AGRÍCOLA;;;;CRÉDITO APROVADO;Área embragada;CAIXA;Aprovado Custeio R$100MM | Invest R$ 14,1MM parcela;03-Jan;;;
+SICREDI;PSO;;;;Dijelaine;FABIO BERTOLDI;AGRÍCOLA;;;BAIXO 1;ATUALIZADO ;Limite enviado 07/03;; Aprovado custeio R$ 500.000 penhor | Invest R$500.000 | não subiu proposta ;04-May;;;
+CAIXA;Gurupí;;;;Josué;FABIO DELLA ROSA;AGR/PEC;;;; CRÉDITO APROVADO ;Sem garantia disponível;CAIXA; Aprovado Custeio R$ 976.800 | Invest parcela R$198.291 ;13-Oct;;;
+SICREDI;Roda Velha;;;;Daniel ;FABIO DELLA ROSA;AGR/PEC;; R$ 400.000,00 ; CPR Pecuário ; CRÉDITO APROVADO ;PROTEC AGRO 23/08;GN ; Aprovado R$ 550.000 garantia penhor + aval ;14-Nov;;;
+SICREDI;Roda Velha;;;;Daniel ;FABIO DELLA ROSA;AGR/PEC;; R$ 301.000,00 ; CPR Agrícola  ; OPERAÇÃO CONCLUÍDA ;3 anos - 1º parcela 10/03/2024;GN ; Aprovado R$ 550.000 garantia penhor + aval ;MAR;10/03/26;;
+SICREDI;Roda Velha;;;;Daniel ;FABIO DELLA ROSA;AGR/PEC;; R$ 500.000,00 ; Invest. CPR ; OPERAÇÃO CONCLUÍDA ;1º Parcela 14/10/2023;GN ; Aprovado R$ 550.000 garantia penhor + aval ;OUT;14/10/25;Penhor + aval;
+SICREDI;PSO;;;;Romulo;FABIO MARX;PECUÁRIA ;;;AGUARDANDO CONFIRMAÇÃO IMÓVEIS;ATUALIZADO ; Limite enviado 22/03 ;GN ;Aprovado Custeio R$ 50.000 Penhor + aval;22-Mar;;;
+SICREDI;PSO;;;;Dijelaine;FABIO PEREIRA DA MOTA;AGRÍCOLA;; R$ 100.000,00 ; Custeio Pecuário ; OPERAÇÃO CONCLUÍDA ;;Feito 21/02;Aprovado custeio R$ 100.000 | Invest R$ 100.000 garantia real ;JUN;10/06/2024;Hip 1º grau : Faz Boa Nova M:1205;
+SICREDI;PSO;Eloisa;;Kaique;Dijelaine;FABIO PEREIRA DA MOTA;AGRÍCOLA;; R$ 200.000,00 ; FNO Animais ; OPERAÇÃO CONCLUÍDA ;1º Parcela 01/05/2027;Feito 24/04;;MAI;10/05/2030;Hip 2º grau : Faz Boa Nova M:1205;
+SICREDI;PSO;;;;Romulo;FABRICIO PEREIRA AIRES (Filho Dirce);NADA CONSTA;;;;INATIVO  ;DOC IMOVEL +END + FICHA+ IR;; Setembro ;08-Dec;;;
+SICREDI;PSO;;;;Romulo;FELIPE (Neto JACO);NADA CONSTA;;;Ind. Mãe do Felipe; PROCESSO PARADO ;Falta fazer contrato de locação e FIC -cadastro na ADAPEC;;;28-Jan;;;
+CAIXA;PSO;Julia;Geslaine;Pedro;Thiago;FELIPE DOUGLAS SILVA DE DEUS (Ind Felipe);AGRÍCOLA;;;Ind. Felipe;CRÉDITO APROVADO;;CAIXA;Aprovado Custeio R$ 8,9MM | Invest R$ 1,4 Parcela;04-Nov;;Rating B;
+BB;Guaraí;Julia ;;Pedro;Dienes;FELIPE EDUARDO FERREIRA SIQUEIRA;AGRÍCOLA;; R$ 528.725,25 ;Custeio Agrícola;OPERAÇÃO CONCLUÍDA;;BB;Produção atualizada 16/06 | 18/11;NOV;28/11/2024;Penhor;
+CAIXA;PSO;Julia ;;Pedro;Andre;FELIPE EDUARDO FERREIRA SIQUEIRA;AGRÍCOLA;; R$ 2.942.500,00 ;Investimento;OPERAÇÃO CONCLUÍDA;1º Parcela 20/11/2025;CAIXA;Aprovado Custeio R$ 6MM | Invest R$ 623K Parcela;OUT;20/11/2031;Hip. 7º grau - Faz Corego Barreiro - M: 7748;
+SICREDI;PSO;;;Wendell;Dijelaine;FELIPE EDUARDO FERREIRA SIQUEIRA;AGRÍCOLA;;;Sócio;ATUALIZADO ;;Feito 17/03;Limite Enviado 15/02;15-Feb;;;
+SICOOB;Palmas;;;Wendell;Erick;FELIPE EDUARDO FERREIRA SIQUEIRA;AGRÍCOLA;;;;CRÉDITO APROVADO;;BB;Aprovado Custeio R$ 700k | Invest R$700k (Maq) - garantias Penhor;04-Dec;;;
+BB;PARANÁ;;;;SEM GN;FERNANDA CRISPIM SADOVAL CAMACHO;AGRÍCOLA;; R$ 776.646,40 ; Custeio Agrícola ; OPERAÇÃO CONCLUÍDA ;;BB;;09-Jul;;;
+CAIXA;Palmas;;Geslaine;Pedro;Jovane;FERNANDO ARAUJO DE PAIVA (Pai Marcos);PECUÁRIA ;; R$ 900.000,00 ;Custeio Pecuário;FAZER PROJETO;;CAIXA;Aprovado Custeio R$ 5,2MM | Invest R$ 277k Parcela;30-Aug;;;
+SICREDI;PSO;;;;Dijelaine;FERNANDO BERTOLDI;AGRÍCOLA;;;;ATUALIZADO ;Embargo na empresa onde o CPF é vinculado;Enviado 13/09; Limite enviado 07/03 ;04-May;;;
+SICREDI;PSO;;Paulo;Kaique;Romulo;FERNANDO DOS REIS BARROS (Cunhado Sara );PECUÁRIA ;; R$ 200.000,00 ;FNO Animais;OPERAÇÃO CONCLUÍDA;1º Parcela 10/08/2026;Feito 22/08;Aprovado Custeio R$ 300.000 | Invest R$ 300.000- Garantia Hip.;AGO;10/08/2030;Penhor;
+CAIXA;Gurupí;;;;Josué;FERNANDO MALACARNE;AGRÍCOLA;;;;INATIVO;Rating A | DRIVE 06/05;CAIXA;Aprovado Custeio R$ 7,5MM | Invest R$ 7,3MM;06-May;;;
+SICREDI;PSO;;;;Dijelaine;FERNANDO MALACARNE;AGRÍCOLA;; R$ 450.000,00 ; Invest. 5 anos  ; OPERAÇÃO CONCLUÍDA ;;Enviado 11/08;Aprovado R$2MM | R$1MM invest | R$2,5MM comercialização | R$ 150.000 rotativo;NOV;12/11/2026;Hipoteca: Faz.Malacarne M-1.354;
+SICREDI;PSO;;;;Dijelaine;FERNANDO MALACARNE;AGRÍCOLA;; R$ 999.998,60 ; Custeio Agrícola  ; OPERAÇÃO CONCLUÍDA ;;Enviado 11/08;Aprovado R$2MM | R$1MM invest | R$2,5MM comercialização | R$ 150.000 rotativo;JUL;24/07/2022;Hipoteca: Faz.Malacarne M-1.354;
+SICREDI;PSO;;;;Dijelaine;FERNANDO MALACARNE;AGRÍCOLA;; R$ 519.948,00 ; CPR ; OPERAÇÃO CONCLUÍDA ;;Enviado 11/08;Aprovado R$2MM | R$1MM invest | R$2,5MM comercialização | R$ 150.000 rotativo;MAI;10/05/2022;Penhor;
+SICREDI;PSO;;;;Dijelaine;FERNANDO MALACARNE;AGRÍCOLA;; R$ 1.500.000,00 ; Comercialização ; OPERAÇÃO CONCLUÍDA ;;Enviado 11/08;Aprovado R$2MM | R$1MM invest | R$2,5MM comercialização | R$ 150.000 rotativo;JAN;19/01/2022;Penhor;
+SICREDI;PSO;;;;Dijelaine;FERNANDO MALACARNE;AGRÍCOLA;; R$ 1.000.000,00 ; Custeio Agrícola  ; OPERAÇÃO CONCLUÍDA ;;Enviado 11/08;Aprovado R$2MM | R$1MM invest | R$2,5MM comercialização | R$ 150.000 rotativo;ABR;29/04/2022;Hipoteca: Faz.Malacarne M-1.354;
+SICREDI;PSO;;;;Dijelaine;FERNANDO MALACARNE;AGRÍCOLA;; R$ 990.000,00 ; Custeio Agrícola  ; OPERAÇÃO CONCLUÍDA ;;Enviado 11/08;Aprovado R$2MM | R$1MM invest | R$2,5MM comercialização | R$ 150.000 rotativo;ABR;29/04/2022;Hipoteca: Faz.Malacarne M-1.354;
+SICREDI;PSO;;;;Dijelaine;FERNANDO MALACARNE;AGRÍCOLA;; R$ 450.000,00 ; Invest. 5 anos  ; OPERAÇÃO CONCLUÍDA ;;Enviado 11/08;Disponível Invest R$ 1.000.000 |Custeio R$ 500.000 penhor;NOV;12/11/26;Hipoteca: Faz.Malacarne; Minuta (Alienação) 
+SICREDI;PSO;;;;Dijelaine;FERNANDO MALACARNE;AGRÍCOLA;; R$ 1.300.000,00 ; Custeio Agrícola  ; OPERAÇÃO CONCLUÍDA ;;Enviado 11/08;Aprovado Custeio R$3MM| Invest R$2MM |Comec R$ 1,5MM |Livre (CPR /MOEDA) R$560.000;JUN;15/06/23;Hipoteca: Faz. Malacarne IV; Minuta (Alienação) 
+SICREDI;PSO;;;;Dijelaine;FERNANDO MALACARNE;AGRÍCOLA;; R$ 1.665.000,00 ; Custeio Agrícola  ; OPERAÇÃO CONCLUÍDA ;;Enviado 11/08;;MAR;16/03/2023;Hipoteca: 4º grau, Faz. Malacarne IV; Minuta (Alienação) 
+SICREDI;PSO;;;;Dijelaine;FERNANDO MALACARNE;AGRÍCOLA;; R$ 1.650.000,00 ; Custeio Agrícola  ; OPERAÇÃO CONCLUÍDA ;PAGO;Enviado 11/08;Prote agro 30/08;ABR;16/04/2023;Alienação guarda chuva - Malacarne IV; Minuta (Alienação) 
+SICREDI;PSO;Geslaine;;Eloisa;Dijelaine;FERNANDO MALACARNE;AGRÍCOLA;; R$ 1.999.987,87 ;CPR;OPERAÇÃO CONCLUÍDA;;Enviado 11/08;Aprovado R$ 2MM de CPR (Custeio ou investimento);MAI;18/05/2025;Alienação guarda chuva - Malacarne IV;
+SICREDI;PSO;;;;Romulo;FRANCISCO BARSTOZEK;AGRÍCOLA;;;; INATIVO ;;; Limite feito - tomou recurso no BB ;09-Jul;;;
+SICREDI;PSO;;;;Dijelaine;FRANCISCO DE SOUZA LIMA;PECUÁRIA ;;;;CRÉDITO APROVADO;;;Aprovado Custeio R$500.000 | Invest R$ 300.000 Garatnia Hip.;16-Nov;;;
+SICREDI;PSO;;;;Romulo;FRANCISCO FERREIRA FILHO;PECUÁRIA ;; R$ 170.000,00 ; Custeio Pecuário ; OPERAÇÃO CONCLUÍDA ;;Enviado 28/07;;OUT;12/10/2022;Hipoteca: Faz. Canadá;
+SICREDI;PSO;;;;Romulo;FRANCISCO FERREIRA FILHO;PECUÁRIA ;;;;ATUALIZADO ;;Enviado 28/07;Limite enviado 28/07;15-Sep;;;
+SICREDI;Tocantinópolis;;;;Jordana;FRANCISCO SILVA MARQUES;PECUÁRIA ;;;;INATIVO;Vendeu a fazenda;GN;;14-Feb;;; VÍDEO ESCRITÓRIO ENVIADO 
+SICREDI;Roda Velha;;;;Daniel ;FRANCISMONE AMORIM DE OLIVEIRA;PECUÁRIA ;;; Pronaf ;PROCESSO PARADO;Falta Mat + Ficha + CAR;GN ;Limite enviado 27/07;10-May;;;
+SICREDI;PSO;Julia;Wendell;Wendell;Romulo;FRANCYARA MOTA DE OLIVEIRA ASSIS FRANCELINO (Esposo Geverson);PECUÁRIA ;; R$ 500.000,00 ;Custeio Pecuário;OPERAÇÃO CONCLUÍDA;;Feito 30/03;Aprovado Custeio R$500K | Invest R$ 400K | CPR R$ 300K Garatnia Hip.;OUT;26/10/2025;Alienação Guarda chuva - M: 350; Minuta (Alienação) 
+CAIXA;Gurupí;;;;Josué;FRANK LYLE DIRKS;PECUÁRIA ;;;ProjeteAgro;INATIVO;Rating B |Falta protocolo e inscrição;CAIXA;Aprovado Custeio R$253.000 | Invest R$ 25.800;22-Apr;;;
+SICREDI;PSO;;;;Dijelaine;FREDERICO GARIBALDE MATEUS (Pai Pedro Jr Gomes);PECUÁRIA ;;;;ATUALIZADO ;MÉDIO 2;Enviado 26/05;Aprovado Custeio R$ 500.000 | Invest R$ 300.000 Garantia hip guarda chuva;05-Jan;;; Minuta (Hipoteca) 
+BB;PSO;;;;Ricardo;GABRIEL DA LUZ;PECUÁRIA ;;;;CRÉDITO APROVADO;Área já beneficiada no sicredi | Garantia Hip guarda chuva;BB;Aprovado Custeio R$ 30.000 | Invest R$ 150.000;17-Nov;;;
+SICREDI;PSO;;;;Romulo;GABRIEL DA LUZ;PECUÁRIA ;; R$ 150.000,00 ; Custeio Pecuário ; OPERAÇÃO CONCLUÍDA ;;;;JUN;06/06/2023;Hipoteca: Faz. Santa Luiza;
+SICREDI;PSO;;;;Romulo;GABRIEL DA LUZ;PECUÁRIA ;; R$ 220.000,00 ; Custeio Pecuário ; OPERAÇÃO CONCLUÍDA ;Garantia sobro26 mil;Enviado 27/07;Aprovado Custeio R$ 380.000 | Invest R$ 140.000 Garantia Alienação;DEZ;24/12/2024;Alienação guarda chuva  M: 23209;
+SICREDI;PSO;;;;Romulo;GEDEAN ALVES GOMES (Alonso Gomes);PECUÁRIA ;;;;FALTA DOC;Ficha + doc M: 759;;;19-Oct;;;
+SICREDI;Colinas;;;;Carlos;GEICIANE COSTA OLIVEIRA BANDEIRA | Esposo EDIVAL BANDEIRA DOS SANTOS;PECUÁRIA ;; R$ 100.000,00 ; Custeio Pecuário ; OPERAÇÃO CONCLUÍDA ;OUTRO PROJETISTA -10.05.2023;GN;Aprovado Custeio R$ 100.000 | Invest R$ 68.000 Garantia Hipoteca;JUL;10/07/23;Alienação guarda Chuva; Minuta (Alienação) 
+SICREDI;Colinas;;;;Carlos;GEICIANE COSTA OLIVEIRA BANDEIRA | Esposo EDIVAL BANDEIRA DOS SANTOS;PECUÁRIA ;; R$ 68.000,00 ; Invest. 5 anos  ; OPERAÇÃO CONCLUÍDA ;OUTRO PROJETISTA -10.05.2023;GN;Aprovado Custeio R$ 100.000 | Invest R$ 68.000 Garantia Hipoteca;MAI;18/05/23;Alienação guarda Chuva; Minuta (Alienação) 
+SICREDI;PSO;;;;Romulo;GENIVALDO BANDEIRA LABRE BARROS ;PECUÁRIA ;;;Ind. Paulo Guida;ATUALIZADO ;ESPOSA COM RESTRITIVO / RATING E;Enviado 30/08;Limite enviado 30/08;15-Sep;;;
+BB;Cristalândia;;;;SEM GN;GEOVANE ALVES DOS SANTOS;PECUÁRIA ;;; BAIXO 1 ; ANALISE NEGATIVA ;;BB;;09-Feb;;;
+SICREDI;PSO;;Geslaine;;Romulo;GEOVANE ALVES DOS SANTOS;PECUÁRIA ;;;;ATUALIZADO ;Limite enviado 16/06 (Risco Alto 1);;Aprovado Custeio R$ 470.000 | Invest R$ 300.000 Alienação;16-Jun;;;
+SICREDI;PSO;;;;Romulo;GERALDINHO LIMA PARENTE;NADA CONSTA;;;;INATIVO;Risco Alto 2;; Sem documentação ;07-Apr;;;
+SICREDI;PSO;;;;Dijelaine;GERALDO ANTONIO DE RESENDE SAMPAIO;NADA CONSTA;;;; INATIVO ;FEZ COM OUTRO PROJETISTA;;;09-Jul;;;
+CAIXA;Palmas;;;;Jovane;GERALDO ANTONIO POLIZEL (Ind Fabio);AGRÍCOLA;;;;CRÉDITO APROVADO;;CAIXA;Aprovado Custeio R$ 795.293,95 | Invest R$ 1,1MM;01-Aug;;;
+CAIXA;Palmas;;Geslaine;;Jovane;GERALDO ANTONIO POLIZEL (Ind Fabio);;;;;CRÉDITO APROVADO;;CAIXA;Aprovado Custeio R$795.000| Invest R$239.981,00 Parcela;20-Jun;;;
+CAIXA;Palmas;;;;Jovane;GERALDO DE MARGELA;PECUÁRIA ;;;; CRÉDITO APROVADO ; Rating A ;Enviado 03/08;Aprovado Custeio R$ 1,2 MM | Invest R$ 300.000,00;10-Aug;;Fazenda Carnaiba;
+SICREDI;Colinas;;;;Carlos;GERALDO DE MARGELA;PECUÁRIA ;; R$ 140.000,00 ; Custeio Pecuário ; OPERAÇÃO CONCLUÍDA ;;Enviado 03/08; Aprovado R$80.00 invest e R$140.000 custeio  ;JUL;26/07/2023;Alienação: Guarda Chuva - Faz. Carnaiba 2197; Minuta (Alienação) 
+SICREDI;Colinas;;;;Carlos;GERALDO DE MARGELA;PECUÁRIA ;; R$ 200.000,00 ; Invest. 5 anos ; OPERAÇÃO CONCLUÍDA ; 1º parcela 24/04/2023 ;Enviado 03/08;Limite enviado 07/01 | Pré aprovado invest R$200.000;ABR;24/04/2027;Alienação: Guarda Chuva - Faz. Carnaiba 2197; Minuta (Alienação) 
+SICREDI;PSO;;;;Romulo;GERALDO VIEIRA SILVA NETO;PECUÁRIA ;;;;INATIVO;Taxa de juros alta;;;21-Mar;;;
+BB;PARANÁ;;;;SEM GN;GILBERTO BARBOSA SANDOVAL ;AGR/PEC;; R$ 1.006.642,00 ; Custeio Agrícola ; OPERAÇÃO CONCLUÍDA ;;BB;;09-Jul;;;
+BB;PARANÁ;;;;SEM GN;GILBERTO BARBOSA SANDOVAL JUNIOR - Filho;AGR/PEC;; R$ 475.200,00 ; Custeio Agrícola ; OPERAÇÃO CONCLUÍDA ;;BB;;09-Jul;;;
+CAIXA;PSO;Thais;;;Thiago;GILBERTO JACO STEIN (Grupo Fabiano);AGRÍCOLA;;;Rating A;INATIVO;;CAIXA;Aprovado Custeio Soja R$ 4,8MM | Custeio Milho R$ 4,3MM | Invest R$ 1,3 MM Parcela;16-Jun;;;
+SICREDI;PSO;;;;Romulo;GILBERTO MARCIEL MARINHO (Esposa Fernanda);PECUÁRIA ;;;;CRÉDITO APROVADO;;;Aprovado Custeio R$ 200.000 Hipoteca;14-Nov;;;
+CAIXA;PSO;;;;Thiago;GILBERTO MELO RAMOS;AGR/PEC;;;;CONSULTAR RATING;Rating D;CAIXA;;28-Dec;;;
+SICREDI;PSO;;;;Romulo;GILBERTO MELO RAMOS (Cliente Wanderly );AGR/PEC;;;; ANALISE NEGATIVA ;Má referencia da agência de Gurupí;Enviado 13/01; Limite enviado 15/09 ;17-Oct;;;
+SICREDI;PSO;Julia ;;;Jose Ailton;GILMAR ALVES GUIDA;PECUÁRIA ;;;;CRÉDITO APROVADO;;Enviado 09/03;Aprovado Custeio R$98.000;20-Oct;;;
+SICREDI;PSO;;;;Romulo;GILMAR CASTRO MAGALHAES (Filho Gildo);PECUÁRIA ;;;;CRÉDITO APROVADO;Hipoteca o BASA;Feito 21/09;Aprovado Custeio R$200.000 | Invest R$200.000 -TD Garantia Real;23-Jan;;;
+SICREDI;Colinas;;;;Carlos;GILMAR GALDINO DE SOUZA;AGR/PEC;;;; PENDENCIA ;CAR unificado (pendencia) ;GN ;Aprovado Custeio R$223.000 | Invest R$200.000 - Garantia Real;29-Sep;;;
+CAIXA;Gurupí;;;;Josué;GILVAN DIAS DA SILVA;PECUÁRIA ;; Pronaf ;Cliente irá operar no BASA | Vamos tentar e enviar limite na caixa;PROCESSO PARADO;Falta Certidão de casamento + END + IRPF;CAIXA;Enviado doc abertura de conta 26/11;06-Jan;;;Rating A
+CAIXA;Palmas;;;;Jovane;GISELE CABRERA DE PAULA;AGRÍCOLA;;;Ind Ricardo New holland;PROSPECT;Rating C;CAIXA;;20-Jul;;;
+SICREDI;PSO;Thais;;;Romulo;GISMAEL COMIN;AGRÍCOLA;; R$ 499.891,20 ; CPR ; OPERAÇÃO CONCLUÍDA ;PAGO;Enviado 26/07;;JUN;11/06/2022;Penhor;
+SICREDI;PSO;Thais;Wendell;;Romulo;GISMAEL COMIN;AGRÍCOLA;;;;ATUALIZADO ;Rating C;Enviado 26/07;Aprovado Custeio R$500.000 penhor +aval (Vlademir) | Invest R$1MM penhor maq;20-Oct;;;
+CAIXA;Palmas;;Geslaine;Eloisa;Jovane;GLAUBER WANDERLEY SANTOS (Ind Romulo - Maria Luiza);PECUÁRIA ;;;;CRÉDITO APROVADO;;CAIXA;Aprovado Custeio R$ 957k | Invest R$ 50k Parcela;10-Oct;;;
+SICREDI;PSO;;Geslaine;;Romulo;GUILHERME GOMES RIBEIRO;PECUÁRIA ;;;Alto 1;CONSULTAR CPF;Pais donos da área com pedencia nos CPF's (Receita federal);Enviado 29/09;Limite enviado 01/11;27-Dec;; Aprovado Custeio R$ 300.000 | Invest R$ 250.000 Alienação de imóvel ;
+CAIXA;Palmas;Julia;Paulo;Kaique;Jovane;GUILHERME RODRIGUES DA SILVA (Weley - Tovese);AGR/PEC;;; Custeio Pecuário ; OPERAÇÃO CONCLUÍDA ;;CAIXA;Aprovado Custeio Milho R$3,5MM | Custeio Pec R$ 4,4MM | Invest Parcela 1,8MM;MAI;25/05/2025;Hip 2º grau, Faz Jesus Misericordioso IV - M: 11129;
+CAIXA;Palmas;Julia;Paulo;Kaique;Jovane;GUILHERME RODRIGUES DA SILVA (Weley - Tovese);AGR/PEC;; R$ 2.244.000,00 ;Investimento; OPERAÇÃO CONCLUÍDA ;1º Parcela 02/08/2025;CAIXA;Aprovado Custeio Milho R$3,5MM | Custeio Pec R$ 4,4MM | Invest Parcela 1,8MM;AGO;02/08/2030;Hip 1º grau, Faz Jesus Misericordioso IV - M: 11129;
+CAIXA;Palmas;Julia;Paulo;Pedro;Jovane;GUILHERME RODRIGUES DA SILVA (Weley - Tovese);AGR/PEC;; R$ 1.760.058,00 ; Custeio Pecuário ; OPERAÇÃO CONCLUÍDA ;;CAIXA;Aprovado Custeio Milho R$3,5MM | Custeio Pec R$ 4,4MM | Invest Parcela 1,8MM;AGO;25/08/2025;Hip 4º grau, Faz Jesus Misericordioso IV - M: 11129;
+CAIXA;Palmas;Julia;Paulo;Pedro;Jovane;GUILHERME RODRIGUES DA SILVA (Weley - Tovese);AGR/PEC;; R$ 2.254.296,00 ;Investimento; OPERAÇÃO CONCLUÍDA ;1º Parcela 01/08/2025;CAIXA;Aprovado Custeio Milho R$3,5MM | Custeio Pec R$ 4,4MM | Invest Parcela 1,8MM;AGO;01/08/2033;Hip 3º grau, Faz Jesus Misericordioso IV - M: 11129;
+CAIXA;Palmas;Julia;;Eloisa;Jovane;GUILHERME RODRIGUES DA SILVA (Weley - Tovese);AGR/PEC;; R$ 2.000.909,00 ;Invest. Irrigação;PROCESSO NO BANCO;;CAIXA;Aprovado Custeio Milho R$3,5MM | Custeio Pec R$ 4,4MM | Invest Parcela 1,8MM;18-Dec;;;
+BB;PSO;;;;SEM GN;GUILHERME RODRIGUES MORAES (Sócio AGROGF);AGRÍCOLA;; R$ 1.053.734,91 ; Custeio Agrícola ; OPERAÇÃO CONCLUÍDA ;;BB;;;;;
+BB;Guaraí;;;Kaique;Dienes;GUILHERME RODRIGUES MORAES (Sócio AGROGF);AGRÍCOLA;; R$ 1.174.854,20 ;Custeio Agrícola; OPERAÇÃO CONCLUÍDA ;;BB;;DEZ;01/12/2022;Hipoteca: 3º Faz.Corrego Seco;
+BB;Guaraí;;;Kaique;Dienes;GUILHERME RODRIGUES MORAES (Sócio AGROGF);AGRÍCOLA;; R$ 1.441.117,15 ;Custeio Agrícola; OPERAÇÃO CONCLUÍDA ;Feito alongamento 20/04;BB;;AGO;10/08/2022;Hipoteca: 2º Faz. Assis I;
+BB;Guaraí;;;Kaique;Dienes;GUILHERME RODRIGUES MORAES (Sócio AGROGF);AGRÍCOLA;; R$ 1.499.978,23 ;Custeio Agrícola; OPERAÇÃO CONCLUÍDA ;;BB;;AGO;10/08/2023;Aval : Rodrigo Alves;
+BB;Guaraí;;;Kaique;Dienes;GUILHERME RODRIGUES MORAES (Sócio AGROGF);AGRÍCOLA;; R$ 1.499.978,23 ;Custeio Agrícola; OPERAÇÃO CONCLUÍDA ;;BB;;AGO;10/08/2023;Aval : Rodrigo Alves;
+BB;Guaraí;;;Kaique;Dienes;GUILHERME RODRIGUES MORAES (Sócio AGROGF);AGRÍCOLA;; R$ 497.402,67 ;Custeio Agrícola; OPERAÇÃO CONCLUÍDA ;;BB;;DEZ;01/12/2022;Aval;
+BB;Guaraí;;;Kaique;Dienes;GUILHERME RODRIGUES MORAES (Sócio AGROGF);AGRÍCOLA;; R$ 1.199.782,40 ;Custeio Agrícola; OPERAÇÃO CONCLUÍDA ;;BB;;AGO;15/08/2024;Penhor 1º grau ;
+BB;Guaraí;;Pedro;Pedro;Dienes;GUILHERME RODRIGUES MORAES (Sócio AGROGF);AGRÍCOLA;; R$ 2.216.228,00 ;Custeio Agrícola; OPERAÇÃO CONCLUÍDA ;;BB;;NOV;01/11/2024;Penhor + aval do Felipe;
+BB;Guaraí;;;Pedro;Dienes;GUILHERME RODRIGUES MORAES (Sócio AGROGF);AGRÍCOLA;; R$ 411.963,81 ;Custeio Agrícola; OPERAÇÃO CONCLUÍDA ;;BB;;OUT;15/10/2024;Penhor;
+CAIXA;PSO;;;Eloisa;Andre;GUILHERME RODRIGUES MORAES (Sócio AGROGF);AGRÍCOLA;; R$ 2.997.500,00 ;Investimento; OPERAÇÃO CONCLUÍDA ;;CAIXA;Aprovado Custeio R$ 40MM | Invest R$ 10MM Parcela;19-Oct;;;
+SICREDI;PSO;;;Wendell;Dijelaine;GUILHERME RODRIGUES MORAES (Sócio AGROGF);AGRÍCOLA;;;;ATUALIZADO ;Aprovado custeio R$500.000 | Invest R$ 300.000;Feito 17/03;Limite enviado 15/02;15-Feb;;;
+BB;PSO;;;Pedro;SEM GN;GUILHERME RODRIGUES MORAES (Sócio AGROGF);AGRÍCOLA;; R$ 411.963,81 ; Custeio Agrícola ; OPERAÇÃO CONCLUÍDA ;;BB;;OUT;15/11/2024;Penhor;
+SICREDI;Tocantinópolis;;;Kaique;Jordana;GUILHERME ROQUES GOMES (Esposa Samilla);PECUÁRIA ;; R$ 221.598,40 ;CPR; OPERAÇÃO CONCLUÍDA ;1º Parcela 16/11/2024;GN;Limite enviado 31/10 |Pré Aprovado R$ 218.000,00;NOV;16/11/2027;Penhor; VÍDEO ESCRITÓRIO ENVIADO 
+SICREDI;Tocantinópolis;;;Eloisa;Jordana;GUILHERME ROQUES GOMES (Esposa Samilla);PECUÁRIA ;; R$ 200.000,00 ;FNO Animais;PROCESSO NO BANCO;PROTEC AGRO 27/03;GN;Aprovado Custeio R$ 332.000 | Invest R$ 858.000 | CPR R$472.000 E R$767.000;27-Mar;;;
+SICREDI;Tocantinópolis;;;Eloisa;Jordana;GUILHERME ROQUES GOMES (Esposa Samilla);PECUÁRIA ;; R$ 100.000,00 ;FNO Cerca;PROCESSO NO BANCO;PROTEC AGRO 30/03;GN ;;30-Mar;;;
+CAIXA;Palmas;Julia;;;Jovane;HALF COTRIM DE CASTRO (Ind Fabio);;;;;INATIVO;;CAIXA;;30-May;;;
+CAIXA;Palmas;Thais ;Wendell;;Jovane;HANDERSON DENILSON BIHAIN (Ind Felipe);AGRÍCOLA;;Baixo 2;Rating C;CRÉDITO APROVADO;CAR com área consolidada zerada;CAIXA;Aprovado Custeio Soja R$ 960K Milho R$ 927k | Invest R$ 1,6MM;20-Oct;;;Cc Sicredi Pedro Afonso | Rating C
+CAIXA;Palmas;;Eloisa;;Jovane;HARLLYS PEREIRA DE SOUSA (Procuradora Silvania);PECUÁRIA ;;;; CRÉDITO APROVADO ; Rating B | falta adapec atualizada ;CAIXA; Aprovado Custeio R$197.000| Invest R$392.000 ;20-Oct;;;
+SICREDI;PSO;;Eloisa;;Romulo;HARLLYS PEREIRA DE SOUSA (Procuradora Silvania);PECUÁRIA ;;;; CRÉDITO APROVADO ;;Feito 16/03; Aprovado Custeio R$200.000 Garantia hip. Guarda chuva ;20-Oct;;;
+CAIXA;Palmas;Julia;Geslaine;;Jovane;HEBERSON GOLON (Ind Romulo Maria Luiza);PECUÁRIA ;;;Rating A;INATIVO;Definir garantia;CAIXA;Aprovado Custeio Milho R$ 1,6MM | Custeio Pec R$ 2,6 MM | Invest R$ 447k Parcela;14-Sep;;;
+SICREDI;PSO;Julia;;;Romulo;HEITOR PEREIRA BEZERRA;PECUÁRIA ;;;;EMBARGO;Pendencia ITR e CND receita Federal | EMBARGO IBAMA;Enviado 15/10;Aprovado Custeio R$ 170.000 | Invest R$ 100.000 Garantia Imovél;21-Sep;;;
+CAIXA;PSO;;;;Fernando;HELOISA HELENA DE LIRA AGUIAR (Reges);PECUÁRIA ;;;Ind Caixa Pso;CRÉDITO APROVADO;Sem área para beneficiar;CAIXA;Aprovado Custeio R$ 3.675.000 | Invest parcela R$ 88.764;20-Oct;;;
+CAIXA;Palmas;Julia;Geslaine;Eloisa;Jovane ;HELOYSE SOFIA RIOS SANTOS (Esposa Rafael Gordo);AGRÍCOLA;; R$ 2.984.686,06 ;Custeio Agrícola;OPERAÇÃO CONCLUÍDA;;CAIXA;Aprovado Custeio R$ 3,4MM | Invest R$ 600.000 parcela;OUT;;;
+CAIXA;Palmas;Julia;Geslaine;Eloisa;Jovane ;HELOYSE SOFIA RIOS SANTOS (Esposa Rafael Gordo);AGRÍCOLA;; R$ 725.000,00 ;Invest. Máq;PROCESSO NO BANCO;Enviado 08/11;CAIXA;;09-Nov;;;
+CAIXA;Palmas;Julia;Geslaine;Eloisa;Jovane ;HELOYSE SOFIA RIOS SANTOS (Esposa Rafael Gordo);AGRÍCOLA;; R$ 3.063.500,00 ;Investimento;OPERAÇÃO CONCLUÍDA;1º Parcela 06/11/2025;CAIXA;;NOV;06/11/2028;Hip 3º grau - Faz Morada Nova - M: 5931;
+SICREDI;PSO;;;;Romulo;HENRIQUE BORGES GARCIA;PECUÁRIA ;;; Rico ; SEM INTERESSE ;R$ 2MM aplicado não precisa de recurco;; Limite enviado jun/20  ;14-Jul;;;
+SICREDI;PSO;;Paulo;;Romulo;HENRIQUE TEIXEIRA MARINHO;PECUÁRIA ;;rating D; Baixo 1 ;ATUALIZADO ;AINDA N SUBIU P.O;Enviado 21/10; Limite enviado 13/04 ;04-May;;;
+SICREDI;PSO;;;;Romulo;HENRIQUE VICENTE PINTO TEIXEIRA;AGRÍCOLA;;;;FALTA DOC;;Enviado 29/09;;19-Jan;;;
+SICREDI;PSO;;;;Romulo;HERBAS PEREIRA BEZERRA;NADA CONSTA;;;; INATIVO ; Problemas Judiciais, Tira crédito no nome da Aldenora ;;;09-Jul;;;
+SICREDI;PSO;;;;Romulo;HERCULES PINTO TEIXEIRA (Pai Henrique Teixeira);PECUÁRIA ;;;;FALTA DOC;Toda a doc;;;21-Sep;;;
+SICREDI;PSO;;Geslaine;Wendell;Romulo;HERISON DE SÁ MOLHOMENS;PECUÁRIA ;; R$ 200.000,00 ;Custeio Pecuário;PROCESSO PARADO;Falta área sem alerta;Feito 13/01;Aprovado custeio R$ 200.000 | Invest R$ 200.000 Garantia Real Guada-chuva;30-Aug;;;
+SICREDI;PSO;;Geslaine;Wendell;Romulo;HERISON DE SÁ MOLHOMENS;PECUÁRIA ;; R$ 200.000,00 ;FNO Animais;PROCESSO PARADO;Falta área sem alerta;Feito 13/01;Aprovado custeio R$ 200.000 | Invest R$ 200.000 Garantia Real Guada-chuva;14-Aug;;;
+SICREDI;Roda Velha;;;;Daniel ;HILÁRIO PUZINSK;NADA CONSTA;;;; INATIVO ;;;;14-Feb;;;
+BB;PSO;;Geslaine;Pedro;Rubens;IAGOR RAFAEL BARROS PRADO (Pai Regis)                                 STEPHANI BARROS PRADO ;AGRÍCOLA;;;Ind. Felipe;FAZER LIMITE;GN Incluindo área ;BB;Rating F;21-Nov;;;
+SICREDI;PSO;;;;Romulo;ICARO CAVALCANTE MOURA;PECUÁRIA ;; R$ 150.000,00 ; Custeio Pecuário ; OPERAÇÃO CONCLUÍDA ;  MÓDULOS FISCAIS, menor para recebimento do crédito, PROTEC AGRO 10/06 ;; Aprovado custeio  R$ 150.000 | R$30.000 invest |Penhor + Hipoteca ;JUN;25/06/2023;Penhor;
+SICREDI;PSO;;;;Romulo;ICARO CAVALCANTE MOURA;PECUÁRIA ;;;; FALTA DOC  ;Solicitado doc p atualização;; No momento não precisa de recurso ;21-Mar;;;
+SICREDI;Roda Velha;;;;Daniel ;IDELMARCOS FERREIRA DANTAS;AGRÍCOLA;; R$ 100.000,00 ; Custeio Agrícola ; OPERAÇÃO CONCLUÍDA ;;;;;;;
+SICREDI;Roda Velha;;;;Daniel ;IDELMARCOS FERREIRA DANTAS;AGRÍCOLA;;;;INATIVO;Risco Alto 1 (08/10);GN ; Limite enviado 29/06| Reencaminhado 14/07 ;10-Dec;;;
+SICREDI;PSO;;Wendell;;Romulo;IRANILDE ALVES DE OLIVEIRA (Renilson - Hotel );PECUÁRIA ;;;Ind Magno;ATUALIZADO ;Aprovado Custeio R$ 300.000 | Invest R$ 300.000;Enviado 07/07 ;Limite enviado 15/06;20-Oct;;;Rating A | Mas inoperante devido restritivo interno
+SICREDI;Colinas;;;;Carlos;IRIO JOSE ALVES GLORIA ;NADA CONSTA;;;; INATIVO ;Sem interesse no momento;;;28-Jan;;;
+SICREDI;PSO;Julia;Geslaine;Wendell;Dijelaine;IRISMAR ALVES GUIDA;PECUÁRIA ;;;Raing C;ATUALIZADO ;Aprovou somente fomento;;Limite enviado 14/04;04-May;;;
+SICREDI;PSO;Hellen;Hellen;;Romulo;ISABELLA ATTAB THAME (Pai Nassib Elias);PECUÁRIA ;;;;ATUALIZADO ;Aprovado Custeio R$ 100.000 | Invest R$ 50.000 - garantia hip;Feito 11/05;Limite enviado 12/05;12-May;;;
+SICREDI;PSO;;Geslaine;;Dijelaine;ISAQUE DA SILVA;AGRÍCOLA;;;;CRÉDITO APROVADO;; Enviado 19/10 ; Aprovado Custeio R$ 629.600,00 | Investimento R$ 580K | Garantia Real ;21-Dec;;;
+CAIXA ;Palmas;Julia;Geslaine;Eloisa;Jovane;IZABEL CRISTINA BIRGEIER SCHMITT (Esposo Elio Schimitt);AGRÍCOLA;;;Ind Roelof;DESISTIU;Pegou recurso com sicredi ;CAIXA;;02-Oct;;;
+SICREDI;PSO;;;;Dijelaine;IZABELLA DOWNAR;PECUÁRIA ;;;Ind Elyssama;FAZER LIMITE;;;;11-Aug;;;
+SICREDI;PSO;;;;Romulo;JADSON GUIDA PINHEIRO;PECUÁRIA ;; R$ 150.000,00 ; Custeio Pecuário ; OPERAÇÃO CONCLUÍDA ;;Enviado 17/08;;ABR;24/04/2022;Hipoteca;
+SICREDI;PSO;;;;Romulo;JADSON GUIDA PINHEIRO;PECUÁRIA ;; R$ 200.000,00 ; Custeio Pecuário ; OPERAÇÃO CONCLUÍDA ;;Enviado 17/08;Aprovado Custeio R$ 600.000 | R$200.000 garantia penhor;NOV;22/11/23;Penhor;
+SICREDI;PSO;;Geslaine;;Romulo;JADSON GUIDA PINHEIRO;PECUÁRIA ;;;;FAZER LIMITE;;Enviado 17/08;;21-Nov;;;
+SICREDI;PSO;;;;Romulo;JADSON VITOR DA SILVA;PECUÁRIA ;; R$ 255.000,00 ; Custeio Pecuário ; OPERAÇÃO CONCLUÍDA ;;Enviado 09/08;Aprovado custeio R$255.000 | invest R$ 150.000;AGO;24/08/2023;Hipoteca: Faz. Vazante M:903;
+SICREDI;PSO;;;;Romulo;JADSON VITOR DA SILVA;PECUÁRIA ;; R$ 100.000,00 ; Custeio Pecuário ; OPERAÇÃO CONCLUÍDA ;;Enviado 09/08;Aprovado Custeio R$ 400.000 | Invest R$ 250.000 Garantia real ou maq;AGO;15/08/24;Hipoteca: Faz. Vazante M:903;
+SICREDI;PSO;;;;Romulo;JADSON VITOR DA SILVA;PECUÁRIA ;; R$ 249.998,16 ; CPR Pecuário ; OPERAÇÃO CONCLUÍDA ;1º Parcela 08/09/2023;Enviado 09/08;Aprovado Custeio R$ 400.000 | Invest R$ 250.000 Garantia real ou maq;SET;08/09/2027;Hip. 3º grau - Faz Vazante -M:903;
+SICREDI;PSO;;;;Romulo;JADSON VITOR DA SILVA;PECUÁRIA ;; R$ 200.000,00 ;FNO; OPERAÇÃO CONCLUÍDA ;1º Parcela 10/02/2026;Enviado 09/08;Aprovado Custeio R$ 400.000 | Invest R$ 250.000 Garantia real ou maq;FEV;10/02/2029;Hip. 4º grau - Faz Vazante -M:903;
+CAIXA;PSO;;Geslaine;;Thiago;JAILTON BARROS VARÃO;PECUÁRIA ;;;Ind Thiago;INATIVO;Já foi preso por trafico de drogas;CAIXA;Aprovado Custeio R$ 6,2MM | Invest R$ 574k parcela ;30-Nov;;;
+SICREDI;PSO;;;;Romulo;JAIME ALVES TEIXEIRA (Filha Janaina);PECUÁRIA ;;;Ind Romulo;FALTA DOC;Falta ITR, CCIR E CAR + FICHA DO GADO ;Feito 16/05;;19-Oct;;;
+SICREDI;PSO;;;;Romulo;JAIME FABRIS;PECUÁRIA ;;;;FALTA DOC;INTERESSE EM FNO ;;;09-Feb;;;
+SICREDI;PSO;Geslaine;Paulo;Wendell;Dijelaine;JAIR VITAL DE OLIVEIRA (Stenio);PECUÁRIA ;Barrolândia e 24ha; R$ 200.000,00 ;FNO Animais;OPERAÇÃO CONCLUÍDA;1º Parcela 10/08/2025;;Aprovado Custeio R$ 100.000 | Invest R$ 200.000 ;AGO;10/08/2029;Hip 1º grau - Faz Cangaia - M: 1865; Rating B 
+SICREDI;PSO;;;;Romulo;JAKSON DE SOUSA LIMA;PECUÁRIA ;; R$ 450.000,00 ; Custeio Pecuário ; OPERAÇÃO CONCLUÍDA ;PAGO E RENOVADO;Enviado 22/10;;NOV;02/11/23;Alienação: M-4905;
+SICREDI;PSO;;;;Romulo;JAKSON DE SOUSA LIMA;PECUÁRIA ;; R$ 170.000,00 ; Invest. 5 anos ; OPERAÇÃO CONCLUÍDA ;;Enviado 08/02; Aprovado R$450.000 custeio| R$200.000 invest  ;MAR;17/04/2027;Alienação: M-4905;
+SICREDI;PSO;Julia;Geslaine;Wendell;Romulo;JAKSON DE SOUSA LIMA;PECUÁRIA ;; R$ 1.000.000,00 ; Custeio Pecuário ; OPERAÇÃO CONCLUÍDA ;;Feito 19/07;Limite enviado 03/04;OUT;08/10/2025;Alienação: M-4905;
+SICREDI;PSO;Julia;Geslaine;Wendell;Romulo;JAKSON DE SOUSA LIMA;PECUÁRIA ;; R$ 500.000,00 ; Custeio Pecuário ; OPERAÇÃO CONCLUÍDA ;;Feito 19/07;Limite enviado 03/04;19-Oct;;Alienação: M-4905;
+SICREDI;PSO;;Paulo;;Jose Ailton;JEAN CARLOS MENEZES;PECUÁRIA ;;;;ATUALIZADO ;DESISTIU;Feito 08/03;Limite enviado 19/05;20-Oct;;;
+CAIXA ;PSO;Hyuri;;;Thiago;JEAN ROBERTO BONAN;AGRÍCOLA;;;;FAZER LIMITE;;CAIXA;;05-Dec;;;
+BB;Porto Nacional;;;;Marconi;JIOMAR APARECIDO LUCIO FILHO;AGR/PEC;; R$ 677.172,00 ; InvestAgro ; OPERAÇÃO CONCLUÍDA ;;BB;;;;;
+BB;Porto Nacional;;;;Marconi;JIOMAR APARECIDO LUCIO FILHO;AGR/PEC;; R$ 413.672,00 ; InvestAgro ; OPERAÇÃO CONCLUÍDA ;Compra de Matrizes;BB;;;;;
+BB;Porto Nacional;;;;Marconi;JIOMAR APARECIDO LUCIO FILHO;AGR/PEC;; R$ 708.000,00 ; InvestAgro ; OPERAÇÃO CONCLUÍDA ;;BB;Aprovado invest R$ 708.000;;;;
+BB;Porto Nacional;;;;Marconi;JIOMAR APARECIDO LUCIO FILHO;AGR/PEC;; R$ 1.242.708,60 ;Custeio Agrícola; OPERAÇÃO CONCLUÍDA ;;BB;;;;;
+BB;Porto Nacional;;;;Marconi;JIOMAR APARECIDO LUCIO FILHO;AGR/PEC;; R$ 600.000,00 ;Custeio Agrícola; OPERAÇÃO CONCLUÍDA ;;BB;;;;;
+SICREDI;PSO;;;;Dijelaine;JOAO ARTIRES MOREAIS ORNELAS ;NADA CONSTA;;;Ind. Dani; INATIVO ; FLUXO NEGATIVO ;; Limite enviado 31/05 - Reenviado 25/06 | Reenviado 19/07  ;02-Aug;;;
+SICREDI;PSO;;;;Romulo;JOAO BATISTA DE OLIVEIRA LIMA;PECUÁRIA ;; R$ 70.460,00 ; Custeio Pecuário ; OPERAÇÃO CONCLUÍDA ;;Feito 19/01;;DEZ;17/12/2022;Hipoteca: Faz. Novo Horizonte;
+SICREDI;PSO;;;;Romulo;JOAO BATISTA DE OLIVEIRA LIMA;PECUÁRIA ;; R$ 50.000,00 ; Custeio Pecuário ; OPERAÇÃO CONCLUÍDA ;;Feito 19/01;;JUN;01/06/2022;Hipoteca: Faz. Novo Horizonte;
+SICREDI;PSO;;;;Romulo;JOAO BATISTA DE OLIVEIRA LIMA;PECUÁRIA ;; R$ 55.000,00 ; Custeio Pecuário ; OPERAÇÃO CONCLUÍDA ;;Feito 19/01;Aprovado Custeio R$ 180.000 | Invest R$ 160.000 garantia real;NOV;10/11/2024;Hipoteca 1º grau: M 22430;
+SICREDI;PSO;;;;Romulo;JOAO BATISTA DE OLIVEIRA LIMA;PECUÁRIA ;; R$ 70.000,00 ; Custeio Pecuário ; OPERAÇÃO CONCLUÍDA ;;Feito 19/01;;DEZ;09/12/2024;Hipoteca 2º grau: M 22430;
+SICREDI;PSO;;;;Dijelaine;JOAO CARLOS MACHADO ;NADA CONSTA;;;;INATIVO;Não iremos mexer, Dr Machado;;;07-Jan;;;
+CAIXA;PSO;Julia ;Geslaine;Eloisa;Andre;JOAO EDUARDO FERREIRA DE MORAIS (Pai Felipe Sócio);AGRÍCOLA;; R$ 4.950.000,00 ;Investimento;FAZER PROJETO;SOLO;CAIXA;Aprovado Custeio R$ 31MM | Invest Parcela R$ 8MM Parcela;04-Sep;;;
+SICREDI;PSO;Geslaine;;;Romulo;JOAO FERREIRA LIMA;PECUÁRIA ;; R$ 220.000,00 ; Custeio Pecuário ; OPERAÇÃO CONCLUÍDA ;Pago;;;AGO;28/08/2022;Penhor;
+SICREDI;PSO;Geslaine;;;Romulo;JOAO FERREIRA LIMA;PECUÁRIA ;; R$ 385.000,00 ;Custeio Pecuário; OPERAÇÃO CONCLUÍDA ;PROTEC AGRO 22/08;Enviado 18/07;Aprovado Custeio R$800.000 | Invest R$ 400.000;AGO;18/08/2024;Alienação M: 6905;
+SICREDI;PSO;Julia;Wendell;Wendell;Romulo;JOAO FERREIRA LIMA;PECUÁRIA ;; R$ 200.000,00 ;FNO Animas; OPERAÇÃO CONCLUÍDA ;1º Parcela 10/10/2026;Enviado 18/07;Aprovado Custeio R$800.000 | Invest R$ 400.000;OUT;10/10/2030;Alienação M: 132 (Imóvel Urbano PMW);
+CAIXA;Palmas;Julia;;;Jovane ;JOAO FREIRE DE ALMEIDA NETO;PECUÁRIA ;;Ind. Vandre;Custeio Pecuário;FAZER PROJETO;;CAIXA;Aprovado Custeio R$ 1MM | Invest. R$ 35.700 parcela;21-Mar;;;
+SICREDI;PSO;;;;Romulo;JOAO MARTINS DE SOUSA (Sogro Gabriel da luz);PECUÁRIA ;;;;FALTA DOC;Ficha do gado;;Cliente irá mexer só depois das eleições;21-Mar;;;
+CAIXA;PSO;;Geslaine;;Thiago;JOAO MAYCON DE LUCAS;AGRÍCOLA;;;Rating B;FALTA DOC;Agencia Paraná;CAIXA;;05-Dec;;;
+CAIXA;PSO;;;;Thiago;JOAO PAULO DA SILVA FLORENTINO;PECUÁRIA ;;;;CONSULTAR RATING;Rating D;CAIXA;Limite enviado 25/08;28-Dec;;;
+SICREDI;Colinas;;;;Edjane;JOAO PAULO DA SILVA FLORENTINO;PECUÁRIA ;; R$ 300.000,00 ;Custeio Pecuário; OPERAÇÃO CONCLUÍDA ;;Feito 10/06;Aprovado Custeio R$ 300.000 | Invest R$ 460.000 - Garantia hip guarda chuva;AGO;18/08/2024;Hip. Guarda Chuva - Mat: 134, 917, 868 e 1433 - avaliada R$ 2.960.000,00; Minuta (Hipoteca) 
+SICREDI;Colinas;;;;Carlos;JOAO PAULO DA SILVA FLORENTINO;PECUÁRIA ;; R$ 460.000,00 ;Investimento;PROCESSO PARADO;PROTEC AGRO 28/07 | Sem recurso;Feito 10/06;Aprovado Custeio R$ 300.000 | Invest R$ 460.000 - Garantia hip guarda chuva;12-Aug;;;Ind. Carlos GN
+SICREDI;Colinas;;;;Carlos;JOAO PAULO DA SILVA FLORENTINO;PECUÁRIA ;; R$ 621.987,75 ;CPR; OPERAÇÃO CONCLUÍDA ;Precificado 2.000,00| Ind. Carlos GN;Feito 10/06;Aprovado Custeio R$ 300.000 | Invest R$ 460.000 - Garantia hip guarda chuva;AGO;15/08/2024;Hip. Guarda Chuva - Mat: 134, 917, 868 e 1433 - avaliada R$ 2.960.000,00; Minuta (Hipoteca) 
+CAIXA;PSO;Julia;Eloisa;Kaique;Thiago;JOAO VICTOR MOULIN COSTA (Faz Diamante);AGRÍCOLA;; R$ 14.500.000,00 ;Custeio Agrícola; OPERAÇÃO CONCLUÍDA ;Pago;CAIXA;Aprovado Custeio R$ 53,2MM | Invest R$ 22,3MM;MAI;25/05/2023;; Acordado 1% Custeio | 1,3% Invest 
+CAIXA;PSO;Julia;Eloisa;Kaique;Thiago;JOAO VICTOR MOULIN COSTA (Faz Diamante);AGRÍCOLA;; R$ 14.949.238,00 ;Custeio Agrícola;OPERAÇÃO CONCLUÍDA;;CAIXA;Aprovado Custeio R$ 53,2MM | Invest R$ 22,3MM;JUN;09/06/2024;Hip 3º grau - Fazenda Retiro M:1721; Acordado 1% Custeio | 1,3% Invest 
+CAIXA;PSO;Julia;Eloisa;Pedro;Thiago;JOAO VICTOR MOULIN COSTA (Faz Diamante);AGRÍCOLA;; R$ 100.000.000,00 ;Investimento;FAZER PROJETO;;CAIXA;Aprovado Custeio R$ 53,2MM | Invest R$ 22,3MM;JUN;09/06/2024;Hip 3º grau - Fazenda Retiro M:1721; Acordado 1% Custeio | 1,3% Invest 
+SICREDI;PSO;;;;Dijelaine;JOARI BERTOLDI;NADA CONSTA;;;; PROSPECT ;;;;28-Jan;;;
+SICREDI;PSO;;;;Dijelaine;JONSON DE CARVALHO E SÁ;PECUÁRIA ;;;Ind. Elyssama;CRÉDITO APROVADO;;Feito 01/11;Aprovado Custeio R$ 1,5MM | Invest R$ 1MM Garant. Alienação;01-Nov;;;
+SICREDI;PSO;;;;Dijelaine;JORCELINA PIRES DE MORAES (Filho Hernandes);PECUÁRIA ;;;; INATIVO ;Matricula e Risco ;;;11-May;;;
+SICREDI;JK;;;;Hingride;JORGE ELIAS NETO;PECUÁRIA ;;;Rating F (Caixa);PROCESSO PARADO;Falta Licença ambiental | GN sem interesse em mexer com cliente;GN ;Limite enviado 22/04 | Reenviado 13/05;23-Aug;;;
+CAIXA;Palmas;;;;Jovane;JORGE VINICIUS DE MATOS ;AGRÍCOLA;;;;FALTA DOC;;CAIXA;;09-Aug;;;
+SICREDI;PSO;;;;Dijelaine;JOSE ALVIM DE PAULA (Parente Luciane - Ataides);NADA CONSTA;;;;INATIVO;FICHA DO GADO E MATRICULA, cliente sem interesse em financiar esse ano;;Limite enviado 08/2018;04-Aug;;;
+SICREDI;PSO;;;;Dijelaine;JOSE CARLOS TAUFFER;AGRÍCOLA;;;; INATIVO ;Está sendo feito no nome do Dierre;;Tio do Dierre;09-Jul;;;
+CAIXA;PSO;;;;Thiago;JOSE DANILO MARQUES DA SILVA;PECUÁRIA ;;;;CONSULTAR RATING; Rating D ;CAIXA;;28-Dec;;;Acordado 1% custeio e Invest
+SICREDI;PSO;;;;Romulo;JOSE DANILO MARQUES DA SILVA;PECUÁRIA ;; R$ 80.000,00 ; Custeio Pecuário ; OPERAÇÃO CONCLUÍDA ;PAGO;;;MAR;08/03/2022;Hipoteca: M-8712 Faz Piracanjuba;Acordado 1% custeio e Invest
+SICREDI;PSO;;;;Romulo;JOSE DANILO MARQUES DA SILVA;PECUÁRIA ;; R$ 95.000,00 ; Custeio Pecuário ; OPERAÇÃO CONCLUÍDA ;PAGO;;;MAR;05/03/2023;Hipoteca: M-8712 Faz Piracanjuba;Acordado 1% custeio e Invest
+SICREDI;PSO;;;;Romulo;JOSE DANILO MARQUES DA SILVA;PECUÁRIA ;; R$ 179.999,00 ; Invest. CPR ; OPERAÇÃO CONCLUÍDA ;1º Parcela 24/09/2023;Feito 18/02;Aprovado Custeio R$ 250.000 | Invest R$ 60.000 Garantia real /ou maq;SET;24/09/2027;Hipoteca: 2º grau M-8712 Faz Piracanjuba;Acordado 1% custeio e Invest
+SICREDI;PSO;;;;Romulo;JOSE DANILO MARQUES DA SILVA;PECUÁRIA ;; R$ 70.000,00 ; Custeio Pecuário ; OPERAÇÃO CONCLUÍDA ;;Feito 18/02;Aprovado Custeio R$ 250.000 | Invest R$ 60.000 Garantia real /ou maq;JUL;15/07/2024;Hipoteca: 1º grau M-8712 Faz Piracanjuba;Acordado 1% custeio e Invest
+SICREDI;PSO;;;;Romulo;JOSE DANILO MARQUES DA SILVA;PECUÁRIA ;; R$ 550.000,00 ; Custeio Pecuário ; OPERAÇÃO CONCLUÍDA ;;Feito 18/02;Aprovado Custeio R$ 550.000 | Invest R$ 300.000 - Garant. Hip;FEV;16/02/2025;Hipoteca:  1º grau M-8759 e M:8760- Faz Recanto dos Ipês e Faz Jatobá;Acordado 1% custeio e Invest
+SICREDI;PSO;;;Eloisa;Romulo;JOSE DANILO MARQUES DA SILVA;PECUÁRIA ;; R$ 200.000,00 ; FNO Animais ; OPERAÇÃO CONCLUÍDA ;1º Parcela 10/05/2025;Feito 18/02;Aprovado Custeio R$ 550.000 | Invest R$ 300.000 - Garant. Hip;MAI;10/05/2029;Hipoteca:  2º grau M-8759 e M:8760- Faz Recanto dos Ipês e Faz Jatobá;Acordado 1% custeio e Invest
+SICREDI;PSO;Julia;Geslaine;Wendell;Romulo;JOSE DANILO MARQUES DA SILVA;PECUÁRIA ;; R$ 100.000,00 ; FNO Animais ; OPERAÇÃO CONCLUÍDA ;1º Parcela 10/10/2026;Feito 18/02;Aprovado Custeio R$ 550.000 | Invest R$ 300.000 - Garant. Hip;OUT;10/10/2030;Hipoteca: 3º grau M-8712 Faz Piracanjuba;Acordado 1% custeio e Invest
+SICREDI;PSO;;;;Romulo;JOSE DIAS DA SILVA (Neto Luiz Eduardo);PECUÁRIA ;;; Regularizar CCIR no INCRA | Retificar CAR ;CRÉDITO APROVADO;Cliente com interesse somente no penhor;Enviado 25/01; Aprovado Custeio R$ 150.000 | Invest R$150.000 Garantia Alien. Guarda chuva ;20-Oct;;;
+SICREDI;PSO;;;;Romulo;JOSE DIAS DA SILVA (Neto Luiz Eduardo);PECUÁRIA ;;;;ATUALIZADO ;;Enviado 06/03;Limite enviado 06/03;03-Jul;;;
+SICREDI;PSO;;;;Dijelaine;JOSE GERALDO DE MELO OLIVEIRA;PECUÁRIA ;;; Enjoado ; CRÉDITO APROVADO ;;; Aprovado Custeio R$ 1MM | Invest R$ 1MM | Livre R$ 500.000 Garantia real ;26-Dec;;;
+CAIXA;Palmas;Julia ;Geslaine;Laila;Jovane;JOSE GERALDO DE OLIVEIRA ZANETTI (Ind Laila);PECUÁRIA ;;;Rating B;INATIVO;Cliente desistiu;CAIXA;Aprovado Custeio R$ 3MM | Invest R$ 540k de Parcela;02-Oct;;;
+SICREDI;PSO;;;;Romulo;JOSE GUSMÃO DE OLIVIEIRA JUNIOR;AGRÍCOLA;;;Ind. Romulo;ANALISE NEGATIVA;Cartão em atraso;;Limite enviado 25/10;26-Dec;;;
+SICREDI;Pedro Afonso;;;;Elizabete;JOSE LIRA VIEIRA BARBOSA;PECUÁRIA ;;;; INATIVO ;FEZ COM OUTRO PROJETISTA;;;28-Jan;;;
+SICREDI;PSO;;;;Romulo;JOSE MARIA FERREIRA DA COSTA;PECUÁRIA ;;;Ind Romulo;FALTA DOC;Doc imóvel ;Feito 27/04;;21-Mar;;;
+SICREDI;Tocantinópolis;;;;Jordana;JOSE PEREIRA MACHADO (Sogro Guedes);PEC/AVIC;;;;FALTA DOC;;GN;;02-May;;;Novo
+SICREDI;PSO;;;;Romulo;JOSE RIBAMAR DE SOUSA (Esposa Janete);PECUÁRIA ;;;;FALTA DOC;Falta toda doc imóvel + ficha + end;Feito 01/02;;18-Aug;;;
+SICREDI;PSO;;;;Romulo;JOSE VAQUEIRO ALVES DE OLIVEIRA;PECUÁRIA ;; R$ 300.000,00 ;Custeio Pecuário; OPERAÇÃO CONCLUÍDA ;;Enviado 22/07;Aprovado Custeio R$ 300.000 | Invest R$ 300.000 Alienação imóvel ou maq;FEV;05/02/2025;Alienação Guarda -chuva: M-5.862; Minuta (Alienação) 
+SICREDI;PSO;;;;Romulo;JOSE VAQUEIRO ALVES DE OLIVEIRA;PECUÁRIA ;;;;ATUALIZADO ;;;Limite enviado 24/02;20-Oct;;;
+CAIXA;Palmas;;;;Jovane;JOSE VIEIRA COUTINHO JUNIOR (Neto do Damião);PECUÁRIA ;;;Rating D;CRÉDITO APROVADO;Sem garantia 20/10/22;CAIXA;Aprovado Custeio R$3,1MM | Invest 1MM;26-Jul;;;
+SICREDI;PSO;;;;Romulo;JOSE VIEIRA COUTINHO JUNIOR (Neto do Damião);PECUÁRIA ;; R$ 960.000,00 ;Invest.  5 anos; OPERAÇÃO CONCLUÍDA ;1º parcela 21/05/2023;Enviado 11/08;Aprovado Custeio R$ 800.000,00 |Invest R$ 300.000,00 Garantia Hip;MAI;21/05/27; Alienação: Faz Santa Sofia e Santa Carime ;
+SICREDI;PSO;;Geslaine;;Romulo;JOSE VIEIRA COUTINHO JUNIOR (Neto do Damião);PECUÁRIA ;;;;ATUALIZADO ;Devendo ao sicredi;Enviado 11/08;Limite enviado 10/05;20-Oct;;;
+SICREDI;PSO;Thais;;Wendell;Romulo;JOSE WELLINTON DA SILVA;PECUÁRIA ;; R$ 100.000,00 ; Custeio Pecuário ; OPERAÇÃO CONCLUÍDA ;PAGO;;;MAI;15/05/2023;Hipoteca: Guarda Chuva M-2.3218; Minuta (Hipoteca) 
+SICREDI;PSO;Thais;;Wendell;Romulo;JOSE WELLINTON DA SILVA;PECUÁRIA ;; R$ 80.000,00 ; Invest. 5 anos  ; OPERAÇÃO CONCLUÍDA ;;;Aprovado R$ 80.000 invest;JUN;28/06/2026;Hipoteca: Guarda Chuva M-2.3218; Minuta (Hipoteca) 
+SICREDI;PSO;Thais;;Wendell;Romulo;JOSE WELLINTON DA SILVA;PECUÁRIA ;; R$ 100.000,00 ; FNO Animias ; OPERAÇÃO CONCLUÍDA ;1º Parcela 10/08/2025;Feito 15/08;Limite enviado 26/08;AGO;10/08/2029;Penhor 54 animais;
+BB;PSO;;;;SEM GN;JOSIAS RESPLANDES DE SOUSA;PECUÁRIA ;; R$ 95.002,00 ; InvestAgro ; OPERAÇÃO CONCLUÍDA ;;BB;;;;;
+CAIXA;PSO;Julia;Wendell;Eloisa;Thiago;JOSILENE RODRIGUES DE OLIVEIRA ( Esposo Juveni /Bonfim);PECUÁRIA ;; R$ 1.100.000,00 ;Investimento;OPERAÇÃO CONCLUÍDA;1º Parcela 10/11/2025;CAIXA;Aprovado Custeio R$15MM | Invest R$ 7,1MM Parcela;NOV;10/11/2025;Hip. 2º grau - Faz Vale do Araguaia IV - M: 2087; Acordo Custeio 1,2% e invest 1,8% 
+CAIXA;PSO;Julia;Wendell;Eloisa;Thiago;JOSILENE RODRIGUES DE OLIVEIRA ( Esposo Juveni /Bonfim);PECUÁRIA ;; R$ 803.775,42 ;Custeio Agrícola;OPERAÇÃO CONCLUÍDA;;CAIXA;Aprovado Custeio R$15MM | Invest R$ 7,1MM Parcela;ABR;25/04/2024;Hip. 1º grau - Faz Vale do Araguaia IV - M: 2087; Acordo Custeio 1,2% e invest 1,8% 
+CAIXA;PSO;Julia;Wendell;Eloisa;Thiago;JOSILENE RODRIGUES DE OLIVEIRA ( Esposo Juveni /Bonfim);PECUÁRIA ;; R$ 2.470.966,41 ;Custeio Agrícola;CANCELADO;Entrou embargo;CAIXA;Aprovado Custeio R$15MM | Invest R$ 7,1MM Parcela;14-Aug;;; Acordo Custeio 1,2% e invest 1,8% 
+CAIXA;PSO;Julia;Wendell;Eloisa;Thiago;JOSILENE RODRIGUES DE OLIVEIRA ( Esposo Juveni /Bonfim);PECUÁRIA ;; R$ 1.100.000,00 ;Invest. Máq;CANCELADO;Entrou embargo;CAIXA;Aprovado Custeio R$15MM | Invest R$ 7,1MM Parcela;14-Aug;;; Acordo Custeio 1,2% e invest 1,8% 
+CAIXA;Palmas;Geslaine;Paulo;;Jovane;JUDITE CHRISTOFOLI (Sogra Rafael Batista);AGRÍCOLA;;;Rating B;CRÉDITO APROVADO;Sem área para beneficiar;CAIXA;Aprovado Custeio Soja R$1,6MM | Milho R$ 888k| Invest R$492k Parcela;30-May;;;
+SICREDI;PSO;Geslaine;Paulo;;Dijelaine;JUDITE CHRISTOFOLI (Sogra Rafael Batista);AGRÍCOLA;;;;ATUALIZADO ;;;Limite enviado 12/05;12-May;;;
+SICREDI;PSO;;;;Romulo;JULIO APARECIDO RIBEIRO;PECUÁRIA ;; R$ 50.000,00 ; Custeio Pecuário ; OPERAÇÃO CONCLUÍDA ;;Enviado 17/08; Aprovado Custeio R$ 50.000| invest R$20.000 garantia Real ;JAN;24/01/24;Garantia Fazenda;
+SICREDI;PSO;;;;Romulo;JULIO APARECIDO RIBEIRO;PECUÁRIA ;;;;FALTA DOC ;COMPROVAÇÃO DE OUTRA RENDA ;Enviado 17/08; Limite enviado 14/07 ;08-Aug;;;
+SICREDI;PSO;;Paulo;;Romulo;JULIO APARECIDO TITOTO;PECUÁRIA ;;;;ATUALIZADO ;FALTA FICHA;Feito 04/10;Limite enviado 06/10;SET;;;
+SICREDI;PSO;;;;Romulo;JULIO CESAR THIAGO SILVA;AGRÍCOLA;;;;INATIVO;Gerente ainda não enviou limite 11/02;Feito 24/08;Limite enviado 19/11;22-Jun;;;
+SICREDI;PSO;;;;Dijelaine;JURANDIR MACHADO;AGRÍCOLA;;;Ind. Elyssama;CONSULTAR CPF;Restritivo;Enviado 13/12;Limite enviado 13/12;26-Dec;;;
+SICREDI;PSO;;Geslaine;;Romulo;JUVENI OLIVEIRA FERNANDES (Bonfim);PECUÁRIA ;;;;ATUALIZADO ;;;Limite enviado 14/06;20-Oct;;;
+BB;Tocantinópolis;;Paulo ;;Neto;KARINE DIAS DA CRUZ;PECUÁRIA ;;;;ATUALIZADO ;;BB;;10-Jan;;;
+SICREDI;Tocantinópolis;;;;Jordana;KARINE DIAS DA CRUZ;PECUÁRIA ;;;;ATUALIZADO ;;GN ;Limite enviado 31/10;26-Dec;;; VÍDEO ESCRITÓRIO ENVIADO 
+CAIXA;PSO;Julia;Wendell;;Thiago;KLAUS ARMIN SCHERER (Filho Armin -Ind Fabio);AGRÍCOLA;;;;DESISTIU;;CAIXA;;10-Jul;;;
+SICREDI;Tocantinópolis;;;;Jordana;KLEIBSON BERLARMINO;AVICULTURA;;;Ind. Maria Daiusa; CRÉDITO APROVADO ;Sem garantia ;GN;Aprovado FNO R$ 100k;09-Oct;;; VÍDEO ESCRITÓRIO ENVIADO 
+SICREDI;PSO;;Paulo;;Romulo;LAFAIETE FELIX LOBO;PECUÁRIA ;;;; FALTA DOC ;Pendencia Contrato de arrendamento;Enviado 03/08;  Aprovado R$150.000 custeio ;21-Nov;;;
+SICREDI;Tocantinópolis;;;;Jordana;LEANDRO ALVES COSTA;PECUÁRIA ;;;;COBRAR GN;;GN;Limite enviado 14/02;14-Feb;;;
+SICREDI;PSO;;;;Jose Ailton;LEANDRO JOSE RIBEIRO;PECUÁRIA ;;;;CRÉDITO APROVADO;;;Pré aprovado Investimento R$ 460.000;27-Dec;;;
+SICREDI;PSO;;;;Dijelaine;LEANDRO LEMES DA LUZ ;PECUÁRIA ;; R$ 200.000,00 ;Custeio Pecuário; OPERAÇÃO CONCLUÍDA ;;;Aprovado Custeio R$ 200.000 - Garant Imóvel;03-May;;; Minuta (Alienação) 
+CAIXA;PSO;;Paulo;Eloisa;Thiago;LEANDRO MARQUES COSTA (Leonardo);PECUÁRIA ;;;;CRÉDITO APROVADO;;CAIXA;Aprovado Custeio R$8,8MM | Invest R$ 99.000 Parcela;05-Sep;;;
+SICREDI;Formoso;;Paulo;;Charles;LEANDRO MARQUES COSTA (Leonardo);PECUÁRIA ;;;;CRÉDITO APROVADO;;;Aprovado R$ 2MM;05-Sep;;;
+BB;MG;;Paulo;Kaique;Eduardo;LEANDRO SILVANI ;AGRÍCOLA;; R$ 2.999.455,00 ; Custeio Agrícola ;OPERAÇÃO CONCLUÍDA;;BB;;JUN;20/06/2024;Penhor de grãos;
+BB;MG;;Paulo;Kaique;Eduardo;LEANDRO SILVANI ;AGRÍCOLA;; R$ 2.788.556,75 ; Custeio Agrícola ;OPERAÇÃO CONCLUÍDA;;BB;;JUN;20/06/2024;Penhor de grãos;
+BB;MG;;;Pedro;Eduardo;LEANDRO SILVANI ;AGRÍCOLA;; R$ 1.042.698,56 ; Custeio Agrícola ;FAZER PROJETO;ALTERAR GARANTIA;BB;;27-Oct;;;
+CAIXA;Palmas;Julia;Geslaine;Eloisa;Jovane;LEANDRO SILVANI ;AGRÍCOLA;; R$ 1.615.905,50 ; Custeio Agrícola ;OPERAÇÃO CONCLUÍDA;;CAIXA;Aprovado Custeio R$36,2MM | Invest R$ 5,9MM Parcela;OUT;24/10/2024;Hip. 1ºgrau - Faz Santa Victoria - M: 1994;
+SICREDI;PSO;;Eloisa;;Romulo;LEANDRO SILVANI ;AGR/PEC;; R$ 800.000,00 ; Custeio Pecuário ; OPERAÇÃO CONCLUÍDA ;PAGO;Enviado 13/08;;ABR;17/04/2022;Hipoteca: Guarda Chuva M-1.960; Minuta (Hipoteca) 
+SICREDI;PSO;;Eloisa;;Romulo;LEANDRO SILVANI ;AGR/PEC;; R$ 1.000.000,00 ; Custeio Agrícola ; OPERAÇÃO CONCLUÍDA ;PAGO;Enviado 13/08;;ABR;29/04/2022;Hipoteca: Guarda Chuva M-1.960; Minuta (Hipoteca) 
+SICREDI;PSO;;Eloisa;;Romulo;LEANDRO SILVANI ;AGR/PEC;; R$ 381.735,00 ;Invest. BNDES; OPERAÇÃO CONCLUÍDA ;Maquinário;Enviado 13/08;;SET;15/09/2028;Penhor Máquina;
+SICREDI;PSO;;Eloisa;;Romulo;LEANDRO SILVANI ;AGRÍCOLA;; R$ 997.439,30 ;Moeda Estrangeira ; OPERAÇÃO CONCLUÍDA ;;Enviado 02/05;Aprovado Custeio R$1MM | Moeda R$1MM | Invest R$1,35MM;NOV;21/11/2023;Hip : 1º grau - Faz Santa Vitoria I;
+SICREDI;PSO;;Eloisa;;Romulo;LEANDRO SILVANI ;AGRÍCOLA;;;;CRÉDITO APROVADO;;;Aprovado Moeda R$ 2MM | Custeio R$ 1MM;17-May;;;
+SICREDI;PSO;Thais;Geslaine;;Romulo;LEANDRO VINICIUS DE MORAES (Sonalia);PECUÁRIA ;; R$ 798.000,00 ; Custeio Pecuário ;OPERAÇÃO CONCLUÍDA;;Feito 14/02;Aprovado Custeio R$ 250.000 | Fin. Livre R$150.000 | Invest R$200.000 - Garat.real;JUN;24/06/2025;Alienação guarda chuva - M:864;
+SICREDI;PSO;Thais;Geslaine;Wendell;Romulo;LEANDRO VINICIUS DE MORAES (Sonalia);PECUÁRIA ;; R$ 89.000,00 ; FNO Máquina  ;OPERAÇÃO CONCLUÍDA;1º Parcela 10/01/2026;Feito 14/02;Aprovado Custeio R$ 250.000 | Fin. Livre R$150.000 | Invest R$200.000 - Garat.real;JAN;10/01/2028;Alienação Veículos ;
+SICREDI;PSO;Thais;Geslaine;Wendell;Romulo;LEANDRO VINICIUS DE MORAES (Sonalia);PECUÁRIA ;; R$ 63.900,00 ; FNO Máquina  ;OPERAÇÃO CONCLUÍDA;1º Parcela 10/01/2026;Feito 14/02;Aprovado Custeio R$ 250.000 | Fin. Livre R$150.000 | Invest R$200.000 - Garat.real;JAN;10/01/2028;Plantadeira;
+CAIXA;PSO;Julia;Geslaine;Eloisa;Thiago;LEDISMAR JOSE DA SILVA (Cunhado Abdala);PECUÁRIA ;;;;CRÉDITO APROVADO;Rating AA;CAIXA;Aprovado Custeio R$ 4,3MM | Invest R$ 416.000 parcela;27-Sep;;;
+SICREDI;PSO;;Geslaine;Wendell;Romulo;LEO MARCIO BONA;PECUÁRIA ;;;Ind Romulo / evangelico;FALTA DOC;;Feito 11/10;;11-Oct;;;
+CAIXA;PSO;Thais;;;Thiago;LEONARDO STEIN (Grupo Fabiano);AGRÍCOLA;;;Rating C;INATIVO;;;;09-Jun;;;
+SICREDI;PSO;;;;Dijelaine;LILIANE MIRANDA CABRAL (Filho DEJAIR );PECUÁRIA ;;; Ind. Fabio ;FALTA DOC;FICHA DO GADO;Feito 18/03;;08-Dec;;;
+SICREDI;PSO;;;;Dijelaine;LIVANIA SILVA OLIVEIRA MOTA;PECUÁRIA ;;;IND Fabio;ATUALIZAR CADASTRO;;Feito 25/04;Aprovado Custeio R$70.000 Garantia alienação imóvel;19-Jun;;;
+SICREDI;PSO;;;;Romulo;LOURENILDE FERREIRA DA SILVA (Dourivan);PECUÁRIA ;; R$ 100.000,00 ; Custeio Pecuário ; OPERAÇÃO CONCLUÍDA ;PAGO;Enviado 14/12;;SET;18/09/2023;Hipoteca: M-863;
+SICREDI;PSO;;;;Romulo;LOURENILDE FERREIRA DA SILVA (Dourivan);PECUÁRIA ;;;;CRÉDITO APROVADO;Sem garantia - casa avaliada mas só averbando p utilizar ;Enviado 14/12;Aprovado Custeio R$ 600.000 | Invest R$ 400.000 Hipoteca ;04-Dec;;;
+SICREDI;PSO;;;;Romulo;LOURENILDE FERREIRA DA SILVA (Dourivan);PECUÁRIA ;; R$ 186.000,00 ;FNO Máq; OPERAÇÃO CONCLUÍDA ;1º Parcela 10/03/2025;Enviado 14/12;;MAR;10/03/2029;Penhor - guincho agricola;
+SICREDI;PSO;;;;Dijelaine;LUCAS JOSE DE OLIVEIRA ;PECUÁRIA ;;;Não recomendado;ATUALIZADO ;;;Limite enviado 28/03;04-May;;;
+SICREDI;PSO;;;;Dijelaine;LUCAS MENDES COSTA NETO;PECUÁRIA ;;;Pronaf;FALTA DOC;;Feito 27/01;;27-Jan;;;
+CAIXA;Palmas;;;;Jovane;LUCCA BORGES DE BRITO (Pai Luis Luna Brito Alves);PECUÁRIA ;;;; INATIVO ;Rating C;CAIXA;;07-Apr;;;
+BB;Espumoso/RS;;;;Angelo | Claudia;LUCIANO LEITE NAVARINI;AGRÍCOLA;;;;CRÉDITO APROVADO;;BB;Aprovado Custeio R$ 1MM | Garantia AVAL + PENHOR;13-Oct;;;
+CAIXA;Gurupí;;;;Josué;LUCIANO LEITE NAVARINI;AGRÍCOLA;;;;CRÉDITO APROVADO;Rating C;CAIXA;Aprovado Custeio R$ 9,3MM | Invest R$ 1,5MM Parcela;21-Sep;;;
+SICREDI;Palmas;;;;Carol;LUCIANO LEITE NAVARINI;AGRÍCOLA;;;;CRÉDITO APROVADO;Limite enviado 16/12;Enviado 23/12;Aprovado Custeio R$ 1MM | Invest R$ 1MM | Garantia Hip;14-Feb;;;
+SICREDI;PSO;;;;Romulo;LUCIDALVA DO CARMO VARGAS (Esposa Samuel - Domingos Taveira);PECUÁRIA ;;;Rating C (CAIXA); CRÉDITO APROVADO ;Área está toda comprometida com o Sogro (Domingos Taveira);;Aprovado Custeio R$ 100.000 | Invest R$ 50.000 - garantia Alienação;16-Aug;;;
+SICREDI;PSO;;Wendell;Wendell;Romulo;LUCIENE HAYASAKI MARQUES (Mãe Cloves Neto);PECUÁRIA ;; R$ 200.000,00 ;FNO Animais;OPERAÇÃO CONCLUÍDA;1º Parcela 10/08/2025;;Limite enviado 14/06;AGO;10/08/2028;Penhor + Aval Cloves ;
+CAIXA;Palmas;;;;Jovane;LUIS CARLOS RODRIGUES OLIVEIRA (Lizarda);PECUÁRIA ;;;; DESISTIU ; Rating A ;CAIXA;;25-May;;;
+SICREDI;JK;;;;Carol;LUIS CARLOS RODRIGUES OLIVEIRA (Lizarda);PECUÁRIA ;;;; PROCESSO PARADO ;;GN ;Limite envido 25/04;22-Jun;;;
+CAIXA;Palmas;Geslaine;Paulo;;Jovane;LUIZ CARLOS MARKUS (Ind Fabio);AGRÍCOLA;;;;CRÉDITO APROVADO;;CAIXA;Aprovado Custeio R$12MM | Invest R$ 1,4 MM Parcela ;22-May;;;
+CAIXA;PSO;;;;Thiago;LUIZ NILSON CARNEIRO GUIDA (Filho Gustavo);PECUÁRIA ;;;Rating D;CONSULTAR RATING;Falta carta de anuencia + laudo + protocolo + Definir a garantia;CAIXA;Aprovado Custeio R$ 449.000 | Invest R$ 232.000;28-Dec;;;
+SICREDI;PSO;;;;Romulo;LUIZ NILSON CARNEIRO GUIDA (Filho Gustavo);PECUÁRIA ;;;Ind. Diones;ATUALIZADO ;;Feito 18/02;Limite enviado 11/08;17-Oct;;;
+SICREDI;Tocantinópolis;Geslaine;;Eloisa;Jordana;LUSIVANIO SOUZA PEREIRA (Esposa Teresa Lucia);PECUÁRIA ;; R$ 160.000,00 ;CPR;INATIVO;VENDEU A FAZENDA;GN;Limite enivado 05/06;28-Sep;;; VÍDEO ESCRITÓRIO ENVIADO 
+CAIXA;PSO;;;Eloisa;Thiago;LYANDRA MOTA MARQUES COSTA (Leonardo);PECUÁRIA ;;;;CRÉDITO APROVADO;;CAIXA;Aprovado Custeio R$14MM | Invest R$1,2MM parcela;14-Feb;;;
+SICREDI;Formoso;;Paulo;;Charles;LYANDRA MOTA MARQUES COSTA (Leonardo);PECUÁRIA ;;;;CRÉDITO APROVADO;;;Aprovado R$ 2MM;05-Sep;;;
+CAIXA;Palmas;;;;Jovane;MAGNO SIQUEIRA SOUSA;PECUÁRIA ;; R$ 450.500,00 ;Invest. Maq;PROCESSO PARADO;DRIVE 31/05 - Mudança de normativo (Solicitaram + garantias);CAIXA; Aprovado Cuteio R$ 653.000 | Invest R$ 750.400  ;14-Jun;;;
+SICOOB TOCANTINS;PSO;;;;Thiago;MAGNO SIQUEIRA SOUSA;PECUÁRIA ;; R$ 500.000,00 ;Invest. FNO; OPERAÇÃO CONCLUÍDA ;;SICOOB;Projeto enviado 29/07 | ENVIADO NOVAMENTE 28/08;20-Sep;;;
+SICREDI;PSO;;;;Romulo;MAGNO SIQUEIRA SOUSA;PECUÁRIA ;; R$ 400.000,00 ; Custeio Pecuário ; OPERAÇÃO CONCLUÍDA ;;Enviado 03/08; Aprovado R$600.000 custeio - 400 penhor e 300 hipoteca | R$100.000 invest |R$ 80.000 rotativo ;AGO;14/08/2023;Penhor;
+SICREDI;PSO;;;;Romulo;MAGNO SIQUEIRA SOUSA;PECUÁRIA ;; R$ 449.000,00 ;Invest. Maq; OPERAÇÃO CONCLUÍDA ;1º Parcela 10/09/2023;Enviado 03/08; Aprovado Cuteio R$ 653.000 | Invest R$ 750.400  ;SET;10/09/2027;Penhor: Semi-Reboque ;
+SICREDI;PSO;;;;Romulo;MAGNO SIQUEIRA SOUSA;PECUÁRIA ;;;;ATUALIZADO ;;Enviado 03/08; Limite enviado 29/03 ;20-Oct;;;
+SICREDI;PSO;;;;Romulo;MAGNO SIQUEIRA SOUSA;PECUÁRIA ;; R$ 200.000,00 ;FNO Máq; OPERAÇÃO CONCLUÍDA ;1º Parcela 10/03/2026;Enviado 03/08;;MAR;10/03/2029;Penhor: Semi-Reboque ;
+SICREDI;PSO;;;;Romulo;MANOEL DAMAZIO DE ARAUJO;PECUÁRIA ;; R$ 500.000,00 ;Custeio Pecuário; OPERAÇÃO CONCLUÍDA ;PROJETC AGRO 24/06;Feito 26/04;Aprovado Custeio R$ 500.000 penhor |Invest R$ 300.000 hip.;JUN;17/06/2024;Penhor do gado ;
+SICREDI;PSO;;Geslaine;;Romulo;MANOEL DAMAZIO DE ARAUJO;PECUÁRIA ;;;;ATUALIZADO ;;Feito 26/04;Limite enviado 07/07;20-Oct;;;
+CAIXA;PSO;;;;Fernando;MANOEL DE JESUS TORRES (Denilson e Jose );PECUÁRIA ;;; Custeio Pecuário ;DESISTIU;Rating C | CND EXECUÇÃO CIVEL  positiva ;CAIXA;Aprovado Custeio R$ 4,1 MM | Invest R$ 714.000,00;05-Jul;;;
+SICREDI;PSO;;;;Romulo;MANOEL DE JESUS TORRES (Denilson e Jose );PECUÁRIA ;; R$ 500.000,00 ; Custeio Pecuário ; OPERAÇÃO CONCLUÍDA ;;;;NOV;17/11/2022;Hipotaca: Faz. Boa Sorte;
+SICREDI;PSO;;;;Romulo;MANOEL DE JESUS TORRES (Denilson e Jose );PECUÁRIA ;; R$ 298.000,00 ; Custeio LCA ; OPERAÇÃO CONCLUÍDA ;;;;DEZ;05/12/2022;Hipotaca: Faz. Boa Sorte;
+SICREDI;PSO;;;;Romulo;MANOEL DE JESUS TORRES (Denilson e Jose );PECUÁRIA ;; R$ 158.000,00 ; Custeio Pecuário ; OPERAÇÃO CONCLUÍDA ;PAGO;;;FEV;21/02/2023;Hipotaca: Faz. Boa Sorte;
+SICREDI;PSO;;;;Romulo;MANOEL DE JESUS TORRES (Denilson e Jose );PECUÁRIA ;; R$ 399.847,50 ; CPR Pecuário ; OPERAÇÃO CONCLUÍDA ;1º Parcela 08/09/2023;Enviado 16/12; Aprovado Invest R$ 400.000 ;SET;08/09/2027;Hip. 1º grau - LOTE 153/ M: 2984 ;
+SICREDI;PSO;;Geslaine;;Romulo;MANOEL DE JESUS TORRES (Denilson e Jose );PECUÁRIA ;;;;ATUALIZADO ;;;Limite enviado 07/06;03-Jul;;;
+SICREDI;PSO;;;;Romulo;MANOEL DIAS GAMA (MARCOS);PECUÁRIA ;;;; PENDENCIA ; Pendência união | Esposa união ;;Falta ajustar procuração, Limite enviado jul/20;22-Sep;;;
+SICREDI;PSO;;;;Romulo;MANOEL DOS REIS MORAIS DE SÁ FILHO (Esposa Clea);PECUÁRIA ;;;;FALTA DOC;Falta doc imóvel + END;;;21-Sep;;;
+SICREDI;PSO;;;;Dijelaine;MANOEL DOS SANTOS NASCIMENTO DE ABREU (Esposa Jocelina- filho Hernandes);NADA CONSTA;;;; PROSPECT ;;;;14-Feb;;;
+CAIXA;Palmas;Julia;;;Jovane;MARCELA VASQUES CINTRA (Filha Adauto);AGRÍCOLA;;;Ind Luiz;CRÉDITO APROVADO;Definir garantia;CAIXA;Aprovado Custeio R$ 16,6MM | Invest R$ 22,6MM;23-Aug;;;
+BB;PSO;;;;Fred;MARCELO BADIA MORALES VALENTIM;PECUÁRIA ;;;;ATUALIZADO ;GN só opera com garantia real;BB;Portal Coban 29/09;06-Oct;;;
+SICREDI;PSO;;;;Romulo;MARCELO BADIA MORALES VALENTIM;PECUÁRIA ;;;Ind. Romulo;ANALISE NEGATIVA;Sem garantia;Feito 22/08;Limte enviado 30/08;26-Dec;;;
+SICREDI;PSO;;;;Romulo;MARCELO BENEDITO DA SILVA BANDEIRA BEZERRA;PECUÁRIA ;; R$ 150.000,00 ;Custeio Pecuário; OPERAÇÃO CONCLUÍDA ;PROTEC AGRO 15/02;Feito 09/06;Aprovado custeio R$ 150.000 | invest R$ 100.000 Garantia Real;FEV;16/02/2025;Alienação Guarda chuva - Imovél Urbano M:17018; Minuta (Alienação) 
+SICREDI;PSO;;Geslaine;;Romulo;MARCELO BENEDITO DA SILVA BANDEIRA BEZERRA;PECUÁRIA ;;;;FAZER LIMITE;;Feito 09/06;Limite enviado 14/04;04-May;;;
+SICREDI;PSO;;;Eloisa;Romulo;MARCELO BENEDITO DA SILVA BANDEIRA BEZERRA;PECUÁRIA ;; R$ 70.000,00 ;FNO Animais; OPERAÇÃO CONCLUÍDA ;;Feito 09/06;Aprovado custeio R$ 150.000 | invest R$ 100.000 Garantia Real;13-Apr;;;
+SICREDI;PSO;;;;Romulo;MARCELO DE OLIVEIRA ARANTES (Esposo Sirlene);NADA CONSTA;;;;INATIVO;Irá mexer somente no CPF da esposa SIRLENE;Feito 08/12;;19-Jan;;;
+CAIXA;Gurupí;;Eloisa;;Josué;MARCELO SILVANI;AGRÍCOLA;; R$ 4.095.680,00 ;Custeio Agrícola; OPERAÇÃO CONCLUÍDA ;PAGO;CAIXA;Aprovado Custeio R$ 11,3MM | Invest R$ 8,8MM;MAI;10/05/2023;Fátima M: 2029;
+CAIXA;Gurupí;;Eloisa;;Josué;MARCELO SILVANI;AGRÍCOLA;; R$ 1.368.500,00 ;Invest. Máq; OPERAÇÃO CONCLUÍDA ;;CAIXA;Aprovado Custeio R$ 11,3MM | Invest R$ 8,8MM;31-May;;Fátima M: 2029;
+CAIXA;Palmas;;;;Jovane;MARCELO SILVANI;AGRÍCOLA;;;;CONSULTAR RATING;Ficha enviada 22/06 | Rating E;CAIXA;Aprovado Custeio R$ 11,3MM | Invest R$ 8,8MM;28-Dec;;;
+CAIXA;Palmas;;Eloisa;Eloisa;Thiago;MARCELO SILVANI;AGRÍCOLA;; R$ 2.660.710,98 ;Custeio Agrícola; OPERAÇÃO CONCLUÍDA ;;;Aprovado Custeio R$ 1MM | Fomento R$ 1MM;ABR;25/04/2024;Hip 2º grau - M: 1960;
+CAIXA;Palmas;;Eloisa;Eloisa;Jovane;MARCELO SILVANI;AGRÍCOLA;; R$ 9.301.890,50 ;Investi. Silo; OPERAÇÃO CONCLUÍDA ;1º Parcela 18/07/2026;CAIXA;Aprovado Custeio R$ 1MM | Fomento R$ 1MM;JUL;18/07/2038;Hip 1º grau - M: 1960;
+SICREDI;PSO;;Eloisa;;Romulo;MARCELO SILVANI;AGRÍCOLA;; R$ 2.000.000,00 ;Custeio Agrícola; OPERAÇÃO CONCLUÍDA ;PAGO;Feito 20/06;Aprovado R$ 2.000.000,00 Custeio| garantia Alienação;MAI;19/05/2023;Alienação guarda chuva M: 1960; Minuta (Alienação) 
+SICREDI;PSO;;Eloisa;;Romulo;MARCELO SILVANI;AGRÍCOLA;; R$ 1.000.000,00 ;Rotativo; OPERAÇÃO CONCLUÍDA ;PAGO;Feito 20/06;;MAI;27/05/2023;Alienação guarda chuva M: 1960; Minuta (Alienação) 
+CAIXA;Gurupí;;;;Josué;MARCIO ALMAGRO ;AGRÍCOLA;;;Ind Felipe;DESISTIU;Falta toda doc | Rating C;CAIXA;;22-Sep;;;
+SICREDI;PSO;Julia;Geslaine;;Romulo;MARCIO ALVES PERREIRA;PECUÁRIA ;;; Rating B ; FALTA DOC ;FAZER DOSSIÊ e ATUALIZAR CAD;Enviado 11/08; Aprovado Invest R$ 400.000 (Garantia real) ;09-Oct;;;
+SICREDI;Roda Velha;;;;Daniel ;MARCIO CATELAN;AGRÍCOLA;; R$ 282.500,00 ; Invest. 5 anos ; OPERAÇÃO CONCLUÍDA ;1º parcela 16/03/2023;GN ; Aprovado Custeio R$ 2.000.000 | Invest R$ 1.200.000 | Garantia Real  ;MAR;16/03/27;Penhor maquinário;
+CAIXA;Gurupí;;;Eloisa;Josué;MARCIO ESPEDITO SANTANA;PECUÁRIA ;;;;CRÉDITO APROVADO;Enviado checklist pós aprovação;CAIXA;Aprovado Custeio R$ 2MM | Invest R$1.024.000;10-May;;;
+SICREDI;PSO;;;Eloisa;Romulo;MARCIO ESPEDITO SANTANA;PECUÁRIA ;; R$ 500.000,00 ; Custeio Pecuário ; OPERAÇÃO CONCLUÍDA ;;Enviado 10/08; Aprovado custeio R$ 500.000 penhor ;AGO;24/08/2023;Penhor;
+SICREDI;PSO;;;Eloisa;Romulo;MARCIO ESPEDITO SANTANA;PECUÁRIA ;; R$ 200.000,00 ;FNO; OPERAÇÃO CONCLUÍDA ;1º Parcela 10/04/2025;Enviado 10/08;Aprovado Custeio R$ 1MM | Invest R$1,5 MM - Garantia alienação;ABR;10/04/2029;Avalista Thalles;
+SICREDI;PSO;;Geslaine;;Romulo;MARCIO ESPEDITO SANTANA;PECUÁRIA ;;;;ATUALIZADO ;;;Limite enviado 29/11;27-Dec;;;
+SICREDI;Colinas;;;;Carlos;MARCIO MARTINS GOMES;PECUÁRIA ;; R$ 900.000,00 ;Custeio Pecuário; OPERAÇÃO CONCLUÍDA ;;;Aprovado custeio R$ 900.000;JUN;26/06/23;;
+SICREDI;PSO;;;;Dijelaine;MARCIO RESENDE MARTINS;PECUÁRIA ;;;Ind. Dijelane;FALTA DOC;;;;28-Dec;;;
+SICREDI;PSO;;;;Dijelaine;MARCO AURELIO TEIXEIRA SAMPAIO;PECUÁRIA ;;;; INATIVO ;FEZ COM OUTRO PROJETISTA;;;09-Jul;;;
+CAIXA;Palmas;;;;Jovane;MARCOS DE LIMA PAIVA (Filho Fernando);PECUÁRIA ;;;;FAZER PROJETO;;CAIXA;Aprovado Custeio R$5,5MM | Invest R$ 843K Parcela;03-Oct;;;
+SICREDI;PSO;;;;Romulo;MARCOS SILVA CARDOSO (Proprietário área Natanel);PECUÁRIA ;;;;INATIVO;Falta docs pessoais ;;Limite enviado 16/05;22-Jun;;;
+CAIXA;PSO;Thais;;;Thiago;MARCOS VINICIUS SANTOS SILVEIRA (Filho Elizeu);AGRÍCOLA;; R$ 503.670,80 ; Custeio Agrícola ; OPERAÇÃO CONCLUÍDA ;Rating B ;CAIXA;Aprovado Custeio R$10MM | Invest R$ 2,7 MM -Parcela;MAI;25/05/24;Hip. 1º grau Matrícula -    M: 7.728; Acordado 1,5% em todas as operações 
+CAIXA;PSO;Thais;;Eloisa;Thiago;MARCOS VINICIUS SANTOS SILVEIRA (Filho Elizeu);AGRÍCOLA;; R$ 1.269.965,13 ; Custeio Agrícola ; OPERAÇÃO CONCLUÍDA ;;CAIXA;Aprovado Custeio R$10MM | Invest R$ 2,7 MM -Parcela;ABR;25/04/24;Hip. 2º grau Matrícula -    M: 7.728; Acordado 1,5% em todas as operações 
+SICREDI;PSO;Thais;;;Romulo;MARCOS VINICIUS SANTOS SILVEIRA (Filho Elizeu);AGRÍCOLA;;;;ATUALIZADO ;Aprovado Custeio R$ 150.000 | Invest R$80.000 Garantia imóvel /maq;Enviado 20/04;Limite enviado 18/11;04-May;;;Ind. Banco
+CAIXA;Palmas;;;;Jovane;MARCOS VINICIUS SILVA CABRAL;PECUÁRIA ;;;Ind Diones;PROSPECT;Nome da Simone e Antonio;CAIXA;;17-Feb;;;
+CAIXA;Gurupí;;;;Josué;MARCUS ANDRE RIBEIRO;PECUÁRIA ;;;ProjeteAgro; INATIVO ;Garantia BB;CAIXA;Aprovado Custeio R$521.000 | Invest R$ 424.000;16-Dec;;;
+SICREDI;PSO;;;;Romulo;MARCUS PHILLIPE SOARES CARVALHO ;PECUÁRIA ;; R$ 500.000,00 ; Custeio Pecuário ; OPERAÇÃO CONCLUÍDA ;PROTEC AGRO 24/06;Enviado 03/02;Aprovado Custeio R$500.000 | Invest R$ 206.000;JUN;19/06/2024;Penhor do gado ;
+SICREDI;PSO;;Geslaine;;Romulo;MARCUS PHILLIPE SOARES CARVALHO ;PECUÁRIA ;;;;ATUALIZADO ;;Enviado 03/02;Limite enviado 19/06;20-Oct;;;
+SICREDI;PSO;;;;Romulo;MARCUS PHILLIPE SOARES CARVALHO ;PECUÁRIA ;; R$ 200.000,00 ;FNO; OPERAÇÃO CONCLUÍDA ;1º Parcela 10/02/2026;Enviado 03/02;Aprovado Custeio R$500.000 | Invest R$ 206.000;FEV;10/02/2029;Hip 6º grau- M: 1.901;
+SICREDI;PSO;;;;Romulo;MARCUS VIEIRA MATIAS;NADA CONSTA;;;; INATIVO ;Ver contato;;Nada consta;07-Jan;;;
+SICREDI;JK;;;;Murcio;MARCUS VINÍCIUS MORAIS (Rubens);PECUÁRIA ;;;;INATIVO;Fez 2x limite, com a Fernanda e NP;GN;Limite enviado 20/09;06-Oct;;;
+SICREDI;PSO;;Geslaine;;Romulo;MARCY SANTANA DE SOUSA;PECUÁRIA ;;;;INATIVO;ASSINAR CONTA;Feito 18/04;Limite enviado 18/04;03-Jul;;;
+BB;Tocantinópolis;;;Eloisa;Jordana;MARIA DAIUSA MARQUES FERNANDES;AVICULTURA;; R$ 250.000,00 ;Investimento;FAZER PROJETO;;GN;Aprovado CPR R$ 1MM | Invest. R$ 1MM - Garant. Hip ;01-Nov;;;
+SICREDI;Tocantinópolis;;;Eloisa;Jordana;MARIA DAIUSA MARQUES FERNANDES;AVICULTURA;; R$ 124.397,55 ;CPR; OPERAÇÃO CONCLUÍDA ;1º Parcela 14/04/2025;GN;Aprovado CPR R$ 1MM | Invest. R$ 1MM - Garant. Hip ;ABR;14/04/2027;Penhor 50 animais - acima de 36 meses; VÍDEO ESCRITÓRIO ENVIADO 
+SICREDI;Tocantinópolis;;;Kaique;Jordana;MARIA DAIUSA MARQUES FERNANDES;AVICULTURA;; R$ 181.250,00 ;FNO Animais;PROCESSO NO BANCO;PROTEC AGRO 11/05;GN;Aprovado CPR R$ 1MM | Invest. R$ 1MM - Garant. Hip ;11-May;;;
+SICREDI;PSO;;;;Romulo;MARIA DE LIMA TERTO (Esposo Adilson);PECUÁRIA ;; R$ 150.000,00 ; Custeio Pecuário ; OPERAÇÃO CONCLUÍDA ;;Enviado 23/08;Aprovado custeio R$50.000 | Invest R$ 250.000;MAR;19/03/2023;Hipoteca: Faz mata verde M-1.762;
+SICREDI;PSO;;;;Romulo;MARIA DE LIMA TERTO (Esposo Adilson);PECUÁRIA ;; R$ 78.000,00 ; Invest. 5 anos  ; OPERAÇÃO CONCLUÍDA ;;Enviado 23/08;Aprovado custeio R$50.000 | Invest R$ 250.000;JUN;24/06/2026;Hipoteca: Faz mata verde M-1.762;
+SICREDI;PSO;;;;Romulo;MARIA DE LIMA TERTO (Esposo Adilson);PECUÁRIA ;; R$ 50.000,00 ; Custeio Pecuário ; OPERAÇÃO CONCLUÍDA ;PAGO E RENOVADO;Enviado 23/08;Aprovado custeio R$50.000 | Invest R$ 250.000;OUT;03/10/2023;Hipoteca: Faz mata verde M-1.762;
+SICREDI;PSO;;;;Romulo;MARIA DE LIMA TERTO (Esposo Adilson);PECUÁRIA ;; R$ 250.000,00 ; Custeio Pecuário ; OPERAÇÃO CONCLUÍDA ;;Enviado 23/08;Limite enviado 27/02;ABR;16/04/2025;Alienação guarda chuva M:1762;
+SICREDI;PSO;;Geslaine;Eloisa;Romulo;MARIA DE LIMA TERTO (Esposo Adilson);PECUÁRIA ;; R$ 200.000,00 ; FNO Animais ; OPERAÇÃO CONCLUÍDA ;1º Parcela 10/09/2026;Enviado 23/08;;SET;10/09/2028;Penhor ;
+SICREDI;PSO;;;;Romulo;MARIA DIVINA DE BARROS (Filha Iaponira);PECUÁRIA ;;; Rating B Caixa ; CRÉDITO APROVADO ;Subir proposta no penhor;Enviado 11/08; Aprovado custeio R$ 80.000 Hipoteca| Invest R$70.000 ;19-Jun;;;
+SICREDI;PSO;;;;Romulo;MARIA EMANUELA CUNHA (Mãe Ruthi);AGRÍCOLA;;;Ind Romulo;ATUALIZADO ;GN disse q não vai atender;Enviado 26/08;Limite enviado 09/02;09-Feb;;;
+BB;PSO;;;;PRONAF;MARIA IRACY DOS SANTOS LIMA CARVALHO;PECUÁRIA ;; R$ 93.216,00 ; InvestAgro ; OPERAÇÃO CONCLUÍDA ;;BB; Pronaf mais alimentos ;;;;
+BB;Divinópolis;;;;Fred;MARIA LUIZA FERREIRA DA COSTA (Filho Romulo);PECUÁRIA ;; R$ 151.130,00 ; InvestAgro ; OPERAÇÃO CONCLUÍDA ;;BB;;BB;;;
+BB;PSO;;;;Fred;MARIA LUIZA FERREIRA DA COSTA (Filho Romulo);PECUÁRIA ;;;;ATUALIZADO ;Conformação cliente;BB;;21-Nov;;;
+SICREDI;PSO;;;;Romulo;MARIA LUIZA FERREIRA DA COSTA (Filho Romulo);PECUÁRIA ;; R$ 250.040,00 ; Custeio Pecuário ; OPERAÇÃO CONCLUÍDA ;PAGO;Enviado 03/08;;FEV;12/02/2023;Hipoteca: M-12.468;
+SICREDI;PSO;;;;Romulo;MARIA LUIZA FERREIRA DA COSTA (Filho Romulo);PECUÁRIA ;; R$ 200.000,00 ; Custeio Pecuário ; OPERAÇÃO CONCLUÍDA ;;Enviado 03/08;Aprovado custeio R$500.000  Garantia Imóvel;NOV;10/11/2024;Alienação Guarda Chuva - M: 12.468; Minuta (Alienação) 
+SICREDI;PSO;Hellen;Geslaine;Wendell;Romulo;MARIA LUIZA FERREIRA DA COSTA (Filho Romulo);PECUÁRIA ;; R$ 200.000,00 ; FNO Animais  ; OPERAÇÃO CONCLUÍDA ;1º Parcela 10/03/2026;Enviado 03/08;Limite enviado 17/07;MAR;10/03/2029;Penhor;
+SICREDI;PSO;Hellen;;Wendell;Romulo;MARIA LUIZA FERREIRA DA COSTA (Filho Romulo);PECUÁRIA ;; R$ 100.000,00 ; Custeio Pecuário ; OPERAÇÃO CONCLUÍDA ;;Enviado 03/08;;AGO;10/08/2025;Alienação Guarda Chuva - M: 12.468; Minuta (Alienação) 
+SICREDI;PSO;Hellen;;Wendell;Romulo;MARIA LUIZA FERREIRA DA COSTA (Filho Romulo);PECUÁRIA ;; R$ 86.000,00 ; Custeio Pecuário ;CANCELADO;PROTEC AGRO 04/08;Enviado 03/08;;04-Aug;;;
+SICREDI;PSO;;Geslaine;Wendell;Romulo;MARIA LUIZA FERREIRA DA COSTA (Filho Romulo);PECUÁRIA ;; R$ 220.000,00 ; Custeio Pecuário ; OPERAÇÃO CONCLUÍDA ;;Enviado 03/08;;MAR;09/07/2025;Alienação Guarda Chuva - M: 12.468; Minuta (Alienação) 
+CAIXA;Palmas;;;;Jovane;MARIA MADALENA DA FONSECA RIBEIRO (Filho Fabio Fonseca);AGRÍCOLA;;;;INATIVO;Rating D | Restritivo;CAIXA;;28-Dec;;;
+SICREDI;JK;;;;Luciana;MARIA MADALENA DA FONSECA RIBEIRO (Filho Fabio Fonseca);AGRÍCOLA;;;Ind Julio (mentiu conta); INATIVO ;DEFAULT;GN ;;17-Oct;;;
+SICREDI;PSO;Thais ;Geslaine;;Romulo;MARILENA SLEUTJES (Esposo CID LUIZ SIPANSKI);PECUÁRIA ;;;PROTEC AGRO 15/10 | Não possui a Ass. Carta de anuencia | Falta END + FICHA;CRÉDITO APROVADO;;Enviado 03/08;Aprovado Custeio R$ 300.000 penhor | Invest R$ 200.000;20-Oct;;;
+CAIXA;PSO;Julia;Geslaine;Pedro;Thiago;MARINA BEATRYS INACIO DA SILVA (Mãe Abdala);PECUÁRIA ;; R$ 3.000.000,00 ;Custeio Pecuário;FAZER PROJETO;Alerta na Faz Jussara;CAIXA;Aprovado Custeio R$ 26MM | Invest R$ 5,6 M Parcela;04-Aug;;;
+CAIXA;PSO;Julia;Geslaine;Pedro;Thiago;MARINA BEATRYS INACIO DA SILVA (Mãe Abdala);PECUÁRIA ;; R$ 12.000.000,00 ;Investimento;FAZER PROJETO;Alerta na Faz Jussara;CAIXA;Aprovado Custeio R$ 26MM | Invest R$ 5,6 M Parcela;04-Aug;;;
+SICREDI;Guaraí;;;;Juliana;MATEUS DUFFERCK GREIM ;PECUÁRIA ;;;;INATIVO;ITR não está saindo + Retificar o CAR + Doc conta aval | FEZ COM OUTRO PROJETISTA;Enviado 23/02;Limite enviado 24/02;02-May;;;
+CAIXA;Palmas;;;;Jovane;MATHEUS LACERDA DE ARAUJO;PECUÁRIA ;;;;INATIVO;Rating E;CAIXA;;28-Dec;;;
+SICREDI;Colinas;;;;Edjane;MATHEUS LACERDA DE ARAUJO;PECUÁRIA ;;;; FALTA DOC ;Falta toda doc 03 áreas;; Limite enviado jan/21 ;22-Sep;;;
+CAIXA;PSO;;;;Thiago;MAURO SERGIO DO CARMO;AGRÍCOLA;;;;CONSULTAR RATING;Rating F;CAIXA;;28-Dec;;;
+SICREDI;PSO;;;;Romulo;MAURO SERGIO DO CARMO;AGRÍCOLA;;;;CRÉDITO APROVADO;Sem interesse no momento | Na CX faz com outro projetista;;Aprovado Custeio R$ 800.000 | Invest R$ 500.000;22-Sep;;;
+SICREDI;PSO;;;;Romulo;MAURO SERGIO DO CARMO;AGRÍCOLA;; R$ 200.000,00 ;FNO Máq; OPERAÇÃO CONCLUÍDA ;1º Parcela 10/01/2025;;;JAN;10/01/2028;Penhor maquinário;
+SICREDI;PSO;;;;Romulo;MICHAEL CHRISTIAN SILVA RODRIGUES (Adv. Henrique);PECUÁRIA ;;;;ANALISE NEGATIVA;;Feito 20/04;Limite enviado 25/11;19-Dec;;;
+SICREDI;PSO;;;;Dijelaine;MICHELE DE PAULA LACERDA;PECUÁRIA ;; R$ 249.600,00 ; Invest. BNDES ; OPERAÇÃO CONCLUÍDA ;Maquinário;Enviado 17/08;Aprovado custeio R$700.000 | Invest R$400.000 Alienação imóvel;OUT;15/10/2027;Penhor Máquina;
+SICREDI;PSO;;;;Dijelaine;MICHELE DE PAULA LACERDA;PECUÁRIA ;; R$ 500.000,00 ; Custeio Pecuário ; OPERAÇÃO CONCLUÍDA ;;Enviado 17/08;Aprovado custeio R$700.000 | Invest R$400.000 Alienação imóvel;NOV;08/11/2022;Hipoteca: Faz. Novo Acordo;
+SICREDI;PSO;;;;Dijelaine;MICHELE DE PAULA LACERDA;PECUÁRIA ;; R$ 180.000,00 ; Invest. 5 anos  ; OPERAÇÃO CONCLUÍDA ;;Enviado 17/08;Aprovado custeio R$700.000 | Invest R$400.000 Alienação imóvel;NOV;18/11/2026;Hipoteca: Faz. Bom Sossego ;
+SICREDI;PSO;;;;Dijelaine;MICHELE DE PAULA LACERDA;PECUÁRIA ;; R$ 175.000,00 ;Custeio Pecuário; OPERAÇÃO CONCLUÍDA ;RENEGOCIAÇÃO;Enviado 17/08;Disponível R$180.000,00;NOV;02/11/23;Hipoteca: Faz. Bom Sossego ;
+SICREDI;PSO;;;;Dijelaine;MICHELE DE PAULA LACERDA;PECUÁRIA ;; R$ 175.000,00 ; Custeio Pecuário ; OPERAÇÃO CONCLUÍDA ;RENEGOCIAÇÃO;Enviado 17/08;;NOV;02/11/2023;Alienação Guarda -chuva: M-1.244; Minuta (Alienação) 
+SICREDI;PSO;;;;Dijelaine;MICHELE DE PAULA LACERDA;PECUÁRIA ;; R$ 280.000,00 ; Custeio Pecuário ; OPERAÇÃO CONCLUÍDA ;;Enviado 17/08;;ABR;08/04/2024;Alienação Guarda -chuva: M-1.244; Minuta (Alienação) 
+SICREDI;PSO;;;;Dijelaine;MICHELE DE PAULA LACERDA;PECUÁRIA ;;;;ATUALIZADO ;Está com restritivo | GN não vai atender com mais crédito;Enviado 17/08;Limite enviado 26/08;16-Sep;;;
+SICREDI;Roda Velha;;;;Daniel ;MIGUEL FARIAS DE ARAUJO;AGRÍCOLA;;;Ind Roda Velha;FALTA DOC;Falta toda doc | Pequeno produtor sem doc ;;;22-Sep;;;
+SICREDI;Colinas;;;;Carlos;MIRIAN APARECIDA MAXIMIANO DA SILVA PAULA;PECUÁRIA ;; R$ 500.000,00 ; Custeio Pecuário ; OPERAÇÃO CONCLUÍDA ;;; Aprovado Custeio R$ 500M | R$ 300M Invest ;OUT;29/10/23;;
+SICREDI;Colinas;;Geslaine;;Matheus;MIRIAN APARECIDA MAXIMIANO DA SILVA PAULA;PECUÁRIA ;;;;COBRAR GN;Garantia com margem de 35.000,00;GN;Limite enviado 07/06| reenviado 03/08;04-Aug;;;
+CAIXA;Palmas;;Paulo ;;Jovane;MOACIR AFONSO VIEIRA FILHO;PECUÁRIA ;;;;CRÉDITO APROVADO;;CAIXA;Aprovado Custeio Pec R$ 366.000 | Invest R$ 204.700 parcela;29-Mar;;;
+SICREDI;PSO;;Paulo ;;Romulo;MOACIR AFONSO VIEIRA FILHO;PECUÁRIA ;;; Pegou no BB ;CRÉDITO APROVADO; Falta Licença Ambiental;Enviado 11/08;Aprovado Custeio R$ 500.000 | Invest R$460.000 - Garant Alienação;10-May;;;
+BB;;;;;SEM GN;MOISES LUSTOSA BEZERRA;PECUÁRIA ;;;;PROCESSO PARADO;Procurar ag e validar cadastro;BB;;18-Oct;;;
+CAIXA;PSO;Julia;;;Jovane;MOISES LUSTOSA BEZERRA;PECUÁRIA ;;;;CRÉDITO APROVADO;Rating B ;CAIXA;Aprovado Custeio R$ 6,2MM| Invest R$ 395k Parcela;27-Nov;;;
+SICREDI;PSO;;;;Romulo;MOISES LUSTOSA BEZERRA;PECUÁRIA ;; R$ 200.000,00 ; Custeio Pecuário ;PROCESSO PARADO;PROTEC AGRO 30/03 - 13/06 | Não aceitaram o parecer e nem o protocolo da licença;Enviado 13/09;Aprovado Custeio R$ 200.000| Invest R$100.000 (Garantia real);14-Jun;;;Rating F caixa
+SICREDI;PSO;Julia;;;Romulo;MOISES LUSTOSA BEZERRA;PECUÁRIA ;;;;ATUALIZADO ;Falta licenças LO;Enviado 13/09;Limite enviado 21/09;17-Oct;;;
+SICREDI;PSO;Geslaine;Geslaine;Eloisa;Romulo;MOZAIR JOSE DA SILVA;PECUÁRIA ;; R$ 200.000,00 ;FNO Animais; OPERAÇÃO CONCLUÍDA ; 1º Parcela 10/07/2025 ;Feito 07/10;;JUL;10/07/2029;Hip 1º grau - Faz Floresta II - M: 4580;
+SICREDI;PSO;;;;Romulo;MURILO SÃO JOSÉ MILHOMEM;PECUÁRIA ;; R$ 500.000,00 ; Custeio Pecuário ; OPERAÇÃO CONCLUÍDA ;PAGO;Envaido 11/08;Aprovado Custeio R$ 250.000;JAN;04/01/2023;Hipoteca: Faz. Santa Maria ;
+SICREDI;PSO;;;;Romulo;MURILO SÃO JOSÉ MILHOMEM;PECUÁRIA ;; R$ 250.000,00 ; Custeio Pecuário ; OPERAÇÃO CONCLUÍDA ;PAGO;Envaido 11/08;Aprovado Custeio R$ 250.000;AGO;06/08/2023;Hipoteca: Faz. Santa Maria ;
+SICREDI;PSO;;;;Romulo;MURILO SÃO JOSÉ MILHOMEM;PECUÁRIA ;; R$ 500.000,00 ; Custeio Pecuário ; OPERAÇÃO CONCLUÍDA ;;Envaido 11/08;Aprovado Custeio R$ 500.000 | Invest R$ 580.000,00;JAN;15/01/2025;Hip 2º grau, M: 4400 - Terreno Urbano GO;
+SICREDI;PSO;;Geslaine;Wendell;Romulo;MURILO SÃO JOSÉ MILHOMEM;PECUÁRIA ;; R$ 248.500,00 ; Custeio Pecuário ; OPERAÇÃO CONCLUÍDA ;;Envaido 11/08;Limite enviado 04/08;SET;15/09/2025;Hip 2º grau, M: 4400 - Terreno Urbano GO;
+CAIXA ;PSO;;Geslaine;;Thiago;MURILO SÃO JOSÉ MILHOMEM;PECUÁRIA ;;;;CRÉDITO APROVADO;;CAIXA;Aprovado Custeio R$ 6,3MM | Invest R$ 300K;22-Nov;;;
+SICREDI;PSO;;;;Dijelaine;NAIANA PAULA FELTRIN VIZZOTO (Esposo Everton);AGR/PEC;; R$ 199.981,80 ;Custeio Agrícola; OPERAÇÃO CONCLUÍDA ;;Enviado 11/08;;MAI;19/05/2022;Hipoteca: Faz. Alto do Mirante;
+SICREDI;PSO;;;;Dijelaine;NAIANA PAULA FELTRIN VIZZOTO (Esposo Everton);AGR/PEC;; R$ 199.917,00 ;Custeio Agrícola; OPERAÇÃO CONCLUÍDA ;;Enviado 11/08;;AGO;18/08/2022;Hipoteca: Faz. Alto do Mirante;
+SICREDI;PSO;;;;Dijelaine;NAIANA PAULA FELTRIN VIZZOTO (Esposo Everton);AGR/PEC;; R$ 200.000,00 ;Custeio Agrícola; OPERAÇÃO CONCLUÍDA ;Renegociação;Enviado 11/08;Aprovado Custeio R$ 500.000 alienação guarda chuva | R$200.000 Alienação máq;ABR;20/04/23;Penhor de Grãos;
+SICREDI;PSO;;;;Dijelaine;NAIANA PAULA FELTRIN VIZZOTO (Esposo Everton);AGR/PEC;;;;ATUALIZADO ;;Enviado 11/08;Limite enviado 30/03;27-Dec;20/04/23;Penhor de Grãos;
+SICREDI;PSO;;;;Romulo;NARA RUBIA MARQUES METZKA (Filha Lara);PECUÁRIA ;;;;;;;;;;;
+CAIXA;PSO;;Paulo;;Thiago;NATALIA BORBA MARQUES DA SILVA;PECUÁRIA ;;;;CRÉDITO APROVADO;Rating A;CAIXA;Aprovado Custeio R$ 574.000 | Invest parcela R$ 18.395,00;12-Apr;;;
+SICREDI;PSO;;;;Dijelaine;NATANAEL CARDOSO DE BRITO NETO (Filho Marcio - Barrolândia);PECUÁRIA ;; R$ 200.000,00 ; Invest. Pronamp ; OPERAÇÃO CONCLUÍDA ;1º Parcela 18/11/2023;Enviado 23/11;Aprovado custeio R$150.000| Invest R$ 200.000  garantia real;NOV;18/11/27;Hip. Guarda chuva - M:1117; Minuta (Hipoteca) 
+SICREDI;PSO;;;;Dijelaine;NATANAEL CARDOSO DE BRITO NETO (Filho Marcio - Barrolândia);PECUÁRIA ;;;;ATUALIZADO ;Solicitação aumento de custódia;Enviado 23/11;Limite enviado 13/12;14-Feb;;;
+SICREDI;PSO;;;Kaique;Romulo;NELSON FRANCISCO;PECUÁRIA ;; R$ 352.000,00 ;Custeio Pecuário; OPERAÇÃO CONCLUÍDA ;;;Limite enviado 04/04;ABR;08/04/2025;Alienação Guarda Chuva - M: 1.189; Acordado 1,2% em todas as operações 
+SICREDI;PSO;;;Kaique;Romulo;NELSON FRANCISCO;PECUÁRIA ;; R$ 494.000,00 ;Custeio Pecuário; OPERAÇÃO CONCLUÍDA ;;;Limite enviado 04/04;ABR;03/04/2025;Alienação Guarda Chuva - M: 1.190; Acordado 1,2% em todas as operações 
+SICREDI;Roda Velha;;;;Daniel ;NELSON LOPES;AGRÍCOLA;; R$ 250.000,00 ; Invest. 5 anos ; OPERAÇÃO CONCLUÍDA ;1º parcela 08/05/23;GN; Aprovado Custeio R$ 1MM | Invest R$ 1MM | Moeda R$1MM ;MAI;08/05/26;Garantia: Máquina;
+SICREDI;Roda Velha;;;;Daniel ;NELSON LOPES;AGRÍCOLA;;;;CRÉDITO APROVADO;;GN; Aprovado Custeio R$ 1MM | Invest R$ 1MM | Moeda R$1MM ;05-Dec;;;
+SICREDI;PSO;;;;Romulo;NILTON GOMES DA SILVA;PECUÁRIA ;;;;INATIVO;CONTA INATIVA ;Envaido 18/01; Limite enviado fev/20 | Limite enviado 18/01 ;10-Feb;;;
+SICREDI;PSO;;;;Romulo;ODIRLEY FERNANDES BRAGA;AGR/PEC;;;Ind. Wesley;ANALISE NEGATIVA;MOVIMENTAÇÃO;Enviado 29/07;Limite enviado 29/07;26-Dec;;;
+CAIXA;PSO;;;;Thiago;OLDEMAR LUIZ JUNG;AGRÍCOLA;;;;DIVINO;Rating C;CAIXA;Aprovado Custeio R$ 9,8MM | Invest Parcela R$ 2,7MM;27-Mar;;;
+SICREDI;PSO;;;;Romulo;OVIDIO FRANCISCO FERREIRA;PECUÁRIA ;; R$ 200.000,00 ;FNO Animais; OPERAÇÃO CONCLUÍDA ; 1º Parcela 10/06/2025 ;;Limite e doc abertura conta enviado 23/01;JUN;10/06/2029;Penhor do gado ;
+BB;PSO;;;;SEM GN;PABLO AZEVEDO NAZARENO;PECUÁRIA ;; R$ 91.772,26 ; InvestAgro ; OPERAÇÃO CONCLUÍDA ;;BB;;;;;
+SICREDI;PSO;;;;Dijelaine;PABLO HENRIQUE JAPIASSU;PECUÁRIA ;;;Ind Roni contador;PROCESSO PARADO;Limite enviado 18/07;;ABERTURA DE CONTA;18-Jul;;;
+CAIXA;Palmas;;;;Jovane;PABLO HENRIQUE MARTINS GUIDA;PECUÁRIA ;;;;INATIVO;Rating F;Feito 08/06;;28-Dec;;;
+SICREDI;PSO;;;;Romulo;PAULA BORGES;PECUÁRIA ;;;Ind. Romulo;PROSPECT;Falta toda doc;;;14-Nov;;;
+SICREDI;JK;;;;Carol;PAULO GUILHERME BORGES MONTES (Ind Adolfo);AGRÍCOLA;;;Ricos; INATIVO ;Inteiro teor área M-678;GN ;Ofertado caixa - sem retorno;23-Nov;;;
+CAIXA;PSO;;Geslaine;;Thiago;PAULO GUILHERME BORGES MONTES (Ind Adolfo);AGRÍCOLA;;;Ricos; CRÉDITO APROVADO ;;CAIXA;Aprovado Custeio R$ 13MM | Invest R$1,8MM Parcela;23-Nov;;;
+SICREDI;PSO;;;;Romulo;PAULO HENRIQUE RIBEIRO GUIDA;PECUÁRIA ;; R$ 90.000,00 ; Custeio Pecuário ; OPERAÇÃO CONCLUÍDA ;Pago;Enviado 10/08; Aprovado custeio R$90.000 | R$ 30.000 invest ;JUN;28/06/2023;Hipoteca: Chácara Barra Mans M- 901;
+SICREDI;PSO;;;;Romulo;PAULO HENRIQUE RIBEIRO GUIDA;PECUÁRIA ;; R$ 50.000,00 ; Custeio Pecuário ; OPERAÇÃO CONCLUÍDA ;PAGO E RENOVADO;Enviado 10/08;Aprovado R$ 50.000 custeio;SET;20/09/2023;Hipoteca: Chácara Barra MansM- 901;
+SICREDI;PSO;;;;Romulo;PAULO HENRIQUE RIBEIRO GUIDA;PECUÁRIA ;; R$ 74.700,00 ;Custeio Pecuário; OPERAÇÃO CONCLUÍDA ;;Enviado 10/08;Aprovado Custeio R$ 370.000 | Invest R$ 100.000;JUL;15/07/2024;Hip 3º grau - Chácara Barra Mansa M- 901;
+SICREDI;PSO;Julia;Paulo;Eloisa;Romulo;PAULO HENRIQUE RIBEIRO GUIDA;PECUÁRIA ;; R$ 110.000,00 ;FNO Animais; OPERAÇÃO CONCLUÍDA ;1º Parcela 10/07/2026;Enviado 10/08;Limite enviado 22/03;JUL;10/07/2030;Hip 2º grau - Chácara Barra Mansa M- 901;
+SICREDI;PSO;;Geslaine;;Romulo;PAULO HENRIQUE RIBEIRO GUIDA;PECUÁRIA ;;;;ATUALIZADO ;;Enviado 10/08;Limite enviado 13/10;27-Dec;;;
+SICREDI;PSO;;Geslaine;;Romulo;PEDRO BORGES DE SOUZA;PECUÁRIA ;;; Pronaf ;ATUALIZADO ;;Feito 03/12;Limite enviado 14/07;14-Jul;;;
+CAIXA;Palmas;Julia;Geslaine;Pedro;Jovane;PEDRO DE JESUS SOUZA GOUDINHO (Sogro Silvani);PECUÁRIA ;; R$ 479.857,00 ;Invetimento;PROCESSO NO BANCO;rating B;;Aprovado Custeio R$ 1,2MM | Invest R$ 53K Parcela;02-Oct;;;
+CAIXA;Palmas;Julia;Geslaine;Pedro;Jovane;PEDRO DE JESUS SOUZA GOUDINHO (Sogro Silvani);PECUÁRIA ;; R$ 267.209,00 ;Custeio Pecuário;OPERAÇÃO CONCLUÍDA;;;Aprovado Custeio R$ 1,2MM | Invest R$ 53K Parcela;OUT;18/10/2025;Hip. 1º grau - Chacará Flor do TO - M: 05;
+CAIXA;PSO;Geslaine;Paulo;Eloisa;Thiago;PEDRO DE LACERDA GORGEN;AGR/PEC;;;;FAZER PROJETO;RATING C;CAIXA;Aprovado Custeio R$ 10,6MM | Invest R$ 16,2MM;17-Apr;;;
+SICREDI;LEM;Geslaine;;Eloisa;Juliete;PEDRO DE LACERDA GORGEN;AGR/PEC;; R$ 1.000.000,00 ;Invest. 5 anos; OPERAÇÃO CONCLUÍDA ;;Enviado 09/06;Aprovado Invest R$ 1MM | Moeda R$ 1MM;JUN;20/06/2024;Hip. Guarda chuva M: 55.983| M:55.984 | M:55.985 | M:55.987 | M:55.988; Minuta (Hipoteca) 
+SICREDI;LEM;;Geslaine;Wendell;Juliete;PEDRO DE LACERDA GORGEN;AGR/PEC;;;;FAZER PROJETO;Fazer projeto caminhão qnd enviar as pendências;;Limite enviado 14/07;18-Dec;;;
+SICREDI;LEM;Geslaine;;Kaique;Juliete;PEDRO DE LACERDA GORGEN;AGR/PEC;; R$ 809.000,00 ;Invest. 5 anos; OPERAÇÃO CONCLUÍDA ;Pendencia CND Prorietário da área| PROTEC AGRO 01/08 - 15/08;Enviado 09/06;Aprovado Invest R$ 1MM | Moeda R$ 1MM;JUN;20/06/2024;Hip. Guarda chuva M: 55.983| M:55.984 | M:55.985 | M:55.987 | M:55.988; Minuta (Hipoteca) 
+CAIXA;PSO;Julia;Paulo;;Thiago;PERLA MONIQUE DUARTE MAIA (Esposa Radoll);AGRÍCOLA;;;;INATIVO;;CAIXA;Aprovado Custeio R$ 27,3 MM | Invest R$ 2,9 MM Parcela;17-May;;;
+SICREDI;Palmas;Julia;Geslaine;;Carol;PERLA MONIQUE DUARTE MAIA (Esposa Radoll);AGRÍCOLA;;;;INATIVO;;;Limite enviado 18/07;18-Jul;;;
+CAIXA;Gurupí;;;;Josué;RAFAEL BATISTA DIAS DOS SANTOS;AGRÍCOLA;;;;PENDENCIA;Rating C | Esposa com ação judicial R$ 140.000 | 073.361.159-18 (Nayara Alto 1 e restritivos);CAIXA;Aprovado Custeio R$ 3,4MM | Invest R$ 366.000 parcela;06-May;;;
+SICREDI;PSO;;;;Jose Ailton;RAFAEL BATISTA DIAS DOS SANTOS;AGRÍCOLA;;;;PENDENCIA;Esposa com ação judicial R$ 140.000 | 073.361.159-18 (Nayara Alto 1 e restritivos);Enviado 13/08;Aprovado Custeio R$ 200.000 | Invest R$ 200.000 Garantia Alienação;27-Dec;;;
+CAIXA;Palmas;;;;Jovane;RAFAEL GOMES DA SILVA GORDO;AGRÍCOLA;;;; DESISTIU ; CND União não está saindo devido ação judicial de separação ;CAIXA;Aprovado Custeio R$ 3MM;17-Jun;;;
+SICREDI;PSO;;;;Dijelaine;RAFAEL GOMES DA SILVA GORDO;AGRÍCOLA;; R$ 479.868,18 ; Invest. 5 anos  ; OPERAÇÃO CONCLUÍDA ;; Enviado 24/08 ;;MAI;28/05/2025;Hipoteca: Faz. Nª Sra. Aparecida;
+SICREDI;PSO;;;;Dijelaine;RAFAEL GOMES DA SILVA GORDO;AGRÍCOLA;; R$ 88.800,00 ; Invest. BNDES ; OPERAÇÃO CONCLUÍDA ;Maquinário; Enviado 24/08 ;;DEZ;15/12/2026;Hipoteca: Faz. Nª Sra. Aparecida;
+SICREDI;PSO;;;;Dijelaine;RAFAEL GOMES DA SILVA GORDO;AGRÍCOLA;;;;ATUALIZADO ;; Enviado 24/08 ; Limite enviado 24/08 ;16-Sep;;;
+SICREDI;PSO;;Paulo;;Jose Ailton;RAFAELLA MELO PINHERO (Pai Jocelmo Guida);PECUÁRIA ;;;;FAZER LIMITE;;Feito 16/09;Limite enviado 17/10;27-Dec;;;
+SICREDI;PSO;;;;Romulo;RAIMUNDA MARIA DE SOUSA REIS;PECUÁRIA ;;;;FALTA DOC;falta doc imóvel;Feito 22/09;;19-Oct;;;
+SICREDI;Tocantinópolis;;;Wendell;Jordana;RAIMUNDO ALVES FERREIA;AVICULTURA;; R$ 171.857,79 ;FNO Construção;OPERAÇÃO CONCLUÍDA;1º Parcela 10/10/2025;GN;Aprovado Custeio R$ 1MM |CPR R$ 1MM;NOV;10/10/2028;Alienação Guarda chuva - M: 384; VÍDEO ESCRITÓRIO ENVIADO 
+SICREDI;Tocantinópolis;;;Wendell;Jordana;RAIMUNDO ALVES FERREIA;AVICULTURA;; R$ 199.793,78 ;FNO Reforma;OPERAÇÃO CONCLUÍDA;1º Parcela 10/10/2026;GN;Aprovado Custeio R$ 1MM |CPR R$ 1MM;NOV;10/10/2028;Alienação Guarda chuva - M: 384; VÍDEO ESCRITÓRIO ENVIADO 
+SICREDI;Colinas;;;;Carlos;RAIMUNDO COELHO NETO;PECUÁRIA ;; R$ 115.000,00 ; Custeio Pecuário ; OPERAÇÃO CONCLUÍDA ;;;Aprovado custeio R$ 245.000 | R$ 100.000 invest;JUN;18/06/23;;
+SICREDI;Colinas;;;;Carlos;RAIMUNDO COELHO NETO;PECUÁRIA ;;;; PROCESSO PARADO ;Cliente desistiu | PROTEC AGRO 17/08 -- LIMITE ENVIADO 21/09;GN ;Aprovado custeio R$ 245.000 | R$ 125.000 invest;10-Nov;;;
+SICREDI;PSO;;;;Romulo;RAIMUNDO DE JESUS PEREIRA DA GLORIA;PECUÁRIA ;; R$ 120.000,00 ; Custeio Pecuário ;PROCESSO PARADO;PROJETC AGRO 14/06 | Precisa comprovar outra renda devido a area ser menor q 4 mdl fiscais;Enviado 30/11;Aprovado custeio R$ 120.000| Invest R$ 50.000 Garantia Real;24-Jun;;;
+CAIXA;Gurupí;;;;Josué;RAIMUNDO DE SOUSA MILHOMENS NETO (Esposo Naira Nubia);PECUÁRIA ;;;; INATIVO ;VENDEU A FAZENDA;CAIXA;Aprovado Custeio R$ 383.000 | Invest R$ 45.000;19-Apr;;;
+SICREDI;PSO;;;;Romulo;RAIMUNDO DE SOUSA MILHOMENS NETO (Esposo Naira Nubia);PECUÁRIA ;; R$ 100.000,00 ; Custeio Pecuário ; OPERAÇÃO CONCLUÍDA ;VENDEU A FAZENDA;Feito 23/11;Aprovado Custeio R$100.000 Penhor | Invest R$ 70.000 Garantia Real ;JAN;23/01/24;Penhor;
+SICREDI;PSO;;Geslaine;Wendell;Dijelaine;RAIMUNDO NONATO CARNEIRO GUIDA;PECUÁRIA ;; R$ 200.000,00 ;FNO Animais;FAZER PROJETO;ALERTA;Feito 16/01/23;Aprovado Invest R$240.000  ;13-Jul;;;
+SICREDI;PSO;;;;Dijelaine;RAIMUNDO NONATO COELHO FERREIRA;PECUÁRIA ;; R$ 105.000,00 ;FNO Animais;INATIVO;Cliente do Kaique;;;;;;
+SICREDI;PSO;;Geslaine;Wendell;Romulo;RAIMUNDO NONATO DE MOTA BARROS (Pai Fernando);PECUÁRIA ;; R$ 200.000,00 ;FNO Animais; OPERAÇÃO CONCLUÍDA ;1º Parcela 10/08/2026;03-Jul;Limite enviado 04/07;AGO;10/08/2030;Penhor do gado;
+SICREDI;Tocantinópolis;Geslaine;;;Jordana;RANIERY CHAVES QUIEROZ JUNIOR ;PECUÁRIA ;; R$ 415.497,00 ;CPR; OPERAÇÃO CONCLUÍDA ;1º Parcela 14/11/2024;GN;;NOV;14/11/2028;Penhor : 162 animais a R$ 3.868,80; VÍDEO ESCRITÓRIO ENVIADO 
+SICREDI;Tocantinópolis;;;;Jordana;RANIERY CHAVES QUIEROZ JUNIOR ;PECUÁRIA ;;;; FAZER LIMITE  ;;GN;;18-Dec;;;
+CAIXA;PSO;;Paulo;;Thiago;REJANE CRISTINA DA SILVA (Esposa Rodrigo Alves);AGR/PEC;; R$ 2.999.948,00 ;Custeio Agrícola; OPERAÇÃO CONCLUÍDA ;;CAIXA;Aprovado Custeio R$9,5MM | Invest R$ 2,1MM Parcela;MAI;25/05/2024;Hip 4º grau - M:95;
+CAIXA;PSO;Thais;Paulo;Laila;Thiago;REJANE CRISTINA DA SILVA (Esposa Rodrigo Alves);AGR/PEC;; R$ 3.872.925,00 ;Investimento; OPERAÇÃO CONCLUÍDA ;1º Parcela 25/07/2026;CAIXA;Aprovado Custeio R$9,5MM | Invest R$ 2,1MM Parcela;JUL;25/07/2031;Hip. 4º grau - M: 95;
+CAIXA;Palmas;;;;Jovane;RENAH REZENDE VERAS;PECUÁRIA ;;;;INATIVO;ÁREA PEQUENA;CAIXA;;12-Sep;;;
+SICREDI;PSO;;;;Romulo;RENAH REZENDE VERAS;PECUÁRIA ;; R$ 400.000,00 ;Custeio Pecuário; OPERAÇÃO CONCLUÍDA ;;Feito 16/11;Aprovado Custeio R$ 400.000 | Invest R$ 250.000 - Garantia real;JAN;07/01/2025;Alienação Fazenda M:8702;
+SICREDI;PSO;;;;Romulo;RENAH REZENDE VERAS;PECUÁRIA ;; R$ 200.000,00 ;FNO - Matrizes; OPERAÇÃO CONCLUÍDA ;1º Parcela 10/03/2026;Feito 16/11;Aprovado Custeio R$ 400.000 | Invest R$ 250.000 - Garantia real;ABR;10/03/2029;Penhor : 80 animais de 36 meses;
+SICREDI;PSO;;;;Romulo;RENAH REZENDE VERAS;PECUÁRIA ;; R$ 200.000,00 ;FNO Máq; OPERAÇÃO CONCLUÍDA ;1º Parcela 10/03/2025;Feito 16/11;Aprovado Custeio R$ 400.000 | Invest R$ 250.000 - Garantia real;FEV;10/03/2029;Penhor : Maquinário;
+SICREDI;PSO;;Geslaine;Wendell;Romulo;RENAH REZENDE VERAS;PECUÁRIA ;;;;ATUALIZADO ;;Feito 16/11;Limite enviado 04/08;20-Oct;;;
+SICREDI;PSO;;Geslaine;Wendell;Romulo;RENAH REZENDE VERAS;PECUÁRIA ;; R$ 1.000.000,00 ;CPR;CANCELADO;Cliente desistiu;Feito 16/11;Limite enviado 04/08;04-Aug;;;
+CAIXA;Palmas;;Eloisa;;Jovane;RENATO COELHO VERAS (RENAH);PECUÁRIA ;;;;CRÉDITO APROVADO;Cliente sem interesse - taxa;CAIXA;Aprovado Custeio R$2,3MM | Invest parcela R$ 266.000,00;02-Aug;;;
+SICREDI;PSO;;Geslaine;Kaique ;Romulo;RENATO COELHO VERAS (RENAH);PECUÁRIA ;; R$ 200.000,00 ;FNO Solo; OPERAÇÃO CONCLUÍDA ;1º Parcela 10/04/2026;Enviado 07/03 ;Aprovado Custeio R$1MM | Invest R$ 400k;ABR;10/04/2030;Hip. 4º grau - Faz Pequizeiro M: 8927;
+SICREDI;PSO;;Geslaine;Kaique ;Romulo;RENATO COELHO VERAS (RENAH);PECUÁRIA ;; R$ 200.000,00 ;FNO Bebedouro; OPERAÇÃO CONCLUÍDA ;1º Parcela 10/04/2026;Enviado 07/03 ;Aprovado Custeio R$1MM | Invest R$ 400k;MAR;10/03/2030;Hip. 2º grau - Faz Pequizeiro M: 8927;
+SICREDI;PSO;;Geslaine;Kaique ;Romulo;RENATO COELHO VERAS (RENAH);PECUÁRIA ;; R$ 200.000,00 ;FNO Animais ; OPERAÇÃO CONCLUÍDA ;1º Parcela 01/03/2026;Enviado 07/03 ;Aprovado Custeio R$1MM | Invest R$ 400k;MAR;10/03/2030;Hip. 1º grau - Faz Pequizeiro M: 8927;
+SICREDI;PSO;;Geslaine;Wendell;Romulo;RENATO COELHO VERAS (RENAH);PECUÁRIA ;; R$ 1.000.000,00 ;CPR; OPERAÇÃO CONCLUÍDA ;1º Parcela 22/08/2024;Enviado 07/03 ;Aprovado Custeio R$1MM | Invest R$ 400k;AGO;22/08/2028;Hip. 4º grau - Faz Pequizeiro M: 8927;
+CAIXA;Palmas;;;;Karla;RENATO PAULO CREMONESE;AGRÍCOLA;;;Ind Felipe; OPERAÇÃO CONCLUÍDA ;Recebido R$ 1.500,00;CAIXA;Assinatura das 6 fichas de cadastro imóveis;26-May;;;
+CAIXA;Gurupí;;;;Josué;RENATO PINHEIRO ARAUJO RIBEIRO ;PECUÁRIA ;;;Ind. Magno;CRÉDITO APROVADO;Rating AA | Aguardar aprovações BB e SICREDI para ver os valores se são maiores;CAIXA;Aprovado Custeio R$197.000 | Invest R$15.000 ;19-Jun;;;
+SICREDI;PSO;;;;Romulo;RENATO PINHEIRO ARAUJO RIBEIRO ;PECUÁRIA ;;;Ind. Magno;CRÉDITO APROVADO;Cliente com interesse em pegar em 2024;Feito 17/03;Aprovado Custeio R$ 350.000 | Invest R$ 200.000 Alienação;19-Jun;;;
+CAIXA;PSO;;Geslaine;Eloisa;Thiago;RENE MENDONÇA ;AGR/PEC;;;;CRÉDITO APROVADO;Alienou garantia no sicredi;CAIXA;Aprovado Custeio R$ 25MM | Invest R$ 20MM;07-Dec;;;Ind Romulo
+SICREDI;PSO;Julia;Geslaine;Laila;Romulo;RENNAN SORDI SANDIM ;AGRÍCOLA;; R$ 200.000,00 ;FNO Máq;OPERAÇÃO CONCLUÍDA;1º Parcela 10/09/2026;Feito 16/08;;SET;10/09/2030;Penhor Máquina;
+CAIXA;Palmas;Julia;;Pedro;Jovane;RENNAN SORDI SANDIM ;AGRÍCOLA;;;;FAZER LIMITE ;Rating B;07-Dec;;;;Penhor Máquina;
+CAIXA;Palmas;Julia;;Eloisa;Jovane;RICARDO ANDRE SCHMIDT;AGRÍCOLA;;;;FALTA DOC;;CAIXA;;02-Oct;;;
+CAIXA;Gurupí;;;;Josué;RICARDO MACHADO DE SOUSA;PECUÁRIA ;;;Rating A; FALTA DOC ;Falta Ficha + IR + Matricula;CAIXA;;01-Sep;;;
+SICREDI;Colinas;;;;Carlos;RICARDO MACHADO DE SOUSA;PECUÁRIA ;;;; FALTA DOC ;Falta Ficha + IR + Matricula;GN ; Limite enviado mar/21 ;01-Sep;;;
+SICREDI;Colinas;;;;Carlos;RICARDO RAIMUNDO DE SOUZA SILVA;NADA CONSTA;;;; PROCESSO PARADO ;Cliente regularizando;;Não possui propriedade em seu nome, somente Posse (Falta doc pessoais e imóvel);28-Jan;;;
+SICREDI;PSO;;;;Romulo;ROBERTO BRUNO DA SILVEIRA;PECUÁRIA ;;;; ATUALIZAR CADASTRO ;;Feito 24/08;Aprovado custeio R$250.000;24-Aug;;;
+CAIXA;Palmas;Julia;Geslaine;;Jovane;RODOLFO TARDELI (Esposa Marília);Agrícola;;;;PROCESSO PARADO;Sem área para beneficiar;CAIXA;Rating C;30-Jun;;;
+SICREDI;PSO;;;;Romulo;RODRIGO AFONSO ALVES BARROS;PECUÁRIA ;;;; ATUALIZAR CADASTRO ;;; Aprovado Custeio R$ 350.000 | Invest R$ 200.000 ;19-Jun;;;
+BB;Guaraí;;;;Dienes;RODRIGO ALVES VIEIRA ALMEIDA;AGRÍCOLA;; R$ 594.110,40 ;Custeio Agrícola; OPERAÇÃO CONCLUÍDA ;PAGO;BB;;NOV;15/10/2022;Hipoteca: 3º Faz. Assis I;
+BB;Guaraí;;Geslaine;Pedro;Dienes;RODRIGO ALVES VIEIRA ALMEIDA;AGRÍCOLA;; R$ 599.090,90 ;Custeio Agrícola; OPERAÇÃO CONCLUÍDA ;;BB;;19-Oct;;;
+BB;Guaraí;;;;Dienes;RODRIGO ALVES VIEIRA ALMEIDA;AGRÍCOLA;; R$ 1.200.000,00 ;Custeio Agrícola; OPERAÇÃO CONCLUÍDA ;1º Parcela 28/09/2023;BB;Produção atualizada 16/06;DEZ;28/12/2023;Aval : Felipe Eduardo;
+BB;Guaraí;;Geslaine;Pedro;Dienes;RODRIGO ALVES VIEIRA ALMEIDA;AGRÍCOLA;; R$ 334.972,04 ;Custeio Agrícola; OPERAÇÃO CONCLUÍDA ;4 parcelas ;BB;;OUT;15/10/2024;Penhor;
+CAIXA;PSO;;;;Thiago;RODRIGO ALVES VIEIRA ALMEIDA;AGRÍCOLA;;;;INATIVO;Rating D;CAIXA;;28-Dec;;;
+SICREDI;PSO;;Wendell;;Romulo;RODRIGO ALVES VIEIRA ALMEIDA;AGRÍCOLA;;;;ATUALIZADO ;;Enviado 16/12 ;Limite enviado 13/06;03-Jul;;;
+BB;Guaraí;;Geslaine;Pedro;Dienes;RODRIGO ALVES VIEIRA ALMEIDA;AGRÍCOLA;; R$ 320.276,54 ;Custeio Agrícola; OPERAÇÃO CONCLUÍDA ;;BB;;OUT;15/10/2024;Penhor;
+CAIXA;Palmas;;;;Jovane;RODRIGO JOSE SCHMIDT  (Irmão Ricardo Jose Schmidt);AGRÍCOLA;;;;FALTA DOC;;CAIXA;;23-Nov;;;
+CAIXA;Palmas;;;;Jovane;ROELOF HARM RABBERS (Frísia);AGR/PEC;; R$ 2.210.000,00 ;Invest. Máq; OPERAÇÃO CONCLUÍDA ;1º Parcela 25/06/2024;CAIXA;Aprovado Custeio R$ 9,9MM | Invest R$ 14,4MM;JUN;25/06/2029;Penhor Máquina;
+CAIXA;Palmas;;;;Jovane;ROELOF HARM RABBERS (Frísia);AGR/PEC;; R$ 595.000,00 ;Invest. Máq; OPERAÇÃO CONCLUÍDA ;1º Parcela 17/06/2024;CAIXA;Aprovado Custeio R$ 9,9MM | Invest R$ 14,4MM;JUN;17/06/2030;Penhor Máquina;
+CAIXA;Palmas;Julia;Paulo;Eloisa;Jovane;ROELOF HARM RABBERS (Frísia);AGR/PEC;; R$ 2.009.438,00 ; Custeio Agrícola ; DESISTIU ; OPERAÇÃO CONCLUÍDA / registro garantia ;CAIXA;Aprovado Custeio R$ 28MM | Invest R$ 15MM;13-Oct;25/04/2024;Hip 1º grau -M:10598;
+CAIXA;Palmas;Julia;Paulo;;Jovane;ROELOF HARM RABBERS (Frísia);AGR/PEC;; R$ 177.225,00 ;Invest. Máq; OPERAÇÃO CONCLUÍDA ;1º Parcela 25/07/2024;CAIXA;Aprovado Custeio R$ 28MM | Invest R$ 15MM;MAI;25/05/2030;Penhor Máquina;
+CAIXA;Palmas;Julia;Paulo;Eloisa;Jovane;ROELOF HARM RABBERS (Frísia);AGR/PEC;; R$ 8.037.865,00 ; Investiemento ; OPERAÇÃO CONCLUÍDA ;1º Parcela 11/08/2025;CAIXA;Aprovado Custeio R$ 28MM | Invest R$ 15MM;AGO;11/08/2033;Hip 2º grau - Faz Patriota - M: 5050;
+SICREDI;PSO;;;;Dijelaine;ROELOF HARM RABBERS (Frísia);AGR/PEC;; R$ 443.700,00 ; Invest. 5 anos  ; OPERAÇÃO CONCLUÍDA ;Maquinário;Feito 09/03;;JUL;22/07/2025;Hipoteca: Faz. Patriota;
+SICREDI;PSO;;;;Dijelaine;ROELOF HARM RABBERS (Frísia);AGR/PEC;; R$ 119.000,00 ; Invest. BNDES ; OPERAÇÃO CONCLUÍDA ;Maquinário;Feito 09/03;;JUL;15/07/2027;Hipoteca: Faz. Patriota;
+SICREDI;PSO;;;;Dijelaine;ROELOF HARM RABBERS (Frísia);AGR/PEC;; R$ 357.600,00 ; Invest. BNDES ; OPERAÇÃO CONCLUÍDA ;Maquinário;Feito 09/03;;JAN;15/01/2024;Hipoteca: Faz. Castelo Unificação dos ...;
+SICREDI;PSO;;;;Dijelaine;ROELOF HARM RABBERS (Frísia);AGR/PEC;; R$ 997.500,00 ; Custeio Agrícola ; OPERAÇÃO CONCLUÍDA ;;Feito 09/03;;AGO;17/08/2022;Hipoteca: Faz. Patriota;
+SICREDI;PSO;;;;Dijelaine;ROELOF HARM RABBERS (Frísia);AGR/PEC;; R$ 386.115,36 ; CPR ; OPERAÇÃO CONCLUÍDA ;;Feito 09/03;;MAI;20/05/2022;Hipoteca: Faz. Patriota;
+SICREDI;PSO;;;;Dijelaine;ROELOF HARM RABBERS (Frísia);AGR/PEC;; R$ 612.846,00 ; CPR ; OPERAÇÃO CONCLUÍDA ;;Feito 09/03;;MAI;30/05/2022;Hipoteca: Faz. Castelo Unificação dos ...;
+SICREDI;PSO;;;;Dijelaine;ROELOF HARM RABBERS (Frísia);AGR/PEC;; R$ 1.994.999,73 ; Custeio Agrícola ; OPERAÇÃO CONCLUÍDA ;;Feito 09/03;Aprovado FNO R$ 500.000 | Custeio R$ 5MM;JUL;01/07/2022;Hipoteca: Faz. Patriota;
+SICREDI;PSO;;;;Dijelaine;ROELOF HARM RABBERS (Frísia);AGR/PEC;; R$ 1.000.000,00 ;Rotativo; OPERAÇÃO CONCLUÍDA ;Não fizemos projeto, só buscamos a cédula;Feito 09/03;;JUN;05/06/2023;Hip: Faz Patriota M:5051;
+SICREDI;PSO;;;;Romulo;ROGER BARROS PRADO;AGR/PEC;;;; ATUALIZAR CADASTRO ;Sem garantia disponível;; Aprovado R$ 400.000 custeio | R$ 200.000 invest Garantia Real ;19-Jun;;;
+CAIXA;PSO;;;;Thiago;ROGERIO ALVES VIEIRA ALMEIDA (Tio do Felipe);AGRÍCOLA;;;;INATIVO;Rating F;CAIXA;;28-Dec;;;
+SICREDI;PSO;;;;Romulo;ROGERIO ALVES VIEIRA ALMEIDA (Tio do Felipe);AGRÍCOLA;; R$ 403.750,00 ; Invest. 5 anos ; OPERAÇÃO CONCLUÍDA ;1º parcela 27/07/2023;Enviado 11/08; Aprovado R$1.200.000 custeio | invest R$1.000.000 |Garantia Real ;JUL;27/07/27;Penhor da máquina;
+SICREDI;PSO;Julia;;;Dijelaine;ROGERIO COELHO DE SOUZA;PECUÁRIA ;;;;FALTA DOC;Rating E;;;19-Sep;;;
+SICREDI;PSO;;;;Dijelaine;ROGERIO COELHO DE SOUZA;PECUÁRIA ;; R$ 80.000,00 ; Invest. 5 anos ; OPERAÇÃO CONCLUÍDA ;última parcela R$ 18.000,00;;Projetista PRÓ SOLO ;NOV;25/11/2022;Hip. Chácara Palmares;
+CAIXA;Gurupí;;;;Josué;ROGERIO GALVÃO;PECUÁRIA ;;;ProjeteAgro; INATIVO ;;CAIXA;Aprovado Custeio R$403.000 | Invest 113.600;18-Feb;;;
+SICREDI;PSO;Thais;Geslaine;Eloisa;Romulo;ROMMEL ALEXANDRE RODRIGUES;PECUÁRIA ;; R$ 200.000,00 ; FNO animais ; OPERAÇÃO CONCLUÍDA ;PROTEC AGRO 20/06;Feito 20/06;;20-Jun;;;
+SICREDI;PSO;Thais;Geslaine;;Romulo;ROMMEL ALEXANDRE RODRIGUES;PECUÁRIA ;;;;ATUALIZADO ;;Feito 20/06;Limite enviado 20/06;20-Oct;;;
+SICREDI;PSO;;;;Romulo;RONAN GOMES BARBOSA;PECUÁRIA ;;;;CRÉDITO APROVADO;Aprovado Custeio R$ 400.000 | Invest R$ 300.000 Garantia Hip.;Feito 27/09;Limite enviado 19/04;19-Apr;;;
+SICREDI;MT;;Paulo ;;Wtacherdis;RONAN GOMES BARBOSA;PECUÁRIA ;;;;ATUALIZADO ;Limite envaido 20/04;;Aprovado Custeio R$ 400.000 | Invest R$ 300.000 Garantia Hip.;03-May;;;
+SICREDI;PSO;;;;Romulo;RONEY JOSÉ PIRES;PECUÁRIA ;;;; CRÉDITO APROVADO ;verificando garantia ;; Aprovado R$200.000 | Inves R$ 326.000 (alienação de imóvel)  ;26-Jan;;;
+SICREDI;PSO;;;;Romulo;RONILZA DIAS DOS REIS;PECUÁRIA ;;;; INATIVO ;CLIENTE DO HENRIQUE;Enviado 11/08;Limite enviado 26/06;16-Nov;;;
+SICREDI;PSO;;;;Romulo;RONILZA DIAS DOS REIS;PECUÁRIA ;; R$ 123.000,00 ; Custeio Pecuário ; OPERAÇÃO CONCLUÍDA ;;;;OUT;10/10/2022;Hipoteca: Chacara Sitio Novo Rumo;
+SICREDI;PSO;;;;Romulo;RONILZA DIAS DOS REIS;PECUÁRIA ;; R$ 70.000,00 ; Custeio Pecuário ; OPERAÇÃO CONCLUÍDA ;;;;MAR;30/03/2023;Hipoteca: Chacara Sitio Novo Rumo;
+CAIXA;PSO;;Paulo;;Thiago;RONIVON MORAIS DOS REIS ;PECUÁRIA ;;;;FALTA DOC;RATING C | Falta dos proprietário do imóvel;Enviado 11/08;;19-Apr;;;
+SICREDI;PSO;;;;Romulo;RONIVON MORAIS DOS REIS ;PECUÁRIA ;; R$ 130.000,00 ; Custeio Pecuário ; OPERAÇÃO CONCLUÍDA ;;Enviado 11/08;;22-Jun;;Alienação guarda-chuva lote urbano ; Minuta (Alienação) 
+SICREDI;PSO;;;;Romulo;RONIVON MORAIS DOS REIS ;PECUÁRIA ;; R$ 81.999,97 ;CPR; OPERAÇÃO CONCLUÍDA ;;Enviado 11/08;Aprovado Custeio R$ 150.000 | Invest R$ 120.000 - Garantia Alienação;ABR;20/04/2025;Alienação guarda-chuva lote urbano ; Minuta (Alienação) 
+SICREDI;PSO;;;;Romulo;RONIVON MORAIS DOS REIS ;PECUÁRIA ;;;;ATUALIZADO ;;Enviado 11/08;;18-Oct;;;
+SICREDI;PSO;;;;Dijelaine;RONNIE VON RODRIGUES GOMES;PECUÁRIA ;;;Ind. Renilson;INATIVO;;;DOC ABERTURA CC 14/11;26-Dec;;;
+SICREDI;PSO;;;;Romulo;ROSANE GROHE (Esposo Paulo Sehn);AGRÍCOLA;;;; FALTA DOC ; Área dentro da APA | Falta relação safra + END ;; Aprovado custeio R$ 500.000 penhor | Invest R$ 800.000 ;01-Sep;;;
+SICREDI;PSO;;Paulo;;Dijelaine;SAHARA SOUSA LEANDRO DA SILVA MAROCHIO;AGRÍCOLA;;;;ATUALIZADO ;;Feito 18/03;Limite enviado 01/11;27-Dec;;;
+SICREDI;Tocantinópolis;;;;Jordana;SALOMÃO FERREIRA DE SOUSA;PECUÁRIA ;;;;FALTA DOC;;GN;;14-Feb;;; VÍDEO ESCRITÓRIO ENVIADO 
+CAIXA;Palmas;Julia;Geslaine;Pedro;Jovane;SALVADOR ROSA SANDIM;AGRÍCOLA;; R$ 2.081.603,15 ;Investimento;OPERAÇÃO CONCLUÍDA;1º Parcela 19/09/2025;CAIXA;Aprovado Custeio R$ 26MM | Invest R$ 6,3MM Parcela;AGO;25/08/2033;Hip. 1º grau - Faz Sandim - M: 2460;
+CAIXA;Palmas;Julia;Geslaine;Pedro;Jovane;SALVADOR ROSA SANDIM;AGRÍCOLA;;;;FAZER PROJETO;RENOVAGRO;CAIXA;Aprovado Custeio R$ 26MM | Invest R$ 6,3MM Parcela;07-Dec;;;
+CAIXA;Palmas;;;;Jovane ;SAMUEL LEITE;AGRÍCOLA;;;Ind. Jovane;CONSULTAR RATING;Rating F;CAIXA;Limite enviado 21/06 | Reenviado 24/08;28-Dec;;;
+SICREDI;PSO;;Paulo ;;Jose Ailton;SAMUEL LEITE;AGRÍCOLA;;;Ind. Jovane;ATUALIZADO ;Sem garantia real;;Limite enviado 23/05;27-Dec;;;
+SICREDI;PSO;Geslaine;Paulo;;Jose Ailton;SAMUEL RODRIGUES CORRÊA LEITE;AGR/PEC;; Rating E - CX ;Ind. Bruno Dener;ATUALIZADO ;Está com restrição;;Limite enviado 23/05;20-Oct;;;
+SICREDI;PSO;;;;Romulo;SANDOVAL BENÍCIO DA SILVA;PECUÁRIA ;; R$ 170.000,00 ; Invest. 5 anos ; OPERAÇÃO CONCLUÍDA ;Rating B CAIXA | 1º parcela 14/04/2023;Enviado 24/02;Aprovado Invest R$ 170.000;ABR;14/04/2027;Hipoteca 2º grau: Fazenda Buruti Alegre M-835;
+SICREDI;PSO;;;;Romulo;SANDOVAL BENÍCIO DA SILVA;PECUÁRIA ;; R$ 199.917,00 ; CPR ; OPERAÇÃO CONCLUÍDA ;PAGO;;;AGO;18/08/2022;Alienação: Imóvel Urbano;
+SICREDI;PSO;;;;Romulo;SANDOVAL BENÍCIO DA SILVA;PECUÁRIA ;; R$ 250.000,00 ; Custeio Pecuário ; OPERAÇÃO CONCLUÍDA ;PAGO;;;ABR;18/04/2023;Hipoteca: Fazenda Buruti Alegre M-835;
+CAIXA;Palmas;;;;Jovane;SANDRA FERREIRA DE MORAIS CORREIA (Tia Felipe);;;;Ind Felipe;FALTA DOC;Somente doc pessoais;CAIXA;Rating A;12-Sep;;;
+BB;PSO;;;;Fred;SARAH GABRIELLY MARQUES STIVAL;PECUÁRIA ;; R$ 118.867,84 ; Custeio Pecuário ; OPERAÇÃO CONCLUÍDA ;;BB; OPERAÇÃO CONCLUÍDA ;;;;
+SICREDI;PSO;;;;Romulo;SARAH GABRIELLY MARQUES STIVAL;PECUÁRIA ;; R$ 300.000,00 ;Custeio Pecuário; OPERAÇÃO CONCLUÍDA ;RENEGOCIAÇÃO;Enviado 03/08;Aprovado Custeio R$ 300.000 penhor | Invest R$ 200.000;SET;07/09/2023;Penhor;
+SICREDI;PSO;;;;Dijelaine;SEBASTIÃO ABREU SILVA;PECUÁRIA ;;;; FALTA DOC ;Falta doc imóvel;Feito 03/10;;20-Oct;;;
+SICREDI;PSO;;;;Romulo;SERGIO CABRAL MONTEL;PECUÁRIA ;;;;INATIVO;PEGOU NO BASA;Enviado 16/12; Aprovado Custeio R$ 180.000 | Invest R$ 100.000 garantia real ;23-Mar;;;
+SICREDI;PSO;Julia;;;Romulo;SERGIO CARLOS FRANCINO DA SILVA;PECUÁRIA ;;;;FALTA DOC;;Feito 02/03;;02-Mar;;;
+SICREDI;Roda Velha;;;;Daniel ;SHIGUERU HOSHINO;AGR/PEC;;;; PENDENCIA ;Pendência união e ibama | esposa na união;; Limite enviado fev/21 ;27-Sep;;;
+CAIXA;Gurupí;;;;Josué;SILAS CORSINO SOUTO;AGRÍCOLA;;;;INATIVO;RESTRITIVO INTERNO NA CAIXA;CAIXA;;10-Feb;;;
+SICREDI;Colinas;;;;Carlos;SILAS CORSINO SOUTO;AGRÍCOLA;;;;ANALISE NEGATIVA;Sem garantia real disponível ;Enviado 10/01;CAR - Faz. São Bento | ITR - Faz. Ribeirozinho | CCIR- Faz. Malhada II | Procuração ;11-Feb;;;
+BASA;PSO;;;;Denise;SILFARNEY PIRETE FONSECA;PECUÁRIA ;; R$ 68.498,10 ; Investimentos ; OPERAÇÃO CONCLUÍDA ;Sem garantia disponível (10/01);BASA;;NOV;10/11/2026;Hipoteca: Faz Serra Dourada;
+CAIXA;Palmas;Julia;;;Jovane;SILTON MARQUES DE OLIVEIRA;PECUÁRIA ;; R$ 1.628.690,00 ;Custeio Pecuário; OPERAÇÃO CONCLUÍDA ;Rating B |Investimento tem q ter outra garantia;CAIXA;Aprovado Custeio R$ 4,7MM | Invest R$ 431.907 Parcela;ABR;23/03/2025;Hip 2º grau Faz Bela Vista M: 7491;
+CAIXA;Palmas;Julia;Geslaine;;Jovane;SILTON MARQUES DE OLIVEIRA;PECUÁRIA ;; R$ 1.440.000,00 ;Investimento; OPERAÇÃO CONCLUÍDA ;;CAIXA;Aprovado Custeio R$ 27,5MM | Invest R$ 3MM Parcela;15-Jun;;Hip 3º grau Faz Bela Vista M: 7491;
+CAIXA;Palmas;Julia;Geslaine;;Jovane;SILTON MARQUES DE OLIVEIRA;PECUÁRIA ;; R$ 1.196.400,00 ;Investimento; OPERAÇÃO CONCLUÍDA ;1ºParcela 22/06/2025;CAIXA;Aprovado Custeio R$ 27,5MM | Invest R$ 3MM Parcela;JUN;22/06/2033;Hip 4º grau Faz Bela Vista M: 7491;
+CAIXA;Palmas;Julia;Geslaine;Laila;Jovane;SILTON MARQUES DE OLIVEIRA;PECUÁRIA ;; R$ 1.481.000,00 ;Investimento; OPERAÇÃO CONCLUÍDA ;1ºParcela 25/07/2024;CAIXA;Aprovado Custeio R$ 27,5MM | Invest R$ 3MM Parcela;JUL;25/07/2029;Hip 5º grau Faz Bela Vista M: 7491;
+SICREDI;PSO;Julia;;;Romulo;SILTON MARQUES DE OLIVEIRA;PECUÁRIA ;; R$ 500.000,00 ; Custeio Pecuário ; OPERAÇÃO CONCLUÍDA ;;Feito 10/10;Aprovado custeio R$ 500.000 | Invest R$ 400.000;NOV;12/11/2022;Hipoteca: M-7.491;
+SICREDI;PSO;Julia;;;Romulo;SILTON MARQUES DE OLIVEIRA;PECUÁRIA ;; R$ 500.000,00 ; Custeio Pecuário ; OPERAÇÃO CONCLUÍDA ;PAGO;Feito 10/10;Aprovado custeio R$ 500.000 | Invest R$ 400.000;JUN;12/06/2023;Penhor;
+SICREDI;PSO;Julia;;;Romulo;SILTON MARQUES DE OLIVEIRA;PECUÁRIA ;; R$ 1.000.000,00 ; Custeio Pecuário ; OPERAÇÃO CONCLUÍDA ;;Feito 10/10;;MAI;24/05/2024;Hip 1º grau Faz Bela Vista M: 7491;
+SICREDI;PSO;;;;Romulo;SIMONE MEIRE DA SILVA (Filho Marcos Vinicíos);PECUÁRIA ;;;Ind. Diones;FALTA DOC ;;Enviado 14/03;Aprovado Custeio R$ 150.000 |Invest R$ 80.000 Garantia Hip ou Maq;19-Jun;;;
+SICREDI;PSO;;Wendell;;Jose Ailton;SIRLENE TOLEDO CARDOSO (Esposa Marcelo);PECUÁRIA ;;;Rating C;ATUALIZADO ;Aprovado Custeio R$ 240.000 | invest R$ 200.000;Feito 08/12;Limite enviado 05/07;20-Oct;;;
+BB;PSO;;;;SEM GN;SOLANGE FONSECA DE FATIMA DIAS FLOR (DR. ALAILSON);NADA CONSTA;;;; OPERAÇÃO CONCLUÍDA ;;BB;;;;;
+SICREDI;PSO;Thais;Paulo;;Romulo;SONALIA MARIA DA SILVA AZEVEDO;PECUÁRIA ;; R$ 1.000.000,00 ; Custeio Pecuário ;OPERAÇÃO CONCLUÍDA;;Feito 15/03;Aprovado custeio R$500.000 | Invest R$ 300.000 Garantia Hip.;JUN;24/06/2025;Alienação guarda chuva - M:864;
+SICREDI;PSO;Julia;Geslaine;;Jose Ailton;STENIO JOSE MOREIRA (Jair Vital);PECUÁRIA ;;;;CONSULTAR CPF;;;Limite enviado 02/10;27-Dec;;;
+CAIXA;PSO;Julia;Paulo;Pedro;Thiago;SUEILA ALVES DOURADO (Esposa Willian);PECUÁRIA ;;;Rating C;FALTA DOC;FALTA GARANTIA (TIO DO FELIPE);CAIXA;Aprovado Custeio R$ 7,9MM | Invest R$ 2,2MM Parcela;18-Aug;;;
+SICREDI;PSO;;;;Romulo;TAINÁ HAYASAKI MARQUES (Irmã do Cloves neto);PECUÁRIA ;;;;INATIVO;DOC IMOVEL E PESSOAIS | Enviar doc abertura de conta;;;09-Feb;;;
+SICREDI;PSO;;;;Dijelaine;TAISON MEZZALIRA;AGRÍCOLA;; R$ 145.000,00 ; Invest. 5 anos ; OPERAÇÃO CONCLUÍDA ;1º parcela 14/04/2023;Enviado 11/08; Aprovado Invest R$ 572.000 até R$ 500.000 só penhor da máquina ;ABR;14/04/27;Penhor da máquina;
+SICREDI;PSO;;;;Dijelaine;TAISON MEZZALIRA;AGRÍCOLA;;;;ATUALIZADO ;Sem garantia real;Enviado 11/08;Limite enviado 19/10;01-Nov;;;
+SICREDI;PSO;Geslaine;Eloisa;;Romulo;TANIA VERREL RUIZ  (Esposo Benedito Ruiz);PECUÁRIA ;; R$ 300.000,00 ;Custeio Pecuário;OPERAÇÃO CONCLUÍDA;;Feito 27/02;Aprovado Custeio R$ 300.000 | Invest R$200.000- Garant Minuta Alienação;JUN;05/06/2025;Alienação guarda chuva, M: 44; Minuta (Alienação) 
+SICREDI;PSO;Geslaine;Eloisa;;Romulo;TANIA VERREL RUIZ  (Esposo Benedito Ruiz);PECUÁRIA ;; R$ 200.000,00 ;FNO;OPERAÇÃO CONCLUÍDA;1º Parcela 10/07/2025;Feito 27/02;Aprovado Custeio R$ 300.000 | Invest R$200.000- Garant Minuta Alienação;JUL;10/07/2025;Penhor do gado 1º grau;
+CAIXA;Palmas;Julia;Paulo;Eloisa;Jovane;TATIANA SOUSA MOREIRA (Ind Fabio Fonseca);AGRÍCOLA;; R$ 2.986.500,00 ;Investimento;OPERAÇÃO CONCLUÍDA;1º Parcela 17/05/2025;CAIXA;Aprovado Custeio Milho R$5,2MM | Custeio Pec R$ 4,8MM | Invest Parcela 1,7MM;AGO;17/08/2033;1º grau Hip: Faz. Santa Fé da Bahia, M 814;
+CAIXA;Palmas;Julia;Paulo;Eloisa;Jovane;TATIANA SOUSA MOREIRA (Ind Fabio Fonseca);AGRÍCOLA;; R$ 2.608.016,75 ;Custeio Pecuário;OPERAÇÃO CONCLUÍDA;;CAIXA;Aprovado Custeio Milho R$5,2MM | Custeio Pec R$ 4,8MM | Invest Parcela 1,7MM;AGO;24/06/2024;2º grau Hip: Faz. Santa Fé da Bahia, M 814;
+CAIXA;Palmas;Julia;Paulo;Eloisa;Jovane;TATIANA SOUSA MOREIRA (Ind Fabio Fonseca);AGRÍCOLA;; R$ 6.490.000,00 ;Investimento;CANCELADO;CX CANCELOU POR FALTA DE COMPROVAÇÃO;CAIXA;Aprovado Custeio Milho R$5,2MM | Custeio Pec R$ 4,8MM | Invest Parcela 1,7MM;26-Sep;;;
+CAIXA;PSO;Hyuri;;Pedro;Thiago;TAYZE MOZEL (Fagner);AGRÍCOLA;Miranorte e 750ha;;;FAZER LIMITE;;CAIXA;;22-Nov;;;
+SICREDI;Tocantinópolis;Geslaine;;Eloisa;Jordana;TERESA LUCIA BANDEIRA DOS REIS PEREIRA (Esposo Lusivanio);PECUÁRIA ;; R$ 100.000,00 ;CPR;INATIVO;VENDEU A FAZENDA;GN;;28-Sep;;;
+SICREDI;PSO;;;;Dijelaine;TEREZINHA PEREIRA GUIDA (Mãe Elismar);PECUÁRIA ;;;;FALTA DOC;;;;24-Jan;;;
+SICREDI;PSO;;;Eloisa;Romulo;THALLES AUGUSTO FELEX SANTANA (Filho do Marcio Espedito);PECUÁRIA ;; R$ 200.000,00 ;FNO animais; OPERAÇÃO CONCLUÍDA ;1º Parcela 10/04/2025;Enviado 10/11;Limite enviado 10/11;ABR;10/04/2029;Penhor: 108 animais de 07 a 12 meses;
+CAIXA;PSO;;;;Thiago;THIAGO ALEGRETTI ANTONOW;;;;;FALTA DOC;Rating E;;;07-Nov;;;
+CAIXA;PSO;Hyuri;;;Thiago;THIEGO MEZZALIRA;AGRÍCOLA;;;;FALTA DOC;;CAIXA;;20-Nov;;;
+CAIXA;Palmas;Geslaine;;;Jovane;TIAGO FERREIRA DE SOUZA (Ind Fabio);AGRÍCOLA;;;;INATIVO;Falta doc;CAIXA;;17-May;;;
+CAIXA;PSO;;;Kaique;Thiago;UIRES DE SOUZA ALVES (Ind Magno);PECUÁRIA ;; R$ 304.650,00 ;Custeio Pecuário;OPERAÇÃO CONCLUÍDA;;CAIXA;Aprovado Custeio R$582.000 | Invest R$26.700 Parcela;MAI;25/05/2025;Hip 1º grau - Fazenda Santa Luiza, M: 4426;
+CAIXA;PSO;;;Kaique;Thiago;UIRES DE SOUZA ALVES (Ind Magno);PECUÁRIA ;; R$ 160.000,00 ;Investimento;OPERAÇÃO CONCLUÍDA;1º Parcela 25/06/2024;CAIXA;Aprovado Custeio R$582.000 | Invest R$26.700 Parcela;JUN;25/06/2029;Hip 2º grau - Fazenda Santa Luiza, M: 4426;
+SICREDI;PSO ;;;;Dijelaine;UIRES DE SOUZA ALVES (Ind Magno);PECUÁRIA ;;;FNO;CRÉDITO APROVADO;PROTEC AGRO 26/01 | PROBLEMA NA GARANTIA;;Aprovado Custeio R$500.000 | Invest R$800.000 Garantia hip ;04-May;;;
+SICREDI;PSO;;;;Romulo;VALDETE PINHERO COSTA ;PECUÁRIA ;;;;FALTA DOC;FALTA FICHA DO GADO;;;22-Sep;;;
+SICREDI;PSO;;;;Dijelaine;VALDIQUE DE JESUS DA SILVA;PECUÁRIA ;;;;INATIVO; Cliente qr fazer cadastro em cima do gado e não da área ;02-Sep;Aprovado custeio R$ 100.000 | R$ 40.000 invest;17-Mar;;;
+CAIXA;Palmas;Julia;Geslaine;;Jovane;VALDIR TOMAZINI (Ind Fabio);;;;; CRÉDITO APROVADO ;;CAIXA; Aprovado Custeio R$ 11,8 MM | Invest R$ 3,1 MM Parcela ;13-Jun;;;
+SICREDI;JK;;;;Luciana;VALMIR LORASCHI AIRES DA SILVA;NADA CONSTA;;;; INATIVO ;FEZ COM OUTRO PROJETISTA;; DOC COMPLETA  ;28-Jan;;;
+BB;Tocantinópolis;;Geslaine;;Claúdio;VALTEMIR PEREIRA SANTOS ;PECUÁRIA ;;;;ATUALIZADO ;;BB;;31-Jul;;;
+SICREDI;Tocantinópolis;;;Kaique;Jordana;VALTEMIR PEREIRA SANTOS ;PECUÁRIA ;; R$ 230.000,00 ;Custeio Pecuário; OPERAÇÃO CONCLUÍDA ;;Enviado 16/09;;OUT;08/10/2024;Penhor 90 animais - 36 meses; VÍDEO ESCRITÓRIO ENVIADO 
+SICREDI;Tocantinópolis;;;Kaique;Jordana;VALTEMIR PEREIRA SANTOS ;PECUÁRIA ;; R$ 304.082,90 ;CPR; OPERAÇÃO CONCLUÍDA ;1º Parcela 24/11/2024;Enviado 16/09;Aprovado CPR R$ 396.000| Invest R$ 350.000;NOV;24/11/2027;Penhor 118 animais - 36 meses ;
+SICREDI;Tocantinópolis;;;Kaique;Jordana;VALTEMIR PEREIRA SANTOS ;PECUÁRIA ;; R$ 649.631,65 ;CPR; OPERAÇÃO CONCLUÍDA ;1º Parcela 16/01/2025;Enviado 16/09;Aprovado CPR R$ 396.000| Invest R$ 350.000 | 1MM;JAN;16/01/2027;Alienação - Faz Cabaceira Verde - M:713;
+SICREDI;Tocantinópolis;;;Eloisa;Jordana;VALTEMIR PEREIRA SANTOS ;PECUÁRIA ;; R$ 200.000,00 ;FNO Máq;PROCESSO NO BANCO;PROTEC AGRO 11/05;Enviado 16/09;Aprovado CPR R$ 396.000| Invest R$ 350.000 | 1MM;11-May;;;
+SICREDI;Tocantinópolis;Geslaine;Paulo ;Eloisa;Jordana;VALTEMIR PEREIRA SANTOS ;PECUÁRIA ;;;;COBRAR GN;Limite enviado 24/05 | DOSSIÊ ENVIADO 10/05;Enviado 16/09;Aprovado CPR R$ 396.000| Invest R$ 350.000 | 1MM;24-May;;;
+SICREDI;PSO ;;;;Dijelaine;VANDER ARAUJO FEITOSA JUNIOR;PECUÁRIA ;Divinópolos | 758ha;;;INATIVO;Encerrou conta no sicredi;GN;Limite enviado 13/02;27-Dec;;;
+CAIXA;Gurupí;Thais;Geslaine;Pedro;Josué;VANDERLEI FRANSCISCO BISCASSI (Secret. Ana Paula);PECUÁRIA ;; R$ 1.803.129,96 ;Invest. RenovAgro;OPERAÇÃO CONCLUÍDA;1º Parcela 25/10/2028;CAIXA;Aprovado Custeio R$ 4MM | Invest R$ 2,8MM;OUT;25/10/2033;Hip 4º grau - Fazenda Itatiaia - M: 1955; Acordado 1,5% todas as operações 
+SICREDI;PSO;Geslaine;Paulo;;Romulo;VANDERLEI FRANSCISCO BISCASSI (Secret. Ana Paula);PECUÁRIA ;;;;ATUALIZADO ;FNO-Cerca, matriz, solo - Bene: Itatiaia e gar: Morro branco;Feito 03/02;Limite enviado 04/07;20-Oct;;;Aprovado Custeio R$ 600.000 | Invest R$ 300.000 Garatnia Alienação Guarda-chuva
+SICREDI;Colinas;;;;Carlos;VANDERLEI NOGUEIRA DE FREITAS;PECUÁRIA ;;;; PROCESSO PARADO ;Sem garantia, GN não atende só no penhor;; Limte enviado fev/21 ;09-Jul;;;
+SICREDI;PSO;;Geslaine;;Romulo;VANESSA DA SILVA AZEVEDO (Esposa Leandro Vinicius);PECUÁRIA ;;;;CONSULTAR CPF;;;Limite enviado 18/07;27-Dec;;;
+SICREDI;PSO;;;;Romulo;VANGIVALDO NERIS DE BARROS (Esposa Carmélia);PECUÁRIA ;;;;EMBARGO; EMBARGO ;; Limite enviado 03/05 ;23-May;;;
+SICREDI;PSO;;;;Romulo;VANILDO LOBO DA SILVA (Pai José Danilo);PECUÁRIA ;; R$ 80.000,00 ;Custeio Pecuário; OPERAÇÃO CONCLUÍDA ;PROTEC AGRO 13/07;Feito 26/04;Aprovado Custeio R$ 80.000 | Garantia Hip guarda chuva;22-Aug;;;
+SICREDI;PSO;Julia;Geslaine;;Romulo;VANILDO LOBO DA SILVA (Pai José Danilo);PECUÁRIA ;;;;CRÉDITO APROVADO;;Feito 26/04;Aprovado Invest R$ 130.000 | Garantia real;19-Oct;;;
+SICREDI;PSO;;;;Romulo;VICENTE BRITO DA SILVA;PECUÁRIA ;;;;ATUALIZADO ;;Feito 19/01; Limite enviado 29/08 ;17-Oct;;;
+SICREDI;PSO;;;;Romulo;VICENTE DIAS CARNEIRO (Filha Janaina);PECUÁRIA ;;;Ind. Romulo;FALTA DOC;Falta licença e ficha do gado;;Aprovado Custeio R$ 425.000 | Invest R$ 150.000 Garantia Hip.;10-Mar;;;
+SICREDI;PSO;;;;Dijelaine;VICTOR VIEIRA RIBEIRO;PECUÁRIA ;;; Interesse em maq | Achou muito caro avaliação da terra | DOC  ; INATIVO ; Falta Faz Boa Vereda - CCIR + CAR + MAT + END + IR  | Irá mexer somente próximo mês (MARÇO) ;; Aprovado R$120.000 custeio | R$80.000 Invest Com hipoteca ;08-Jun;;;
+SICREDI;Roda Velha;;;;Daniel ;VINICIO RAFAEL RUARO (Pai Renilso);AGRÍCOLA;;;;CRÉDITO APROVADO;;GN ;Aprovado CPR R$ 500.000 | Invest. R$ 400.000;18-Nov;;;
+CAIXA;PSO;Thais;;;Thiago;VINICIOS STEIN (Grupo Fabiano);AGRÍCOLA;;;Rating C;INATIVO;;;;09-Jun;;;
+SICREDI;PSO;;;;Dijelaine;VINICIUS GOMES DE SOUSA BARROS (Taynara);PECUÁRIA ;;;Cx dívida vencida;CONSULTAR CPF;CHEQUES DEVOLVIDOS ;Enviado 10/08;Limite enviado 14/10;26-Dec;;;
+CAIXA;PSO;;;;Thiago;VINICIUS OLIVEIRA MAGALHÃES (Fabio Fonseca);AGRÍCOLA;;;Ind - fabio - maria madalena;INATIVO;OUTRO PROJETISTA - RATING B;CAIXA;;16-Nov;;;
+SICOOB;GO;;;;José Ricardo;VINICIUS OLIVEIRA MAGALHÃES (Fabio Fonseca);AGR/PEC;; R$ 470.000,00 ;Invest. Maq; OPERAÇÃO CONCLUÍDA ;CÉDULA MAQ - 13/12 ;SICOOB;;13-Dec;;;
+CAIXA;PSO;;Eloisa;Kaique;Thiago;VIVIANE RODRIGUES SIQUEIRA;AGRÍCOLA;; R$ 3.674.550,00 ;Invest. Máq; OPERAÇÃO CONCLUÍDA ; 1º Primeira parcela 06/07/23 ;CAIXA; Aprovado Custeio R$4MM | Invest R$ 800.000 Parcela ;JUL;06/07/30;Hip. 1º grau - M:95;
+CAIXA;PSO;;Eloisa;Kaique;Thiago;VIVIANE RODRIGUES SIQUEIRA;AGRÍCOLA;;;Custeio Agrícola; OPERAÇÃO CONCLUÍDA ;PAGO;CAIXA;Aprovado Custeio R$ 13,8MM | Invest R$ 6MM;ABR;02/04/2023;Hip. 2º grau - M:95;
+CAIXA;PSO;;Eloisa;Kaique;Thiago;VIVIANE RODRIGUES SIQUEIRA;AGRÍCOLA;; R$ 6.745.722,00 ;Custeio Agrícola; OPERAÇÃO CONCLUÍDA ;;CAIXA;Aprovado Custeio R$ 13,8MM | Invest R$ 6MM;MAI;19/05/2024;Hip. 2º grau - M:95;
+CAIXA;PSO;;Eloisa;Kaique;Thiago;VIVIANE RODRIGUES SIQUEIRA;AGRÍCOLA;; R$ 3.800.000,00 ;Investimento; OPERAÇÃO CONCLUÍDA ;1º Parcela 23/10/2025;CAIXA;Aprovado Custeio R$ 13,8MM | Invest R$ 6MM;OUT;23/10/2030;Hip 3º grau Faz Nova Fronteir, M:95;
+SICREDI;PSO;;Paulo;;Romulo;VIVIANE RODRIGUES SIQUEIRA;AGRÍCOLA;;; Tia do Felipe ;ATUALIZADO ;Falta ATA | Limite enviado 14/04;Enviado 11/08; Aprovado Custeio R$ 300.000 Hipoteca| Invest R$ 150.000 ;04-May;;;
+SICREDI;PSO;;;;Romulo;VLADEMIR COMIN;AGR/PEC;; R$ 846.833,36 ;Invest. FNO; OPERAÇÃO CONCLUÍDA ;1º Parcela 10/06/2024;Enviado 07/10;Aprovado Custeio R$ 980.000 | CPR R$ 300.000 | Invest R$ 315.000 Garantia real ou maq;JUN;10/06/30;Penhor Maq;
+SICREDI;PSO;;;;Romulo;VLADEMIR COMIN;AGR/PEC;; R$ 324.000,00 ; Invest. 5 anos  ; OPERAÇÃO CONCLUÍDA ;Maquinário;Enviado 07/10;;JUN;29/06/2025;Penhor Maq;
+SICREDI;PSO;;;;Romulo;VLADEMIR COMIN;AGR/PEC;; R$ 274.550,00 ; Invest. BNDES ; OPERAÇÃO CONCLUÍDA ;Maquinário;Enviado 07/10;;JUL;15/07/2027;Penhor Maq;
+SICREDI;PSO;;;;Romulo;VLADEMIR COMIN;AGR/PEC;; R$ 550.000,00 ;Custeio Agrícola; OPERAÇÃO CONCLUÍDA ;;Enviado 07/10;Aprovado Custeio R$ 550.000;ABR;30/04/2022;Penhor;
+SICREDI;PSO;;;;Romulo;VLADEMIR COMIN;AGR/PEC;; R$ 1.000.000,00 ;Custeio Agrícola; OPERAÇÃO CONCLUÍDA ;PAGO;Enviado 07/10;Aprovado Custeio R$ 980.000 | CPR R$ 300.000 | Invest R$ 315.000 Garantia real ou maq;ABR;16/04/2023;Penhor Grãos + Alienação colheitadeira John Deere  2013;
+SICREDI;PSO;Thais;Wendell;Wendell;Romulo;VLADEMIR COMIN;AGR/PEC;; R$ 1.000.000,00 ;Custeio Agrícola;CANCELADO;Garantia;Enviado 07/10;Limite enviado 19/06;31-Jul;;;
+SICREDI;PSO;Thais;Wendell;;Romulo;VLADEMIR COMIN;AGR/PEC;;;;ATUALIZADO ;Rating A;Enviado 07/10;Limite enviado 19/06;20-Oct;;;
+CAIXA;PSO;Julia;Geslaine;Laila;Thiago;WALDIR WILTON RODRIGUES;AGRÍCOLA;;;;INATIVO;Rating A;CAIXA;Aprovado Custeio R$6,6MM |Invest R$ 1,2MM Parcela;04-Aug;;; Acordado 1,5% operações de Invest. 
+CAIXA;PSO;;Geslaine;Eloisa;Thiago;WALTER PAIVA DE ARAÚJO (Parente Fernando e Marcos);PECUÁRIA ;; R$ 1.300.000,00 ;Custeio Pecuário;FAZER PROJETO;;CAIXA;Aprovado Custeio R$3,8MM |Invest R$ 314K Parcela;18-Dec;;;
+SICREDI;PSO;;;;Romulo;WALTER STEFFANO ;PECUÁRIA ;;;Ind. Magno;PROSPECT;;;;07-Feb;;;
+SICREDI;PSO;;;;Romulo;WANDERSON DE OLIVEIRA;PECUÁRIA ;;;Baixo 2;FALTA DOC;Falta balanço perguntado;Enviado 16/12;Limite enviado 16/12 | Reenviado 09/03;01-Sep;;;
+SICREDI;PSO;;;;Romulo;WELLINGTON PEREIRA;PECUÁRIA ;;;;ATUALIZADO ; GN informou não irá atender o cliente ;Enviado 22/10; Limite enviado 11/05 ;11-May;;; Aprovado custeio R$ 40.000 | Garantia Real 
+SICREDI;PSO;;Paulo;;Romulo;WEMERSON GOMES PEREIRA;PECUÁRIA ;;;;ATUALIZADO ;;Feito 25/05; Limite enviado 25/05 ;27-Dec;;; Aprovado R$ 170.000 custeio|R$ 90.000 Invest  
+CAIXA;Gurupí;Julia;Eloisa;Kaique;Josué;WESTER RENER DE OLIVEIRA SOUSA;PECUÁRIA ;; R$ 1.082.920,00 ;Investimento; OPERAÇÃO CONCLUÍDA ;1º Parcela 21/10/2023;CAIXA;Aprovado Custeio R$ 5,2 MM | Invest R$ 1,4 MM;OUT;21/10/2028;Hip 4º grau - Leilão Divinópolis -M: 446;
+CAIXA;Gurupí;Julia;Eloisa;Kaique;Josué;WESTER RENER DE OLIVEIRA SOUSA;PECUÁRIA ;; R$ 1.475.040,00 ;Custeio Pecuário; OPERAÇÃO CONCLUÍDA ;Rating C;CAIXA;Aprovado Custeio R$ 5,2 MM | Invest R$ 1,4 MM;AGO;09/08/2024;Hip 3º grau - Leilão Divinópolis -M: 446;
+CAIXA;PSO;Julia;Paulo;Eloisa;Thiago;WESTER RENER DE OLIVEIRA SOUSA;PECUÁRIA ;; R$ 2.991.600,00 ;Custeio Pecuário; OPERAÇÃO CONCLUÍDA ;;CAIXA;Aprovado Custeio R$7,1MM | Invest R$ 1,1MM;AGO;14/08/2025;Hip. 1º grau -  Faz Pimentinha leilões -M: 23182;
+CAIXA;PSO;Julia;Paulo;Eloisa;Thiago;WESTER RENER DE OLIVEIRA SOUSA;PECUÁRIA ;; R$ 2.490.792,00 ;Investimento; OPERAÇÃO CONCLUÍDA ;1º Parcela 22/09/2025;CAIXA;Aprovado Custeio R$7,1MM | Invest R$ 1,1MM;SET;22/09/2033;Hip. 2º grau - Faz Pimentinha leilões - M: 23182;
+SICREDI;PSO;Julia;Paulo;;Romulo;WESTER RENER DE OLIVEIRA SOUSA;PECUÁRIA ;; R$ 500.000,00 ;Custeio Pecuário; OPERAÇÃO CONCLUÍDA ;;Enviado 01/06;;MAI;29/05/2025;Penhor;
+CAIXA;PSO;Julia;Paulo;Eloisa;Thiago;WESTER RENER DE OLIVEIRA SOUSA;PECUÁRIA ;; R$ 1.965.100,00 ;Investimento; OPERAÇÃO CONCLUÍDA ;1º Parcela 21/11/2025;CAIXA;Aprovado Custeio R$7,1MM | Invest R$ 1,1MM;SET;21/11/2031;Hip. 3º grau - Faz Pimentinha leilões - M: 23182;
+SICREDI;PSO;Julia;Paulo;;Romulo;WESTER RENER DE OLIVEIRA SOUSA;PECUÁRIA ;; R$ 200.000,00 ;FNO Animais ; FAZER PROJETO ;;Enviado 01/06;;18-Dec;;;
+SICOOB UNICENTRO;Palmas;;Paulo;;Diego;WILLIAN DALLA CORT;AGRÍCOLA;;;;COBRAR GN;Limite enviado 09/05;SICOOB;Aprovado Custeio R$10MM | Invest R$ 10MM Garant Real;09-May;;;
+SICREDI;PSO;;;;Romulo;WILMA LUCIA MARQUES ROCHA;PECUÁRIA ;; R$ 180.000,00 ; Custeio Pecuário ; OPERAÇÃO CONCLUÍDA ;PAGO;;;JAN;16/01/2023;Hipoteca: 2º grau M-16.983;
+SICREDI;PSO;;;Eloisa;Romulo;WILMA LUCIA MARQUES ROCHA;PECUÁRIA ;;;;CRÉDITO APROVADO;;Enviado 13/12;Aprovado Custeio R$ 1MM | Invest R$ 700.000 | Livre R$ 500.000;20-Oct;;;
+CAIXA;Palmas;;;;Jovane;WILSON ANTONIO MENEZES (Agromaq tratores);PECUÁRIA ;;;Ind. Denilson; PROCESSO PARADO ;FALTA ITR + CAR;;Rating B;11-May;;;
+CAIXA;PSO;;;;Thiago;WISNEY MOISES DE RESENDE;AGRÍCOLA;;;Ind Felipe;CONSULTAR CPF;Restrição;CAIXA;;28-Dec;;;
+SICREDI;PSO;;;;Dijelaine;ZACARIAS AZEVEDO JUNIOR;PECUÁRIA ;;;; CRÉDITO APROVADO ; Não possui licença ambiental, cliente sem interesse em mexer com sicredi (chateado com romulo) e so mexe com BASA e possui outro projetista p lá ;; Aprovado Custeio R$ 1MM | Invest R$400.000 garantia real ;19-Jun;;;
+SICOOB TOCANTINS;PSO;;Geslaine;Wendell;Thiago;MAGNO SIQUEIRA SOUSA;PECUÁRIA ;; R$ 400.000,00 ;Custeio Pecuário; OPERAÇÃO CONCLUÍDA ;;SICOOB;;NOV;28/11/2025;Hip 3º grau - Fazenda Vaca Boa M: 809;
+SICREDI;PSO;;;Geslaine;Romulo;RENATO COELHO VERAS (RENAH);PECUÁRIA ;; R$ 500.000,00 ;CPR; FAZER PROJETO ;;Enviado 07/03 ;;27-Dec;;;
+SICREDI;PSO;;;Geslaine;Romulo;JAKSON DE SOUSA LIMA;PECUÁRIA ;; R$ 200.000,00 ; CPR ;PROCESSO NO BANCO;PROTEC AGRO 26/12;Enviado 22/10;;27-Dec;02/11/23;Alienação: M-4905;
+CAIXA;PSO;Alexandre;Julia;Pedro;Thiago;AMADOR MARTINS RIBEIRO;PECUÁRIA ;; R$ 1.032.000,00 ;Investimento;FAZER PROJETO;;CAIXA;;02-Jan;;;
