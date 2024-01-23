@@ -87,4 +87,4 @@ class defaultAdmin(admin.ModelAdmin):
         "updated_at",
     )
     date_hierarchy = "created_at"
-    ordering = ("name",)
+    ordering = ("name", "client")

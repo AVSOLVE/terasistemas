@@ -129,17 +129,17 @@ class Process(BaseModel):
     doc_analyst = models.ForeignKey(
         DocAnalyst,
         on_delete=models.PROTECT,
-        verbose_name="Analista Documental",
+        verbose_name="Analista",
     )
     credit_analyst = models.ForeignKey(
         CreditAnalyst,
         on_delete=models.PROTECT,
-        verbose_name="Analista de Crédito",
+        verbose_name="Analista de Limite",
     )
     planner = models.ForeignKey(
         Planner,
         on_delete=models.PROTECT,
-        verbose_name="Planejador",
+        verbose_name="Projetista",
     )
     bank_manager = models.ForeignKey(
         BankManager,
@@ -154,7 +154,7 @@ class Process(BaseModel):
     business = models.ForeignKey(
         Business,
         on_delete=models.PROTECT,
-        verbose_name="Negócio",
+        verbose_name="Atividade",
     )
     available_credit = models.DecimalField(
         verbose_name="Crédito Disponível",
