@@ -80,6 +80,7 @@ class defaultAdmin(admin.ModelAdmin):
     raw_id_fields = ("client",)
     search_fields = ("client__name",)
     list_filter = (
+        "client",
         "client_status",
         "bank",
         "credit_analyst",
